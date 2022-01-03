@@ -1,0 +1,1 @@
+# dinding.partisi.co.id
