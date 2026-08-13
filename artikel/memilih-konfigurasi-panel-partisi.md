@@ -2,8 +2,9 @@
 article_id: PAR-03-02
 title: "Memilih Konfigurasi Panel dari Cara Ruang Akan Diubah"
 slug: "memilih-konfigurasi-panel-partisi"
-description: "Match opening pattern, labor, parking, junctions, speed and flexibility to configuration"
-status: outline
+description: "Panduan mencocokkan pola bukaan, tenaga operasi, sambungan, kecepatan, dan fleksibilitas panel"
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2025-07-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -35,37 +36,8 @@ sources:
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Memilih Konfigurasi Panel dari Cara Ruang Akan Diubah
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Memilih Konfigurasi Panel dari Cara Ruang Akan Diubah”
-- **Reader and situation:** Designer comparing paired, individual or continuously hinged panels
-- **Reader outcome:** Match opening pattern, labor, parking, junctions, speed and flexibility to configuration
-- **Primary intent:** Select a movement configuration
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Sobat Partisi.co.id`
-- **Natural variants:** `Kawan Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not lay out a parking pocket; PAR-08-02 owns parking geometry
-- **Final public route:** `/artikel/memilih-konfigurasi-panel-partisi.html`
-- **Appointed CMS date:** `2025-07-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih Konfigurasi Panel dari Cara Ruang Akan Diubah**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Partisi.co.id`, `Kawan Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,158 +48,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+Halo, Sobat Partisi.co.id! Konfigurasi panel sebaiknya dipilih dari cara ruang akan dibuka, ditutup, dan dipakai ulang—bukan dari jumlah panel atau label “peredam” semata. Untuk bukaan yang sering berubah dan memiliki ruang parkir panel yang sudah dikoordinasikan, konfigurasi panel berpasangan dapat menjadi kandidat. Ruang yang dibagi menjadi beberapa bukaan mandiri dapat lebih cocok daripada konfigurasi kontinu bila setiap segmen harus dioperasikan sendiri. Panel berengsel kontinu dapat dipertimbangkan saat perubahan tata letak terjadi berurutan sepanjang satu garis dan pengoperasian manual tetap terkendali.
 
-## Evidence packet
+Jawaban itu masih bersyarat. Arah gerak, lokasi sambungan, beban pintu, jalur pengguna, ruang untuk parkir panel, serta kebutuhan akustik dan keselamatan harus digambar dan disetujui. [NEEDS DATA PROYEK: pola bukaan, ukuran ruang, beban operasi, dan batas jalur evakuasi belum tersedia.] PP No. 16 Tahun 2021 menempatkan perubahan bangunan dalam kerangka keselamatan, kesehatan, kenyamanan, kemudahan, fungsi, dokumentasi, dan penggunaan; label produk saja tidak membuktikan kepatuhan ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [teks lengkap PDF](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)).
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-05
-
-- **Original sources:** [ISO 4586-1:2018 overview of the HPL series](https://www.iso.org/standard/72959.html), [ISO 4586-3:2018 thin HPL for bonding to a support](https://www.iso.org/standard/72961.html), [ISO 4586-4:2018 interior compact laminate](https://www.iso.org/standard/72962.html), [Knauf drywall systems overview](https://knauf.com/en-EG/systems/drywall-systems)
-- **Purpose for this article:** Prevent the catalog from treating HPL, compact laminate, gypsum board, framing, and a complete partition as synonyms.
-- **Safe grounded facts:** A decorative laminate sheet, a self-supporting compact panel, a composite panel, and an installed cubicle are different objects. Likewise, board type does not establish stud size, height capacity, impact resistance, acoustic performance, fire performance, or suitability around services.
-- **Limits:** ISO abstracts do not expose classifications or test values. Named manufacturer configurations are not universal and must be matched to locally supplied documents; resolve `G-05`.
-
-### KR-12
-
-- **Original sources:** [SNI 03-6386-2000 acoustic design recommendation — BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2:2021 airborne sound-insulation laboratory method](https://www.iso.org/standard/79487.html), [ASTM E90 scope and laboratory/field limits](https://store.astm.org/e0090-23.html), [ASTM E336-24 field measurement between rooms](https://store.astm.org/e0336-24.html)
-- **Purpose for this article:** Prevent STC/Rw or “soundproof” claims from a material, panel, or laboratory specimen being presented as installed room performance.
-- **Safe grounded facts:** Laboratory and field quantities are different. Perimeters, doors, seals, head voids, ceilings, ducts, penetrations, junctions, workmanship, and adjacent structure can reduce achieved isolation. A test method does not prove a specific product passed or that the installed room will match.
-- **Limits:** Obtain full standards, complete current test reports, project acoustic criteria, junction design, and field-test plan where required. Resolve `G-08`.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-11
-
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
-
-### KR-20
-
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-03-01` → `/artikel/label-tipe-partisi-menjadi-spesifikasi.html` — Standar, Semi Peredam, Full Peredam, dan Custom: Ubah Label menjadi Spesifikasi
-- `PAR-03-03` → `/artikel/memilih-tingkat-privasi-partisi.html` — Memilih Tingkat Privasi tanpa Terjebak Kata “Kedap Suara”
-- `PAR-03-04` → `/artikel/manual-semi-otomatis-atau-otomatis-partisi.html` — Manual, Semi-Otomatis, atau Otomatis: Menilai Bantuan Pengoperasian
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; ini bukan dokumentasi proyek tertentu.*
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Konfigurasi Panel dari Cara Ruang Akan Diubah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari adalah satu konfigurasi yang dapat dijelaskan dengan kalimat operasional: “Saat ruang dibuka, panel bergerak ke arah ini; saat ditutup, sambungan dan akses tetap dapat diperiksa.” Pemilik fungsi ruang menetapkan frekuensi perubahan dan prioritasnya. Perancang menguji alternatif pada denah, sedangkan pemasok atau kontraktor mengonfirmasi konfigurasi produk, detail sambungan, dan kebutuhan perawatan. Persetujuan keselamatan, aksesibilitas, kebakaran, dan struktur tetap berada pada pihak profesional yang berwenang.
 
-## Langkah 1 — tetapkan scope
+Siapkan denah terkini, tinggi bersih, posisi kolom dan balok, plafon, lantai, pintu, jalur utilitas, pola pengguna, serta jadwal pemakaian. Tandai juga apakah panel akan dibuka setiap hari, hanya saat acara, atau hampir tidak pernah. Data ini lebih berguna daripada meminta “harga per meter” sebelum fungsi gerak dipahami.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Konfigurasi Panel dari Cara Ruang Akan Diubah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan lingkup
+
+Bandingkan tiga keluarga gerak sebagai kandidat, bukan sebagai istilah yang otomatis mewakili semua produk. Panel berpasangan menggabungkan dua panel dalam satu urutan pembukaan; sambungannya tetap harus dicocokkan dengan gambar sistem. Panel individual memberi kendali per segmen, tetapi urutan operasi dan kebutuhan operator perlu diuji. Panel berengsel kontinu mengikuti urutan sepanjang garis, sehingga perubahan parsial perlu diperiksa agar tidak memaksa panel atau engsel di luar rancangan.
+
+Scope artikel ini berhenti pada pemilihan konfigurasi dan antarmuka awal: pola bukaan, tenaga kerja, sambungan, kecepatan, fleksibilitas, dan hubungan dengan ruang parkir. Detail geometri kantong parkir bukan bagian halaman ini dan harus dikoordinasikan di pekerjaan khususnya. Jangan menyimpulkan ketebalan, kapasitas tinggi, rating api, atau ukuran bukaan tanpa gambar produk dan tinjauan proyek; jenis lembar dekoratif, compact laminate, papan, rangka, dan sistem partisi terpasang adalah objek berbeda ([ISO 4586-1](https://www.iso.org/standard/72959.html), [ISO 4586-3](https://www.iso.org/standard/72961.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [Knauf drywall systems](https://knauf.com/en-EG/systems/drywall-systems)). Untuk konteks penggunaan, lihat [contoh halaman partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) tanpa menganggapnya sebagai spesifikasi proyek Anda.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Konfigurasi Panel dari Cara Ruang Akan Diubah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan matriks sederhana berikut sebelum memilih:
+
+| Pertanyaan | Jika jawabannya “ya” | Konsekuensi yang perlu diuji |
+|---|---|---|
+| Bukaan sering berubah dan harus cepat? | Pertimbangkan pasangan atau konfigurasi dengan operasi singkat. | Hitung urutan gerak, jumlah operator, dan titik berhenti; jangan menjanjikan waktu tanpa data. |
+| Setiap segmen harus mandiri? | Panel individual lebih mudah ditelusuri. | Pastikan sambungan, penguncian, dan ruang manuver tidak bertabrakan. |
+| Perubahan berlangsung sepanjang satu garis? | Engsel kontinu dapat menyederhanakan urutan. | Periksa beban lokal, kelurusan, dan akses pemeriksaan. |
+| Ada pintu atau jalur keluar? | Perlakukan pintu sebagai bagian dari sistem. | Bingkai, ambang, perangkat keras, segel, ayunan, dan bukaan bebas perlu bukti terpisah; status dinding berperingkat tidak otomatis berlaku pada pintunya ([SNI 03-1746-2000](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002)). |
+
+Untuk akustik, minta kriteria ruang dan detail keliling, bukan hanya angka brosur. Metode laboratorium dan pengukuran lapangan berbeda; celah kepala, pintu, segel, penetrasi, plafon, ducting, sambungan, dan mutu pemasangan dapat menurunkan isolasi ([ISO 10140-2](https://www.iso.org/standard/79487.html), [ASTM E90](https://store.astm.org/e0090-23.html), [ASTM E336](https://store.astm.org/e0336-24.html), [SNI 03-6386-2000](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000)). [NEEDS BUKTI AKUSTIK: kriteria proyek, laporan uji sistem lengkap, dan rencana uji lapangan.] Untuk aksesibilitas, nilai rute dan cara pakai sebagai satu kesatuan; posisi partisi, ayunan pintu, ruang pendekatan, privasi, dan perlengkapan saling memengaruhi ([Permen PUPR 14/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [teks peraturan PDF](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)).
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Konfigurasi Panel dari Cara Ruang Akan Diubah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari skenario penggunaan, bukan katalog. Gambar posisi tertutup, posisi terbuka, dan satu kondisi antara. Beri nomor panel sesuai urutan operasi. Catat siapa yang mengoperasikan, apakah kedua tangan diperlukan, dan apakah furnitur harus dipindahkan. Lalu cocokkan setiap sambungan dengan kebutuhan: sambungan tetap untuk garis yang jarang berubah, sambungan yang dapat dibuka untuk perubahan parsial, dan detail pintu yang memungkinkan inspeksi tanpa membongkar panel lain.
 
-## Hold point dan kondisi berhenti
+Uji tiga ukuran keputusan: tenaga kerja (berapa orang dan langkah), parkir (ke mana panel pergi tanpa menghalangi jalur), dan kecepatan (berapa banyak gerakan sebelum ruang siap). Jangan mengisi ukuran parkir di halaman ini; cukup tandai antarmuka dan serahkan geometrinya kepada perancang terkait. Sistem operabel pabrikan pun harus dibaca sebagai konfigurasi tertentu, bukan izin menggeneralisasi semua panel ([Modernfold operable-partition overview](https://www.modernfold.com/en-US/products/operable-partitions)). Setelah itu, minta pemasok menunjukkan konfigurasi persis, daftar komponen, batas operasi, serta prosedur pembersihan dan pemeriksaan. Panduan pemeliharaan hanya berlaku untuk produk yang disebut, bukan semua sistem ([Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/)).
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Konfigurasi Panel dari Cara Ruang Akan Diubah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Partisi.co.id, bila ruang harus berubah cepat tetapi operator berganti-ganti, pilih rancangan yang paling mudah dipahami dan diawasi, bukan yang paling banyak fitur. Buat kartu operasi singkat, tandai posisi berhenti, dan simpan foto kondisi awal pada dokumen serah terima. Jangan mengubah engsel, rel, atau segel di lapangan tanpa persetujuan sistem.
 
-## Verifikasi hasil dan handover
+## Titik henti dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Konfigurasi Panel dari Cara Ruang Akan Diubah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan pemilihan ketika denah belum menunjukkan jalur keluar, pintu, plafon, utilitas, atau titik sambungan. Berhenti pula jika pemasok hanya memberi nama bahan tanpa gambar sistem, manual operasi, bukti uji yang relevan, atau batas penggunaan. [NEEDS REVIEW PROFESIONAL: verifikasi struktur, kebakaran, aksesibilitas, dan perubahan bangunan sebelum pengadaan.] Klaim “kedap suara”, “tahan api”, kapasitas, garansi, atau kepatuhan harus ditunda sampai bukti proyek dan produk lengkap.
 
-## Objection or shortcut to address
+## Verifikasi hasil dan serah terima
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Pada penerimaan, cocokkan nomor panel dan arah gerak dengan gambar yang disetujui. Periksa bahwa panel dapat dibuka dan ditutup tanpa benturan, sambungan rapat sesuai detail, pintu dan perangkat keras berfungsi, serta jalur pengguna tetap jelas. Rekam kondisi awal, dokumen produk, batas pembersihan, daftar suku cadang, dan nama pihak yang menyetujui perubahan. Jika muncul panel mengikat, retak, longgar, korosi, rembesan, jamur, atau segel gagal, cari sumber gerak, air, benturan, pemasangan, atau interaksi bangunan sebelum melakukan perbaikan kosmetik; panduan kelembapan EPA menekankan pengendalian sumber air sebagai bagian pemeliharaan ([EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)). Daftar pemeliharaan sistem pasif di BSN dapat menjadi rujukan status, bukan jadwal universal ([daftar SNI sistem pasif](https://pesta.bsn.go.id/produk/by_ics/126)).
 
-## Required conclusion
+## Jalan pintas yang sering menggoda
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintasnya adalah memilih konfigurasi dari foto atau label “semi peredam”, lalu menyesuaikan ruang setelah barang tiba. Cara ini gagal karena gambar tidak memperlihatkan beban lokal, ruang parkir, sambungan, celah keliling, atau urutan operator. Alternatif yang lebih aman adalah membuat satu lembar skenario buka-tutup, meminta gambar sistem dan bukti yang benar-benar berlaku untuk konfigurasi tersebut, lalu memperoleh persetujuan profesional untuk antarmuka keselamatan dan akses.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Pilih panel berpasangan bila pola buka-tutup berulang dan terkoordinasi; pilih panel individual bila segmen harus mandiri; pilih engsel kontinu bila perubahan mengikuti satu garis dan urutannya dapat dikendalikan. Keputusan berubah bila jalur keluar, pintu, akustik, utilitas, tenaga operator, atau ruang parkir tidak mendukungnya.
+
+Langkah Anda berikutnya: tandai tiga posisi—tertutup, terbuka, dan antara—pada denah, lalu kirim bersama pola pemakaian dan daftar bukti kepada perancang atau pemasok. Teman Partisi.co.id, jangan menyetujui konfigurasi hanya dari nama bahan atau janji performa. Aturan operasinya sederhana: konfigurasi belum final sebelum gerak, sambungan, keselamatan, dan pemeliharaan dapat ditunjukkan pada gambar serta diverifikasi pihak berwenang.

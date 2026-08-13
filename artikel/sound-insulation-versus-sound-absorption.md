@@ -2,8 +2,9 @@
 article_id: PAR-06-01
 title: "Sound Insulation Bukan Sound Absorption: Bedanya pada Partisi"
 slug: "sound-insulation-versus-sound-absorption"
-description: "Explain transmission, reflection, absorption, reverberation, speech privacy and system leakage"
-status: outline
+description: "Memahami beda isolasi dan penyerapan suara pada partisi agar pilihan sistem, pemeriksaan kebocoran, dan target privasi percakapan tidak tertukar."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-19"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,58 +19,20 @@ sources:
   - "https://www.iso.org/standard/79487.html"
   - "https://store.astm.org/e0090-23.html"
   - "https://store.astm.org/e0336-24.html"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
   - "https://store.astm.org/e0557-12r26.html"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
-  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Sound Insulation Bukan Sound Absorption: Bedanya pada Partisi
 
-## Assignment lock
+Halo, Kawan Partisi.co.id! Saat calon pengguna meminta “partisi peredam”, ia bisa sedang membicarakan dua kebutuhan yang berbeda: menahan suara agar tidak menyeberang ke ruang sebelah, atau mengurangi pantulan suara di dalam ruang. Keduanya memengaruhi kenyamanan, tetapi cara kerja dan pemeriksaannya tidak sama.
 
-- **Writer task:** Expand this file into one complete article answering: “Sound Insulation Bukan Sound Absorption: Bedanya pada Partisi”
-- **Reader and situation:** Buyer using “peredam” ambiguously
-- **Reader outcome:** Explain transmission, reflection, absorption, reverberation, speech privacy and system leakage
-- **Primary intent:** Distinguish two acoustic functions
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Kawan Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not promise a rating; PAR-06-02 owns reports and PAR-06-03 owns privacy targets
-- **Final public route:** `/artikel/sound-insulation-versus-sound-absorption.html`
-- **Appointed CMS date:** `2025-09-19` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: isolasi suara (*sound insulation*) adalah pengurangan perpindahan bunyi antarruang, sedangkan penyerapan suara (*sound absorption*) adalah pengurangan energi bunyi yang memantul di ruang yang sama. Panel berpori dapat membantu meredam gema, tetapi itu tidak otomatis membuat percakapan di balik partisi menjadi tidak terdengar. Sebaliknya, partisi yang menahan transmisi bisa tetap membuat ruang keras dan bergema jika permukaannya banyak memantulkan bunyi.
 
-## Opening instructions
+Yang dapat mengubah keputusan adalah kondisi sistem terpasang: sambungan tepi, pintu, celah di atas plafon, saluran, penetrasi, dan struktur yang bersebelahan. Metode laboratorium dan pengukuran lapangan juga menjawab pertanyaan berbeda, sehingga angka dari contoh uji tidak boleh diperlakukan sebagai janji untuk ruangan Anda. [NEEDS PROJECT ACOUSTIC CRITERIA AND FIELD-TEST PLAN: G-08]
 
-- Open with the exact short salutation: **“Halo, Kawan Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Sound Insulation Bukan Sound Absorption: Bedanya pada Partisi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Partisi.co.id`, `Sobat Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -80,157 +43,86 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ilustrasi umum dari aset lokal Partisi.co.id; bukan dokumentasi proyek tertentu.
 
-### KR-01
+Sebelum memilih material, tetapkan dulu pertanyaan yang ingin dijawab oleh partisi. Bagian berikut memisahkan istilahnya agar Anda tidak membayar solusi untuk masalah yang berbeda.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+## Apa beda sound insulation dan sound absorption pada partisi?
 
-### KR-12
+Istilah ini sering diterjemahkan sama-sama sebagai “peredam”, padahal objek yang dikendalikan berbeda. Isolasi suara (*sound insulation*) mengurangi energi bunyi yang berpindah dari ruang sumber ke ruang penerima. Penilaiannya melihat pemisahan antarruang dan seluruh jalur yang mungkin dilalui suara.
 
-- **Original sources:** [SNI 03-6386-2000 acoustic design recommendation — BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2:2021 airborne sound-insulation laboratory method](https://www.iso.org/standard/79487.html), [ASTM E90 scope and laboratory/field limits](https://store.astm.org/e0090-23.html), [ASTM E336-24 field measurement between rooms](https://store.astm.org/e0336-24.html)
-- **Purpose for this article:** Prevent STC/Rw or “soundproof” claims from a material, panel, or laboratory specimen being presented as installed room performance.
-- **Safe grounded facts:** Laboratory and field quantities are different. Perimeters, doors, seals, head voids, ceilings, ducts, penetrations, junctions, workmanship, and adjacent structure can reduce achieved isolation. A test method does not prove a specific product passed or that the installed room will match.
-- **Limits:** Obtain full standards, complete current test reports, project acoustic criteria, junction design, and field-test plan where required. Resolve `G-08`.
+Penyerapan suara (*sound absorption*) mengurangi bunyi yang dipantulkan kembali oleh permukaan di ruang sumber atau ruang penerima. Bahan penyerap mengubah sebagian energi bunyi menjadi panas dalam struktur material, sehingga waktu dengung (lamanya bunyi bertahan setelah sumber berhenti) dan pantulan dapat berkurang. Fungsi ini membantu kejernihan ucapan, tetapi tidak menutup celah pada partisi.
 
-### KR-13
+SNI 03-6386-2000 ditempatkan sebagai rekomendasi perancangan akustik, sedangkan ISO 10140-2 menjelaskan metode laboratorium untuk mengukur isolasi suara udara pada elemen bangunan. Keduanya memberi kerangka pertanyaan, bukan bukti bahwa satu panel tertentu akan mencapai hasil yang sama di proyek Anda ([BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000); [ISO 10140-2](https://www.iso.org/standard/79487.html)).
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+Gunakan uji sederhana pada istilahnya: jika keluhan utama adalah suara dari ruang sebelah masih terdengar, Anda sedang mencari pengendalian transmisi. Jika keluhannya suara memantul dan ucapan sulit dipahami di ruang sendiri, Anda sedang mencari pengendalian pantulan. Satu proyek bisa memerlukan keduanya, tetapi urutan dan bukti kebutuhannya tetap perlu dipisahkan.
 
-### KR-14
+Setelah fungsi dipisahkan, pembaca biasanya ingin tahu jalur bunyi yang harus ditangani. Jembatan ini penting karena solusi yang hanya menempel pada bidang panel sering melewatkan jalur lain.
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+## Bagaimana suara berpindah, memantul, lalu diserap?
 
-### KR-11
+Bunyi dari sumber menghasilkan gelombang udara. Sebagian energi bertemu partisi dan dipantulkan kembali; sebagian menggetarkan bidang partisi; sebagian lain merambat melalui sambungan atau elemen bangunan di sekitarnya. Isolasi berusaha mengurangi energi yang mencapai ruang penerima melalui rangkaian massa, sambungan, dan pemisahan yang dirancang sebagai satu sistem.
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+Penyerapan bekerja setelah bunyi berada di ruang. Permukaan berpori atau berlapis khusus memberi jalur bagi udara untuk bergerak di pori, lalu mengurangi energi pantulan. Karena mekanismenya berada pada ruang dan permukaan, menambah penyerap di satu sisi partisi tidak otomatis memperbaiki sambungan kepala, pertemuan lantai, atau celah pintu.
 
-### KR-10
+ASTM E90 membedakan pengukuran transmisi suara melalui prosedur laboratorium dari kondisi bangunan nyata. ASTM E336-24 membahas pengukuran lapangan antarruang; hasil lapangan dapat dipengaruhi kebocoran, jalur samping, dan pelaksanaan terpasang ([ASTM E90](https://store.astm.org/e0090-23.html); [ASTM E336-24](https://store.astm.org/e0336-24.html)). Karena itu, istilah seperti STC (kelas transmisi suara) atau Rw (indeks pengurangan bunyi berbobot) harus dibaca bersama jenis benda uji, susunan sistem, dan cara ukurnya—bukan sebagai sifat tunggal sebuah lembar material.
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+Untuk percakapan, konsekuensinya praktis. Ruang dengan pantulan tinggi dapat terdengar bising walaupun suara dari luar cukup terisolasi. Ruang dengan penyerapan baik tetap dapat kehilangan privasi jika ada celah kontinu di tepi partisi. Pisahkan dua gejala ini sebelum menentukan tindakan.
 
-### KR-19
+Mekanisme dasar sudah jelas; sekarang periksa antarmuka yang biasanya menentukan apakah rancangan itu bertahan ketika dipasang dan dipakai.
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
+## Faktor apa yang membuat isolasi suara bocor dari sistem partisi?
 
-## Evidence gates
+Kebocoran pertama sering muncul di perimeter. Pertemuan partisi dengan lantai, dinding, dan plafon harus diperlakukan sebagai bagian dari jalur suara. Ruang plenum, yaitu ruang tersembunyi di atas plafon, sambungan yang tidak rapat, dan penetrasi utilitas dapat menjadi jalan pintas meskipun bidang utama terlihat tertutup. Detail sambungan dan catatan inspeksi perlu tersedia sebelum penutupan, karena bagian tersembunyi sulit diverifikasi setelah selesai.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+Pintu dan pintu lintasan (pass door) juga mengubah sistem. Daun pintu, kusen, ambang, engsel, pengunci (latch), kaca, dan seal atau penutup celah memiliki antarmuka sendiri. Menambahkan satu bukaan berarti menambah titik operasi, perawatan, dan potensi kebocoran; jangan menyimpulkan bahwa kinerja dinding otomatis berlaku untuk pintu yang berbeda.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Pada partisi lipat atau geser, sistemnya bukan panel lepas. Panduan ASTM E557 menempatkan dukungan rel (track), bobot panel, kantong parkir, kerataan lantai, seal, penutup sisi bukaan (jamb), dan cara operasi sebagai bagian dari desain dan pemasangan. Literatur teknis Modernfold dan hub MOVEO dormakaba juga menunjukkan bahwa konfigurasi dan dukungan harus ditentukan untuk sistem yang dinamai, bukan dipindahkan dari brosur ke bangunan lain ([ASTM E557](https://store.astm.org/e0557-12r26.html); [spesifikasi teknis Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true); [hub MOVEO dormakaba](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)).
 
-## Internal-link plan
+Jalur samping melalui struktur yang bersebelahan dan mutu pengerjaan juga penting. Retak, sambungan terputus, pengencang yang berubah, atau material pengisi yang diganti dapat membuat sistem terpasang berbeda dari benda uji. Tidak ada satu angka universal untuk menutup semua kondisi itu; detail harus ditinjau terhadap sistem dan bangunan yang benar-benar dipakai.
 
-### Existing local routes
+Sobat Partisi.co.id, jadikan daftar ini sebagai pertanyaan koordinasi: “Dari sumber ke penerima, jalur mana saja yang tidak melewati bidang utama?” Jika jawabannya belum dipetakan, pembelian panel tambahan masih bersifat tebakan.
 
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Dengan faktor kebocoran di depan mata, pilihan fungsi bisa dibuat lebih sederhana. Bagian ini menerjemahkan keluhan ruang menjadi tindakan awal tanpa menjanjikan rating.
 
-### Planned sibling articles
+## Bagaimana memilih fungsi partisi untuk kebutuhan ruang?
 
-These are future routes. Do not link them as live until their HTML exists.
+Mulailah dari lokasi keluhan. Untuk percakapan yang terdengar dari ruang sebelah, prioritaskan rancangan isolasi antarruang dan minta bukti sistem lengkap serta rencana pemeriksaan lapangan. Untuk gema di ruang yang sama, evaluasi luas dan posisi permukaan penyerap, kemudian dengarkan kembali kejernihan ucapan setelah pemasangan. Jangan menukar urutan ini dengan menambah bahan penyerap pada celah.
 
-- `PAR-06-02` → `/artikel/membaca-laporan-uji-akustik-partisi.html` — Membaca Laporan Uji Akustik Partisi tanpa Salah Menafsirkan Angka dB
-- `PAR-06-03` → `/artikel/target-privasi-percakapan-antar-ruang.html` — Menentukan Target Privasi Percakapan antar Ruang
+| Gejala yang Anda dengar | Fungsi yang sedang dicari | Pertanyaan pemeriksaan |
+| --- | --- | --- |
+| Suara orang atau mesin menyeberang ke ruang sebelah | Isolasi suara | Apakah perimeter, pintu, plafon, utilitas, dan jalur samping masuk dalam detail sistem? |
+| Ucapan memantul dan sulit dipahami di ruang sendiri | Penyerapan suara | Permukaan mana yang memantulkan, dan apakah penyerap ditempatkan untuk mengurangi pantulan itu? |
+| Partisi lipat dibuka-tutup berkala | Isolasi plus keandalan operasi sistem | Siapa menetapkan track, seal, penutup jamb, prosedur operasi, dan pemeliharaan? |
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jika sebuah penawaran hanya menyebut “panel peredam” tanpa menjelaskan fungsi, mintalah penjual menyatakan apakah yang dimaksud penyerapan ruang atau isolasi antarruang. Minta pula jenis benda uji dan batas penerapan datanya. Metode pengujian bukan sertifikat bahwa konfigurasi proyek Anda lulus.
 
-## Jawaban singkat dan salah paham utama
+Teman Partisi.co.id, keputusan yang aman biasanya berbentuk paket dokumen: gambar pertemuan, spesifikasi lapisan, detail pintu dan penetrasi, catatan perubahan, serta rencana uji atau inspeksi yang disetujui tim proyek. Tanpa paket itu, pilihlah bahasa kebutuhan (“mengurangi perpindahan suara” atau “mengurangi gema”), bukan janji hasil.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Sound Insulation Bukan Sound Absorption: Bedanya pada Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pembeli sering ingin jalan cepat: menempel busa pada satu sisi, lalu menganggap privasi selesai. Berikut alasan shortcut itu dapat gagal dan cara mengubahnya menjadi pemeriksaan yang bisa dilakukan.
 
-## Definisi dan batas objek
+## Kesalahan membeli “peredam” dan cara memeriksanya
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Sound Insulation Bukan Sound Absorption: Bedanya pada Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan penyerapan dengan pemblokiran. Tanyakan ruang mana yang menjadi sumber dan penerima, lalu catat apakah masalahnya pantulan atau suara menyeberang. Jika kedua masalah ada, rencanakan dua fungsi secara terpisah dan pastikan setiap bahan punya peran yang jelas.
 
-## Cara kerjanya
+Kesalahan kedua adalah mengutip angka panel sebagai angka ruangan. Minta laporan lengkap yang menyebut susunan benda uji, kondisi laboratorium atau lapangan, serta batas penggunaannya. ISO 10140-2 dan ASTM E90 membahas metode, sedangkan ASTM E336-24 membahas pengukuran lapangan; tidak satu pun dari tautan itu membuktikan produk tertentu lulus atau menjamin ruang Anda menyamai angka uji.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Sound Insulation Bukan Sound Absorption: Bedanya pada Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga adalah mengabaikan detail operasi. Pada sistem bergerak, seal yang tidak menutup, jamb yang tidak terkunci, atau track yang tidak sesuai dapat mengubah fungsi setiap kali partisi dipindahkan. Tetapkan siapa yang memeriksa operasi, kapan seal dibersihkan atau diganti sesuai petunjuk produk, dan bagaimana penyimpangan dicatat. Jangan menyalin interval atau bahan pembersih dari merek lain.
 
-## Faktor yang mengubah hasil
+Kesalahan keempat adalah menutup pekerjaan tanpa rekaman. Foto sebelum penutupan, daftar penetrasi, persetujuan substitusi, dan berita acara pemeriksaan membuat kondisi tersembunyi dapat ditelusuri. Jika dokumen itu belum ada, tandai bagian yang belum terverifikasi dan minta tinjauan teknis sebelum menyatakan fungsi tercapai.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Sound Insulation Bukan Sound Absorption: Bedanya pada Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Langkah berikutnya bukan memilih material paling tebal, melainkan menyusun pertanyaan dan bukti yang tepat untuk ruang Anda. Pertahankan batas ini saat berdiskusi dengan vendor atau konsultan.
 
-## Contoh keputusan praktis
+## Langkah berikutnya untuk memisahkan isolasi dan penyerapan suara
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Sound Insulation Bukan Sound Absorption: Bedanya pada Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sound insulation menahan perpindahan suara antarruang; sound absorption mengurangi pantulan di dalam ruang. Partisi yang baik untuk satu fungsi belum tentu menyelesaikan fungsi lain. Kinerja akhirnya bergantung pada sistem lengkap, antarmuka, cara operasi, dan kondisi bangunan.
 
-## Kesalahan umum dan cara memeriksanya
+Kawan Partisi.co.id, sebelum menyetujui penawaran, minta tiga hal: (1) pernyataan kebutuhan—transmisi, pantulan, atau keduanya; (2) gambar dan spesifikasi semua jalur termasuk pintu, perimeter, plafon, utilitas, dan sambungan; (3) bukti uji atau rencana pemeriksaan yang sesuai dengan sistem terpasang. Bila target privasi atau rating diperlukan, serahkan penetapan kriterianya kepada tenaga teknis yang berwenang dan pertahankan penanda `[NEEDS PROJECT ACOUSTIC CRITERIA AND FIELD-TEST PLAN: G-08]` sampai bukti tersedia.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Sound Insulation Bukan Sound Absorption: Bedanya pada Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebagai langkah awal memahami tipe partisi bergerak, Anda dapat melihat [halaman partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) dan [contoh halaman partisi lipat Tuban](/partisi-lipat-tuban.html); keduanya bukan bukti rating akustik atau hasil uji untuk proyek Anda.
 
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: jangan menyebut “peredam” tanpa menyebut fungsi yang dimaksud, dan jangan mengubah data benda uji menjadi janji untuk ruangan sebelum sistem serta jalur kebocorannya ditinjau.

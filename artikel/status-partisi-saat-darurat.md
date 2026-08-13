@@ -2,8 +2,9 @@
 article_id: PAR-15-06
 title: "Status Partisi saat Darurat: Apa yang Harus Diputuskan sebelum Kejadian"
 slug: "status-partisi-saat-darurat"
-description: "Identify approved room states, exit implications, staff authority, failed power, pass doors, communication and drills"
-status: outline
+description: "Panduan menetapkan status ruang, jalur keluar, kewenangan operator, dan komunikasi partisi sebelum keadaan darurat."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,58 +16,15 @@ final_route: "/artikel/status-partisi-saat-darurat.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
-  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
   - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
   - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
+  - "https://store.astm.org/e0090-23.html"
   - "https://www.modernfold.com/en-US/products/operable-partitions"
   - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
-  - "https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000"
-  - "https://www.iso.org/standard/79487.html"
-  - "https://store.astm.org/e0090-23.html"
-  - "https://store.astm.org/e0336-24.html"
+  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Status Partisi saat Darurat: Apa yang Harus Diputuskan sebelum Kejadian
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Status Partisi saat Darurat: Apa yang Harus Diputuskan sebelum Kejadian”
-- **Reader and situation:** Facility and emergency-planning team
-- **Reader outcome:** Identify approved room states, exit implications, staff authority, failed power, pass doors, communication and drills
-- **Primary intent:** Predefine emergency operating restrictions
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not create an approved emergency plan; PAR-09-04 and site authority own it
-- **Final public route:** `/artikel/status-partisi-saat-darurat.html`
-- **Appointed CMS date:** `2026-05-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Status Partisi saat Darurat: Apa yang Harus Diputuskan sebelum Kejadian**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -77,157 +35,87 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Status Partisi saat Darurat: Apa yang Harus Diputuskan sebelum Kejadian
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Partisi.co.id! Saat alarm berbunyi, pertanyaan “partisi ini bisa dilipat atau tidak?” terlalu sempit. Tim fasilitas perlu sudah menetapkan status setiap ruang: tetap tertutup, dibuka untuk membentuk jalur, dikunci dari pengoperasian, atau dikosongkan sampai diperiksa. Status itu harus menyebut siapa yang berwenang, jalur keluar mana yang dipakai, dan apa yang dilakukan ketika listrik atau kendali tidak tersedia.
 
-### KR-01
+Kesalahpahaman yang sering berbahaya adalah menganggap semua partisi bergerak boleh digeser agar orang cepat keluar. Panel, rel, pintu lintasan (pass door), kunci, segel, dan bukaan di atas plafon dapat mengubah jalur, beban, dan cara ruang berfungsi. Karena itu, keputusan darurat harus berasal dari rencana tapak dan otoritas gedung yang telah disetujui, bukan improvisasi operator. Artikel ini membantu Anda menyiapkan daftar status dan pertanyaan verifikasi; artikel ini bukan rencana keadaan darurat yang disahkan. [NEEDS PROFESSIONAL REVIEW: tetapkan status akhir bersama penanggung jawab keselamatan dan otoritas gedung.]
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-### KR-03
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+## Apa arti “status partisi” dalam keadaan darurat?
 
-### KR-08
+Sebelum memilih prosedur, samakan istilahnya. Status partisi adalah kondisi operasi yang disepakati untuk satu ruang pada situasi tertentu, bukan label material atau janji bahwa sistem aman untuk semua kejadian. Dengan definisi ini, tim dapat membaca denah dan instruksi tanpa menebak.
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Tetapkan sekurang-kurangnya empat status berikut sesuai konfigurasi gedung: **normal**, ketika ruang dipakai sesuai fungsi; **siaga**, ketika pengoperasian dibatasi dan operator memeriksa jalur; **evakuasi**, ketika orang mengikuti rute keluar yang ditetapkan; dan **isolasi sementara**, ketika area tidak boleh dimasuki sampai dinyatakan aman. Nama status boleh berbeda, tetapi arti, pemicu, dan tindakan harus tertulis.
 
-### KR-20
+Status tidak sama dengan “partisi tahan api” atau “kedap suara”. Persyaratan aksesibilitas mengaitkan posisi partisi dengan ayunan pintu, ruang pendekatan, perlengkapan, visibilitas, dan sanitasi sebagai satu rute penggunaan; memenuhi satu ukuran produk tidak membuktikan seluruh rute dapat dipakai ([Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)). Karena itu, denah status harus menunjukkan rute dan pintu yang benar-benar telah ditinjau.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+## Siapa yang boleh mengubah status dan apa batasnya?
 
-### KR-11
+Bagian ini penting karena perintah yang tidak jelas dapat membuat dua orang menggerakkan panel berlawanan arah. Tulis rantai kewenangan sebelum latihan: siapa menerima laporan, siapa mengumumkan status, siapa menghentikan operasi, dan siapa memberi izin pemulihan.
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+Operator boleh melakukan tindakan yang sudah tercantum dalam prosedur dan telah dilatih, misalnya mengamankan area atau mengarahkan penghuni ke rute yang ditandai. Operator tidak boleh mengubah rangka, melepas pengunci, membuka plafon, memperbaiki kaca, atau mengutak-atik sistem bertenaga sebagai “jalan pintas”. Tindakan semacam itu menunggu personel yang ditunjuk dan pemeriksaan profesional.
 
-### KR-14
+Buat kartu kewenangan yang mudah dibaca: pemicu, status tujuan, tindakan yang boleh dilakukan, tindakan terlarang, alat komunikasi, dan nama pengganti bila penanggung jawab tidak hadir. Teman Partisi.co.id, kartu ini sebaiknya berada di titik operasi dan ruang kontrol, bukan hanya tersimpan di berkas pengadaan.
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+## Bagaimana jalur keluar, pintu lintasan, dan partisi bergerak saling terkait?
 
-### KR-12
+Jangan menilai pintu lintasan sebagai lubang tambahan yang otomatis menyelesaikan evakuasi. Penambahan pintu mengubah rangka lokal, ambang, engsel, kait, segel, ruang bebas, privasi, dan kemungkinan fungsi keluar. Standar Nasional Indonesia (SNI) tentang sarana jalan keluar dan metode uji pintu kebakaran perlu dibaca bersama desain sistem yang benar-benar dipasang; label pada dinding tidak otomatis berlaku untuk pintu, kusen, perangkat keras, kaca, atau penetrasinya ([SNI 03-1746-2000](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000); [SNI 03-6766-2002](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002)).
 
-- **Original sources:** [SNI 03-6386-2000 acoustic design recommendation — BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2:2021 airborne sound-insulation laboratory method](https://www.iso.org/standard/79487.html), [ASTM E90 scope and laboratory/field limits](https://store.astm.org/e0090-23.html), [ASTM E336-24 field measurement between rooms](https://store.astm.org/e0336-24.html)
-- **Purpose for this article:** Prevent STC/Rw or “soundproof” claims from a material, panel, or laboratory specimen being presented as installed room performance.
-- **Safe grounded facts:** Laboratory and field quantities are different. Perimeters, doors, seals, head voids, ceilings, ducts, penetrations, junctions, workmanship, and adjacent structure can reduce achieved isolation. A test method does not prove a specific product passed or that the installed room will match.
-- **Limits:** Obtain full standards, complete current test reports, project acoustic criteria, junction design, and field-test plan where required. Resolve `G-08`.
+Untuk setiap status, jawab tiga pertanyaan di denah: apakah pintu menuju rute keluar tetap dapat dibuka tanpa menggerakkan panel; apakah arah bukaan dan ruang pendekatan tetap bebas; dan apakah posisi panel menutup, menyempitkan, atau mengalihkan rute. Jika salah satu jawaban belum dibuktikan pada kondisi nyata, tandai rute itu sebagai belum disetujui, bukan sebagai cadangan otomatis.
 
-## Evidence gates
+Pada dinding yang dapat dipindahkan (dinding operabel), rel, berat panel, kantong parkir, kerataan lantai, segel, penutup tiang sisi kusen (jamb), pintu lintasan, dan frekuensi operasi merupakan satu sistem mekanis. Panduan desain dan pemasangan ASTM E557 (acuan teknis untuk partisi operabel) menekankan koordinasi dukungan dan pemasangan, sementara dokumentasi produsen seperti Modernfold menjelaskan bahwa sistem memerlukan dukungan dan pengoperasian yang sesuai ([ASTM E557-12(2026)](https://store.astm.org/e0557-12r26.html); [Modernfold operable partitions](https://www.modernfold.com/en-US/products/operable-partitions)). Jangan menginstruksikan orang mendorong panel berat ketika rel atau lantai belum dinyatakan layak.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+## Apa yang terjadi bila listrik atau kendali gagal?
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kegagalan daya bukan izin untuk menebak posisi aman. Catat jenis sistem: manual, semiotomatis, atau bertenaga; lokasi pelepas yang sah; dan kondisi yang membuat pelepasan harus dihentikan. Jika informasi ini belum ada pada dokumen serah terima, beri status **tidak boleh dioperasikan** dan minta konfirmasi pemasok atau penanggung jawab teknis.
 
-## Internal-link plan
+Prosedur harus membedakan “berhenti di posisi terakhir” dari “kembali ke posisi aman”. Keduanya adalah keputusan desain, bukan asumsi umum. Tulis pula siapa yang menjaga area agar tidak ada orang masuk ke bawah panel, dekat rel, atau di antara panel ketika daya pulih. Setelah listrik kembali, pemulihan tidak boleh langsung dianggap berhasil; operator perlu melaporkan posisi, bunyi, hambatan, atau pintu yang tidak sejajar untuk diperiksa.
 
-### Existing local routes
+## Bagaimana komunikasi dan latihan membuktikan status itu bisa dijalankan?
 
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Dokumen status baru berguna jika orang dapat mengenalinya dalam tekanan. Gunakan satu format pesan: lokasi, kejadian yang dilihat, status yang diumumkan, rute yang digunakan, dan permintaan bantuan. Hindari kata “aman” tanpa keterangan ruang atau pemeriksa, karena kata itu dapat menghentikan pengawasan terlalu dini.
 
-### Planned sibling articles
+Latihan tidak perlu mengarang skala insiden. Uji skenario terbatas dan terukur: listrik gagal, pintu lintasan tidak sejajar, panel berhenti sebelum posisi parkir, atau rute utama ditutup oleh otoritas. Amati apakah operator tahu kapan berhenti, siapa yang dihubungi, dan bagaimana mencatat status. Catatan latihan harus memisahkan fakta yang terlihat dari dugaan penyebab; gejala seperti pintu seret dapat berasal dari gerakan, fondasi atau pengikat, benturan, korosi, keausan, atau interaksi sistem bangunan. Panduan pemeliharaan segel juga mengingatkan bahwa pemeriksaan dan bahan pembersih berlaku pada produk yang disebut, bukan sebagai aturan universal ([ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide)).
 
-These are future routes. Do not link them as live until their HTML exists.
+## Faktor apa yang dapat mengubah keputusan status?
 
-- `PAR-15-04` → `/artikel/room-changeover-plan-partisi.html` — Room Changeover Plan untuk Ballroom, Aula, dan Venue
-- `PAR-15-05` → `/artikel/pelatihan-operator-partisi.html` — Pelatihan Operator Partisi: Kompetensi yang Perlu Dibuktikan
+Jembatani keputusan dengan kondisi nyata, bukan hanya nama produk. Periksa sedikitnya:
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+- **Pengguna dan rute:** perubahan kapasitas ruang, pengguna dengan kebutuhan akses, pintu yang sedang diperbaiki, atau koridor yang sementara tertutup.
+- **Kondisi sistem:** panel tidak sejajar, rel berbunyi, segel lepas, lantai berubah, kebocoran, atau pengunci tidak bekerja.
+- **Antarmuka bangunan:** plafon, saluran udara (ducting), sprinkler, pencahayaan darurat, kabel, dan bukaan yang dapat terhalang ketika panel berpindah.
+- **Bukti dan kewenangan:** denah revisi, instruksi pemasok, catatan inspeksi, serta persetujuan penanggung jawab keselamatan.
 
-## Jawaban singkat dan salah paham utama
+Perubahan kecil pada satu faktor dapat memindahkan ruang dari “siaga” menjadi “isolasi sementara”. Kawan Partisi.co.id, jangan menghapus penanda hanya karena panel terlihat rapi; minta bukti bahwa penyebab dan dampaknya telah dinilai.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Status Partisi saat Darurat: Apa yang Harus Diputuskan sebelum Kejadian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Contoh keputusan praktis sebelum kejadian
 
-## Definisi dan batas objek
+Bayangkan ruang serbaguna memiliki dinding operabel dan satu pintu lintasan. Dalam status normal, panel boleh dipindahkan oleh operator terlatih. Ketika alarm evakuasi aktif, kartu status dapat menetapkan: hentikan pemindahan panel, arahkan orang ke rute yang sudah ditinjau, dan laporkan apakah pintu lintasan dapat dibuka tanpa memaksa perangkat. Jika pintu macet, operator menutup akses ke titik itu dan mengikuti rute alternatif yang memang telah disahkan; ia tidak melepas kusen atau memotong segel.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Status Partisi saat Darurat: Apa yang Harus Diputuskan sebelum Kejadian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Status Partisi saat Darurat: Apa yang Harus Diputuskan sebelum Kejadian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Status Partisi saat Darurat: Apa yang Harus Diputuskan sebelum Kejadian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Status Partisi saat Darurat: Apa yang Harus Diputuskan sebelum Kejadian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pada skenario listrik gagal tanpa alarm, status siaga dapat memerintahkan penghentian operasi, pemasangan pembatas area, dan panggilan kepada penanggung jawab teknis. Status baru berubah setelah pemeriksaan menyatakan posisi panel dan rute dapat digunakan. Contoh ini sengaja bersyarat: denah, jenis mekanisme, dan keputusan otoritas setempat dapat menghasilkan tindakan berbeda.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Status Partisi saat Darurat: Apa yang Harus Diputuskan sebelum Kejadian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan panel ringan dengan sistem yang boleh dipindahkan siapa saja. Periksa daftar operator terlatih, batas beban, cara parkir, dan kondisi rel dari dokumen sistem.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menempel tanda “EXIT” (keluar) pada pintu yang belum diverifikasi sebagai bagian rute. Cocokkan tanda dengan denah yang disetujui, arah bukaan, ruang pendekatan, dan kondisi ketika partisi berada pada setiap status.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menguji hanya saat listrik normal. Masukkan skenario kehilangan daya dan kegagalan komunikasi ke latihan, lalu catat tindakan berhenti serta jalur eskalasinya.
 
-## Required conclusion
+Kesalahan keempat adalah mengecat atau mengencangkan ulang bagian yang longgar tanpa mencari sebab. Foto, lokasi, waktu, dan gejala perlu dicatat; keputusan membuka, memperbaiki, atau mengubah sistem menunggu tinjauan yang berwenang.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Mengapa “biarkan saja terbuka” bukan rencana darurat?
 
-## Draft completion checklist
+Membiarkan semua partisi terbuka tampak sederhana, tetapi dapat mengubah kompartemen, privasi, akustik, rute, dan posisi panel di area yang justru harus kosong. Klaim akustik laboratorium pun tidak otomatis menjadi kinerja ruang terpasang karena sambungan, pintu, segel, plafon, dan penetrasi dapat mengurangi hasil ([ASTM E90](https://store.astm.org/e0090-23.html), metode uji laboratorium isolasi bunyi). Jika tujuan ruang atau persyaratan keselamatan berubah, mintalah desain dan pemeriksaan proyek, bukan mengandalkan posisi terbuka sebagai solusi serbaguna. [NEEDS PROFESSIONAL REVIEW: verifikasi konfigurasi dan rute spesifik gedung.]
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Langkah penutup yang harus dibawa ke rapat keselamatan
+
+Jawaban atas pertanyaan judulnya adalah: putuskan lebih dulu status ruang, pemicu perpindahan status, jalur keluar, kewenangan operator, perilaku saat daya gagal, penggunaan pintu lintasan, format komunikasi, dan cara pemulihan. Susun satu lembar per ruang yang menghubungkan keputusan itu dengan denah, dokumen sistem, serta hasil latihan.
+
+Teman Partisi.co.id, bawa lembar tersebut kepada penanggung jawab keselamatan, pengelola gedung, dan profesional terkait untuk disetujui. Jika Anda perlu membandingkan jenis sistem partisi lipat yang akan dicatat di denah, gunakan [contoh halaman partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) dan [contoh halaman partisi lipat Tuban](/partisi-lipat-tuban.html) hanya sebagai referensi jenis, bukan bukti kesesuaian darurat. Sampai persetujuan dan bukti pemeriksaan tersedia, aturan operasinya sederhana: hentikan gerakan yang tidak jelas, jaga area tetap terkendali, dan jangan mengubah sistem partisi sebagai pengganti rencana darurat resmi.

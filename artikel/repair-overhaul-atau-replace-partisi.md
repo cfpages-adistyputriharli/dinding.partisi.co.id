@@ -2,8 +2,9 @@
 article_id: PAR-18-05
 title: "Repair, Overhaul, atau Replace: Keputusan untuk Partisi Tua"
 slug: "repair-overhaul-atau-replace-partisi"
-description: "Compare safety, support, performance, parts, downtime, room needs, compliance, service history and total lifecycle cost"
-status: outline
+description: "Panduan menilai partisi tua untuk memilih perbaikan, overhaul, atau penggantian berdasarkan risiko, dukungan, kinerja, waktu henti, dan biaya siklus hidup."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,18 +18,12 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://peraturan.bpk.go.id/Home/Details/216870/permen-pupr-no-9-tahun-2021"
-  - "https://www.iso.org/standard/69370.html"
-  - "https://www.iso.org/standard/87610.html"
-  - "https://www.iso.org/standard/14021.html"
   - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
   - "https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000"
   - "https://www.iso.org/standard/79487.html"
   - "https://store.astm.org/e0090-23.html"
   - "https://store.astm.org/e0336-24.html"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
@@ -37,37 +32,15 @@ sources:
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Kawan Partisi.co.id! Ketika partisi tua mulai macet, retak, longgar, atau suku cadangnya sulit dicari, pilihan repair, overhaul, dan replace sering dianggap sama. Padahal keputusan yang tepat bergantung pada sumber gangguan, dukungan bangunan, kebutuhan ruang, dan bukti bahwa sistem masih dapat dirawat dengan aman.
 
-# Repair, Overhaul, atau Replace: Keputusan untuk Partisi Tua
+Jawaban singkatnya: repair layak bila kerusakan lokal dan penyebabnya jelas; overhaul masuk akal bila banyak komponen aus tetapi sistem dasar dan dukungannya masih dapat diverifikasi; replace lebih aman bila penyebab berulang, suku cadang atau dukungan tidak terlacak, atau kebutuhan ruang dan keselamatan sudah berubah. Kesimpulan itu dapat berubah setelah inspeksi profesional, pemeriksaan struktur dan antarmuka, serta penelusuran material lama. Artikel ini membantu Anda menyiapkan data dan membandingkan konsekuensi, bukan menghitung kapasitas struktur atau memberi persetujuan proyek.
 
-## Assignment lock
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-- **Writer task:** Expand this file into one complete article answering: “Repair, Overhaul, atau Replace: Keputusan untuk Partisi Tua”
-- **Reader and situation:** Owner facing obsolete parts or repeated faults
-- **Reader outcome:** Compare safety, support, performance, parts, downtime, room needs, compliance, service history and total lifecycle cost
-- **Primary intent:** Choose a lifecycle intervention
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Kawan Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not calculate remaining structural capacity; competent professionals own disposition
-- **Final public route:** `/artikel/repair-overhaul-atau-replace-partisi.html`
-- **Appointed CMS date:** `2026-07-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Repair, Overhaul, atau Replace: Keputusan untuk Partisi Tua**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Partisi.co.id`, `Sobat Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -78,158 +51,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Repair, Overhaul, atau Replace: Keputusan untuk Partisi Tua
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+## Tentukan objek, kondisi, dan tahap siklus hidup sebelum memilih tindakan
 
-### KR-01
+Sebelum membahas biaya, pastikan yang dinilai memang satu sistem. Partisi tetap, partisi lipat, dinding bergerak, pintu pass (pintu akses di dalam partisi), rel atas, seal (karet atau perapat), panel, dan sambungan ke lantai atau plafon dapat memiliki penyebab kerusakan berbeda. Kesalahan umum adalah menyebut semua masalah sebagai “panel rusak”, lalu mengganti lapisan yang terlihat tanpa memeriksa rel, angkur, atau bidang penumpunya.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Buat lembar identitas: jenis dan konfigurasi partisi, lokasi, bukaan, akses utilitas, riwayat perubahan ruang, serta siapa yang memasang atau merawatnya. Untuk sistem bergerak, panduan desain dan pemasangan menempatkan dukungan rel, berat panel, kantong penyimpanan, kelurusan lantai, seal, dan penutupan jamb sebagai bagian dari keseluruhan sistem, bukan aksesori terpisah ([ASTM E557](https://store.astm.org/e0557-12r26.html); [dormakaba MOVEO](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)).
 
-### KR-10
+Tanyakan pula tahap siklus hidupnya: masih didukung pabrikan, dirawat dengan komponen yang dapat ditelusuri, atau sudah menjadi rakitan tanpa dokumen? Jika identitas dan riwayat tidak jelas, jangan langsung menganggap penggantian komponen akan memulihkan kinerja. [NEEDS PROFESSIONAL REVIEW: status dukungan, kondisi antarmuka, dan kapasitas struktur belum tersedia.]
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+## Pahami mekanisme penurunan kinerja, bukan hanya gejalanya
 
-### KR-22
+Retak pada sambungan bisa berasal dari gerakan bangunan, fixing (pengikat) yang gagal, benturan, atau perubahan kelembapan. Pintu yang menggesek dapat menandakan daun melendut, lantai tidak rata, rel bergeser, atau seal mengeras. Membersihkan atau mengecat ulang hanya mengubah tampilan; penyebab tetap bekerja dan kerusakan dapat berulang.
 
-- **Original sources:** [Permen PUPR No. 9 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/216870/permen-pupr-no-9-tahun-2021), [ISO 20887:2020 design for disassembly/adaptability](https://www.iso.org/standard/69370.html), [ISO 14025:2026 environmental product declarations](https://www.iso.org/standard/87610.html), [ISO 14021:2026 self-declared environmental claims](https://www.iso.org/standard/14021.html)
-- **Purpose for this article:** Ground demountability, reuse, waste, EPD, and “green” claims in life-cycle evidence rather than slogans.
-- **Safe grounded facts:** “Demountable” does not prove reusable after removal, and an EPD does not automatically make one product preferable. Evaluation needs a common functional unit/scope, service conditions, replacement, maintenance, damage, disassembly method, recovery route, transport, and verified destination.
-- **Limits:** ISO abstracts do not supply project results. Verify current documents, comparable PCR/boundaries, Indonesian waste routes, and actual reuse/recycling capacity; resolve `G-14`.
+Partisi adalah elemen nonstruktural, tetapi beban dan gerakan tetap harus diteruskan melalui panel atau stud, track (jalur rel), bracing (pengaku), angkur, lalu ke struktur penumpu. Bukaan besar, dinding tinggi, benda berat yang digantung, dan sambungan rapat dengan plafon dapat mengubah tuntutan pada titik-titik tersebut. Prinsip beban minimum dan pengaruh gempa perlu dirujuk pada dokumen proyek dan tenaga kompeten; katalog SNI tidak menyediakan perhitungan universal untuk semua partisi ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-### KR-14
+Kinerja akustik juga bukan angka panel semata. Celah keliling, pintu, ruang di atas plafon, ducting (saluran utilitas), penetrasi, dan sambungan ke bangunan dapat menurunkan isolasi yang tercapai. Metode laboratorium dan pengukuran lapangan menjawab pertanyaan berbeda, sehingga label STC atau Rw tidak otomatis membuktikan hasil ruangan Anda ([SNI 03-6386-2000](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2](https://www.iso.org/standard/79487.html), [ASTM E90](https://store.astm.org/e0090-23.html), [ASTM E336](https://store.astm.org/e0336-24.html)).
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+## Inspeksi dan data kondisi awal yang perlu dicatat
 
-### KR-12
+Baseline berarti catatan kondisi awal yang dapat dibandingkan setelah tindakan. Catat tanggal, lokasi, foto keseluruhan dan detail, arah gerak, bunyi, gaya yang terasa, posisi pintu, kondisi seal, noda air, korosi, delaminasi, serta gangguan yang muncul setelah kejadian tertentu. Tulis pengamatan sebagai fakta—misalnya “daun menyentuh lantai saat ditutup”—bukan diagnosis “rel gagal”.
 
-- **Original sources:** [SNI 03-6386-2000 acoustic design recommendation — BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2:2021 airborne sound-insulation laboratory method](https://www.iso.org/standard/79487.html), [ASTM E90 scope and laboratory/field limits](https://store.astm.org/e0090-23.html), [ASTM E336-24 field measurement between rooms](https://store.astm.org/e0336-24.html)
-- **Purpose for this article:** Prevent STC/Rw or “soundproof” claims from a material, panel, or laboratory specimen being presented as installed room performance.
-- **Safe grounded facts:** Laboratory and field quantities are different. Perimeters, doors, seals, head voids, ceilings, ducts, penetrations, junctions, workmanship, and adjacent structure can reduce achieved isolation. A test method does not prove a specific product passed or that the installed room will match.
-- **Limits:** Obtain full standards, complete current test reports, project acoustic criteria, junction design, and field-test plan where required. Resolve `G-08`.
+Kumpulkan gambar kondisi terbangun (as-built), manual, daftar komponen, catatan servis, keluhan pengguna, dan perubahan tata ruang. Untuk kerusakan berulang, cocokkan waktu kejadian dengan kebocoran, pekerjaan plafon, perubahan beban gantung, atau benturan. Pedoman pemeliharaan menekankan pembersihan yang sesuai material dan pemeriksaan komponen; panduan kelembapan EPA juga menempatkan pengendalian sumber air sebagai langkah utama, bukan menutup noda semata ([ASSA ABLOY Lorient](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
 
-### KR-20
+Hentikan pekerjaan yang mengharuskan membuka, mengebor, mengamplas, atau membongkar material lama yang tidak dikenal. Inspeksi visual tidak dapat memastikan material warisan bebas asbes; gangguan dapat melepaskan debu dan menghasilkan limbah terkontaminasi. Minta penilaian pihak kompeten dan prosedur lokal sebelum sampling (pengambilan sampel) atau pembongkaran ([WHO](https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos), [ILO](https://www.ilo.org/resource/ilo-position-safety-use-asbestos), [PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html)).
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+## Bandingkan repair, overhaul, dan replace berdasarkan bukti
 
-### KR-23
+Jembatan keputusan berikut mencegah istilah tindakan menjadi sekadar preferensi vendor. Repair adalah perbaikan setempat setelah penyebab teridentifikasi dan komponen pengganti dapat ditelusuri. Overhaul mencakup pemeriksaan dan penggantian beberapa komponen aus, penyetelan ulang, serta verifikasi ulang antarmuka. Replace berarti mengganti sistem atau bagian utama ketika dukungan, keselamatan, atau kebutuhan ruang tidak lagi dapat dipenuhi secara meyakinkan.
 
-- **Original sources:** [WHO asbestos fact sheet, 27 September 2024](https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos), [ILO position on safety in the use of asbestos](https://www.ilo.org/resource/ilo-position-safety-use-asbestos), [PP No. 22 Tahun 2021 environmental and waste-management framework — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html)
-- **Purpose for this article:** Establish a stop-before-disturbance gate for old boards, insulation, adhesives, coatings, contaminated wet areas, and unknown demolition waste.
-- **Safe grounded facts:** Visual inspection cannot reliably clear an unknown legacy material. Cutting, drilling, sanding, or demolition can turn a contained hazard into airborne dust or contaminated waste; flood/sewage or mold conditions add separate assessment needs.
-- **Limits:** Foreign WHO/ILO guidance does not define the complete Indonesian legal procedure. Do not tell readers to sample or remove suspect material themselves. Resolve `G-07`, `G-11`, and current local environmental requirements before procedural content.
+Repair cenderung tepat untuk seal aus, penyetelan pintu, atau komponen lokal yang dokumentasinya tersedia—dengan syarat tidak ada indikasi masalah pada penumpu. Overhaul perlu memasukkan rel, hanger, roda, seal, sambungan, dan prosedur pengujian sebagai satu paket; mengganti panel saja belum tentu mengatasi gaya operasi atau kelurusan. Replace lebih kuat bila gangguan menyebar, suku cadang tidak tersedia, fungsi ruang berubah, atau risiko material lama dan dukungan bangunan belum dapat dikendalikan.
 
-## Evidence gates
+Bandingkan setiap opsi pada matriks sederhana: keselamatan dan jalur beban; dukungan suku cadang; kinerja akustik atau operasional yang dibutuhkan; waktu henti dan akses kerja; perubahan ukuran atau tata ruang; kepatuhan yang harus dibuktikan; riwayat servis; biaya awal, pemeliharaan, kerusakan lanjutan, pembongkaran, dan pembuangan. Jangan menyebut opsi “hijau” hanya karena dapat dibongkar: keterlepasan tidak otomatis berarti dapat dipakai ulang, dan klaim lingkungan perlu batas studi serta jalur pemulihan yang dapat diverifikasi.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+## Tentukan prioritas dengan konsekuensi dan otoritas yang jelas
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Prioritaskan kondisi yang dapat mencederai orang, menjatuhkan komponen, menghalangi jalur keluar, atau memperparah kerusakan air. Batasi penggunaan dan amankan area sambil menunggu pemeriksaan bila pintu atau panel tidak stabil. Setelah risiko segera terkendali, urutkan pekerjaan berdasarkan dampak pada operasi, ketersediaan akses, dan bukti penyebab.
 
-## Internal-link plan
+Untuk rapat keputusan, minta tiga keluaran: daftar fakta yang sudah diverifikasi, asumsi yang masih terbuka, dan tindakan berikut dengan penanggung jawab. Kawan Partisi.co.id, biaya siklus hidup bukan angka tunggal; minta horizon waktu, frekuensi operasi, kebutuhan servis, waktu henti, dan skenario penggantian yang sama untuk semua opsi agar perbandingan adil.
 
-### Existing local routes
+Jika Anda sedang menyiapkan pembanding lokasi, gunakan halaman [partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) atau [partisi lipat Tuban](/partisi-lipat-tuban.html) hanya sebagai konteks jenis sistem; keputusan kondisi partisi tua tetap memerlukan inspeksi objek yang ada.
 
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Simpan rekaman serah terima dan pemicu pemeriksaan ulang
 
-### Planned sibling articles
+Serah terima (handover) yang berguna berisi gambar konfigurasi terakhir, nomor komponen, manual, catatan perubahan, foto setelah pekerjaan, batas penggunaan, dan nama pihak yang berwenang menyetujui perubahan. Catat hasil pemeriksaan dan setiap penyimpangan dari rancangan; jangan mengubahnya menjadi klaim kinerja tanpa pengujian yang sesuai.
 
-These are future routes. Do not link them as live until their HTML exists.
+Tetapkan pemicu pemeriksaan ulang: keluhan berulang, perubahan tata ruang, kebocoran, benturan, suara atau gaya operasi yang berubah, pekerjaan plafon, atau hilangnya dukungan pemasok. Sobat Partisi.co.id, jadwal pengingat tidak menggantikan pemeriksaan kondisi; interval spesifik harus ditentukan dari sistem dan risiko proyek.
 
-- `PAR-18-03` → `/artikel/upgrade-akustik-partisi.html` — Upgrade Akustik Partisi: Seal, Panel, Flanking, atau Ganti Sistem?
-- `PAR-18-04` → `/artikel/mengganti-finish-panel-partisi.html` — Ganti Finish tanpa Merusak Gerak, Berat, dan Seal Panel
-- `PAR-18-06` → `/artikel/bongkar-reuse-dan-daur-ulang-partisi.html` — Bongkar, Reuse, dan Daur Ulang Material Partisi
+## Jalan pintas “ganti panel saja” dan mengapa bisa gagal
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Mengganti panel yang terlihat paling rusak memang cepat, tetapi dapat gagal bila sumbernya rel, angkur, lantai, kelembapan, atau gerakan bangunan. Panel baru lalu menerima tuntutan yang sama dan gejala kembali. Alternatif yang lebih andal adalah menahan keputusan pembelian, memetakan sistem, meminta pemeriksaan antarmuka, lalu menilai repair, overhaul, dan replace memakai matriks bukti.
 
-## Tentukan objek, kondisi, dan tahap siklus hidup
+## Kesimpulan: pilih tindakan yang dapat dibuktikan aman dan dapat dirawat
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Repair, Overhaul, atau Replace: Keputusan untuk Partisi Tua”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Repair cocok untuk kerusakan lokal dengan penyebab dan suku cadang yang jelas. Overhaul cocok bila sistem dasar masih layak tetapi beberapa komponen dan catatan servis perlu dipulihkan. Replace dipertimbangkan ketika dukungan, keselamatan, fungsi ruang, atau material lama tidak dapat dikendalikan secara memadai.
 
-## Mekanisme perubahan atau penurunan kinerja
-
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Repair, Overhaul, atau Replace: Keputusan untuk Partisi Tua”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Inspeksi dan data yang perlu dicatat
-
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Repair, Overhaul, atau Replace: Keputusan untuk Partisi Tua”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan perawatan atau intervensi
-
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Repair, Overhaul, atau Replace: Keputusan untuk Partisi Tua”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara menentukan prioritas
-
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Repair, Overhaul, atau Replace: Keputusan untuk Partisi Tua”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Rekaman, handover, dan pemicu pemeriksaan ulang
-
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Repair, Overhaul, atau Replace: Keputusan untuk Partisi Tua”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya: kumpulkan baseline, hentikan gangguan pada material tak dikenal, lalu minta penilaian profesional atas struktur penumpu, antarmuka, dan persyaratan kinerja. Gunakan keputusan tertulis yang menyebut bukti, asumsi, batas penggunaan, dan pemicu pemeriksaan ulang. Teman Partisi.co.id, bila bukti utama belum tersedia, keputusan yang bertanggung jawab adalah menandainya dan menunggu review teknis—bukan mengisinya dengan tebakan.

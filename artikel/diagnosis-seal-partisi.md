@@ -2,8 +2,9 @@
 article_id: PAR-16-03
 title: "Seal Partisi Bocor, Robek, atau Tidak Menekan: Apa yang Diperiksa?"
 slug: "diagnosis-seal-partisi"
-description: "Cover contamination, engagement, alignment, wear, damage, floor and jamb condition, records and escalation"
-status: outline
+description: "Panduan praktis menelusuri seal partisi yang bocor, robek, atau tidak menekan, dari gejala sampai keputusan eskalasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,56 +15,14 @@ reader_address: "Teman Partisi.co.id"
 final_route: "/artikel/diagnosis-seal-partisi.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
   - "https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html"
-  - "https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
-  - "https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
+  - "https://www.modernfold.com/en-US/products/operable-partitions"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
-  - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Seal Partisi Bocor, Robek, atau Tidak Menekan: Apa yang Diperiksa?
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Seal Partisi Bocor, Robek, atau Tidak Menekan: Apa yang Diperiksa?”
-- **Reader and situation:** Facility team seeing light, sound or air gaps
-- **Reader outcome:** Cover contamination, engagement, alignment, wear, damage, floor and jamb condition, records and escalation
-- **Primary intent:** Diagnose sealing faults
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not claim acoustic restoration; PAR-14-04 owns field testing
-- **Final public route:** `/artikel/diagnosis-seal-partisi.html`
-- **Appointed CMS date:** `2026-05-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Seal Partisi Bocor, Robek, atau Tidak Menekan: Apa yang Diperiksa?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,159 +33,87 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Seal Partisi Bocor, Robek, atau Tidak Menekan: Apa yang Diperiksa?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Partisi.co.id! Jika terlihat cahaya dari bawah panel, terdengar suara dari celah, atau seal terasa tidak lagi menyentuh bidang lawan, jangan langsung menjejalkan busa baru. Gejala itu hanya memberi tahu bahwa fungsi penutupan berubah; penyebabnya bisa kotoran, posisi panel bergeser, lantai tidak rata, seal aus, atau rangka dan pintu ikut bermasalah.
 
-### KR-01
+Jawaban singkatnya: periksa gejala di lokasi, kebersihan dan bentuk seal, apakah seal benar-benar tertekan saat partisi ditutup, keselarasan panel dengan jamb (tiang sisi), kondisi lantai, lalu riwayat pemakaian dan perawatan. Dokumentasikan sebelum membongkar. Jika ada air aktif, material menggembung, pintu darurat terganggu, panel berat macet, atau bagian penyangga bergerak, hentikan pekerjaan berisiko dan minta pemeriksaan kompeten. Panduan ini membantu memilah langkah; bukan bukti bahwa suatu ruang kembali memenuhi target akustik atau rating tertentu.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-### KR-11
-
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
-
-### KR-15
-
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
-
-### KR-16
-
-- **Original sources:** [CDC environmental-cleaning procedures for global healthcare facilities](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html), [CDC 2024 considerations for healthcare surfaces](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html), [Bobrick toilet-partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [Polyrey compact-HPL installation/maintenance manual](https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf)
-- **Purpose for this article:** Replace vague “antibacterial/hygienic” marketing with a maintainable surface-and-process model.
-- **Safe grounded facts:** Hygiene depends on geometry, joints, damage, high-touch hardware, soil load, cleaning access, staff process, compatible chemistry, contact/use instructions, rinsing/drying, monitoring, and repair. An antibacterial treatment does not replace cleaning/disinfection.
-- **Limits:** CDC US healthcare requirements are not Indonesian law; its global guidance is practice support. Product chemicals and methods are not interchangeable. Facility IPC/EVS and manufacturers must resolve `G-05` and `G-12`.
-
-### KR-20
-
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-14
-
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-16-01` → `/artikel/jadwal-maintenance-movable-partition.html` — Jadwal Inspeksi dan Maintenance Movable Partition
-- `PAR-16-02` → `/artikel/diagnosis-panel-partisi-seret-atau-bising.html` — Panel Berat, Seret, Bising, atau Tidak Bisa Lock: Pohon Diagnosis
-- `PAR-16-04` → `/artikel/diagnosis-penurunan-privasi-suara-partisi.html` — Privasi Suara Menurun setelah Beberapa Tahun: Langkah Penelusuran
-- `PAR-16-05` → `/artikel/diagnosis-kerusakan-material-partisi.html` — Panel Mengembang, Finish Lepas, atau Hardware Berkarat
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Seal Partisi Bocor, Robek, atau Tidak Menekan: Apa yang Diperiksa?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bagian ini penting karena kata “bocor” sering mencampur kebocoran udara, suara, cahaya, atau air. Catat apa yang benar-benar terlihat, di titik mana, dan kapan muncul agar tim tidak memperbaiki komponen yang salah.
+
+Mulailah dengan foto dari dua sisi dalam posisi terbuka dan tertutup. Tandai apakah celah berada di bawah, pada sambungan antarpanel, di jamb, atau di sekitar pintu lintasan. Catat apakah gejala muncul setiap kali ditutup, hanya setelah panel lama tidak dipakai, atau berubah setelah lantai dibersihkan. Pengamatan seperti ini membedakan masalah kontak seal dari masalah gerak panel.
+
+Periksa juga bentuk seal tanpa menariknya. Seal yang terlipat, mengeras, retak, terlepas dari dudukan, atau tertutup debu memberi petunjuk berbeda. Jangan menyimpulkan “seal jelek” hanya karena ada garis cahaya; panel bisa tidak sejajar atau lantai bisa turun di satu titik.
+
+Kawan Partisi.co.id, simpan catatan tanggal, posisi panel, cara pengoperasian, dan foto jarak dekat. Catatan sederhana itu menjadi pembanding setelah pembersihan atau penyesuaian, sekaligus mencegah perdebatan berdasarkan ingatan.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Seal Partisi Bocor, Robek, atau Tidak Menekan: Apa yang Diperiksa?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum diagnosis rinci, tentukan apakah area aman untuk disentuh dan dioperasikan. Tanda bahaya mengubah urutan kerja: kendalikan akses dan panggil pihak yang berwenang lebih dulu.
+
+Jika ada air yang masih masuk, rembesan dari atas, bau lembap kuat, atau bahan melunak dan mengembang, cari sumber air dan lindungi area. [Pedoman pengendalian kelembapan EPA](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0) menekankan bahwa kebocoran, kondensasi, drainase, ventilasi, dan kemampuan mengeringkan rakitan memengaruhi umur layanan; label “tahan lembap” tidak otomatis berarti seluruh susunan kedap air. [NEEDS G-05/G-06: sumber air, jenis material, dan ambang penggantian harus ditetapkan dari kondisi proyek serta instruksi produk.]
+
+Batasi pengoperasian bila panel jatuh dari jalur, bergerak miring, pengunci tidak menahan, atau pintu tidak bisa membuka sesuai fungsi yang ditetapkan. Sistem partisi bergerak bergantung pada penyangga track, berat panel, kantong parkir, kerataan lantai, dan penutupan jamb, sebagaimana dijelaskan dalam [gambaran sistem Modernfold](https://www.modernfold.com/en-US/products/operable-partitions). Itu alasan mengapa seal tidak boleh dipaksa dengan tuas atau dipotong agar pintu “terasa ringan”.
+
+Untuk pintu yang menjadi jalur keluar, jangan mengubah ambang, pengunci, atau arah bukaan berdasarkan perkiraan. Kerangka bangunan dan perubahan penggunaan perlu ditinjau sesuai dokumen proyek dan aturan yang berlaku; [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) menjadi kerangka nasional, tetapi tidak menetapkan satu ukuran seal atau clearance universal untuk semua sistem. [NEEDS G-01/G-02: verifikasi desain dan persyaratan keselamatan proyek sebelum perubahan permanen.]
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Seal Partisi Bocor, Robek, atau Tidak Menekan: Apa yang Diperiksa?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Setelah area aman, kelompokkan penyebab agar pemeriksaan tetap terarah. Satu gejala dapat memiliki beberapa mekanisme sekaligus.
+
+Pertama, kontak terhalang. Debu, sisa bahan pembersih, serpihan, atau benda kecil pada jalur membuat seal berhenti sebelum bidang lawan. Bersihkan sesuai petunjuk produk dan amati apakah bentuknya kembali; jangan memakai pelarut yang belum disetujui. [Panduan perawatan seal Lorient](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide) menempatkan inspeksi, kebersihan, dan pemeriksaan kerusakan sebagai bagian dari pemeliharaan, tetapi interval dan bahan yang disebut berlaku untuk produk yang mereka namai, bukan semua seal.
+
+Kedua, tekanan tidak terbentuk. Seal mungkin masih utuh, tetapi panel berhenti terlalu cepat, jamb bergeser, atau mekanisme pengunci tidak menarik panel ke posisi kerja. Gejalanya biasanya celah memanjang dan pola sentuhan yang hanya terjadi di satu ujung. Bandingkan posisi panel dengan tanda referensi pemasangan, tanpa memaksa komponen yang menahan beban.
+
+Ketiga, material telah menua atau rusak. Karet mengeras, busa kehilangan elastisitas, tepi robek, atau perekat lepas mengurangi kemampuan mengikuti permukaan. Penggantian harus memakai profil dan dudukan yang disetujui untuk sistem tersebut; seal yang tampak mirip belum tentu bekerja dengan gaya tekan yang sama.
+
+Keempat, lingkungan di sekelilingnya menjadi penyebab. Lantai bergelombang, ambang aus, jamb miring, sekrup longgar, atau panel melendut membuat seal baru pun tidak menutup konsisten. Bila perbaikan kosmetik berulang selalu gagal di titik sama, cari gerakan dasar atau interaksi dengan bangunan, bukan menambah lapisan seal.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Seal Partisi Bocor, Robek, atau Tidak Menekan: Apa yang Diperiksa?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan berikut menjaga pekerjaan tetap aman dan menghasilkan bukti yang bisa dibandingkan. Mulai dari pemeriksaan tanpa alat, baru lanjut bila dokumen dan kompetensi mengizinkan.
+
+1. **Tetapkan kondisi awal.** Foto posisi terbuka-tertutup, tandai titik celah, dan catat waktu serta aktivitas terakhir. Jangan menghapus bukti air, benturan, atau perubahan pemasangan sebelum dicatat.
+2. **Periksa kebersihan dan bentuk.** Gunakan penerangan yang cukup; lihat apakah seal terpotong, terlipat, mengeras, atau keluar dari alurnya. Bersihkan dengan metode yang disetujui produsen dan ulangi pengamatan.
+3. **Periksa keterlibatan seal.** Tutup partisi dengan cara operasi normal. Amati apakah seal menyentuh sepanjang jalurnya atau hanya di satu titik. Jangan memasukkan kertas, karton, atau benda keras sebagai “tes tekanan” jika berpotensi menjepit atau merusak permukaan.
+4. **Bandingkan geometri.** Periksa celah terhadap lantai, jamb, dan panel tetangga. Ukuran atau toleransi hanya boleh dinilai terhadap gambar kerja, manual sistem, atau baseline serah-terima yang benar-benar tersedia; tidak ada angka universal yang aman ditebak.
+5. **Tinjau riwayat.** Cari catatan pembersihan, pengoperasian, benturan, kebocoran, penggantian seal, dan pekerjaan lantai. Riwayat membantu menghubungkan perubahan waktu dengan mekanisme, bukan menggantikan pemeriksaan lapangan.
+6. **Uji terbatas dan terdokumentasi.** Jika diperlukan, mintalah teknisi yang memahami sistem melakukan penyesuaian atau pengukuran. Jangan menyamakan hasil cek celah dengan uji isolasi suara; pengujian akustik berada di luar cakupan artikel ini dan memerlukan metode tersendiri.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Seal Partisi Bocor, Robek, atau Tidak Menekan: Apa yang Diperiksa?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil pemeriksaan harus dipisahkan menjadi fakta, dugaan sebab, dan keputusan. “Seal menyentuh di sisi kiri” adalah fakta. “Jamb miring” adalah dugaan sampai dibandingkan dengan referensi. “Ruang kembali kedap suara” adalah klaim kinerja yang tidak boleh ditarik dari inspeksi visual.
+
+Buat tabel sederhana berisi lokasi, gejala, bukti foto, kondisi saat ditutup, penyebab yang masih mungkin, dan tindakan berikutnya. Jika pembersihan menghilangkan celah dan tidak ada kerusakan, jadwalkan pemantauan. Jika seal rusak tetapi dudukan dan geometri normal, minta rekomendasi penggantian yang kompatibel. Jika celah mengikuti lantai atau rangka, eskalasikan masalah dasar sebelum membeli seal.
+
+Sobat Partisi.co.id, bedakan juga “tidak terlihat celah” dari “memenuhi target”. Kebersihan dan proses pembersihan memengaruhi higienitas; [CDC menjelaskan prosedur pembersihan lingkungan](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html) bergantung pada geometri, akses, beban kotoran, bahan kimia yang kompatibel, pembilasan, pengeringan, dan pemantauan. Jadi, lapisan dengan klaim antibakteri tidak menggantikan pembersihan dan prosedur fasilitas.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Seal Partisi Bocor, Robek, atau Tidak Menekan: Apa yang Diperiksa?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tindakan sementara boleh berupa pembatasan operasi, penandaan panel, pengeringan sumber air, atau pembersihan ringan sesuai manual. Tindakan itu hanya mengendalikan gejala sampai penyebab diperiksa.
 
-## Objection or shortcut to address
+Perbaikan terencana memerlukan identifikasi profil seal, dudukan, hardware, dan kondisi bidang lawan. Minta teknisi mencatat komponen yang diganti, metode pemasangan, dan hasil pemeriksaan ulang. Bila ada kerusakan panel, kaca, track, penyangga, jalur keluar, atau indikasi jamur luas, hentikan improvisasi dan minta review profesional yang sesuai.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk memudahkan tindak lanjut, Anda dapat membandingkan cara kerja dan konteks penggunaan pada halaman [partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html), lalu melihat contoh kebutuhan lokasi berbeda di [partisi lipat Tuban](/partisi-lipat-tuban.html). Tautan itu bukan bukti bahwa sistem di tempat Anda identik; gunakan hanya sebagai pertanyaan awal sebelum meminta data proyek.
 
-## Required conclusion
+## Jangan langsung menambah seal baru
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah menempelkan strip tambahan di atas seal lama. Cara ini terlihat cepat, tetapi dapat mengubah gaya tekan, membuat panel sulit mengunci, menutupi sumber air, dan menyulitkan pemeriksaan berikutnya. Jika celah berasal dari lantai atau jamb, lapisan baru hanya memindahkan titik tekan.
 
-## Draft completion checklist
+Pilihan yang lebih aman adalah dokumentasikan gejala, bersihkan dengan bahan yang disetujui, lalu minta pemeriksaan profil dan geometri. Penggantian baru masuk akal setelah penyebab dan kompatibilitasnya jelas. Jika bukti belum cukup, pertahankan status “perlu review” daripada menyatakan ruang sudah pulih.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: apa yang diperiksa?
+
+Seal partisi yang bocor, robek, atau tidak menekan diperiksa dari urutan yang sederhana: gejala dan lokasi, kebersihan serta kerusakan seal, kontak saat penutupan, keselarasan panel-jamb-lantai, riwayat perubahan, lalu pengujian yang memang sesuai sistem. Hasil visual tidak otomatis membuktikan pemulihan akustik, kepatuhan, ketahanan air, atau keselamatan jalur keluar.
+
+Kirimkan foto sebelum-sesudah, denah atau nomor panel, riwayat kejadian, manual sistem, dan catatan pembersihan kepada pengelola atau teknisi yang kompeten. Minta mereka menjawab tiga hal: apa fakta yang ditemukan, apa penyebab yang masih perlu dibuktikan, dan tindakan apa yang boleh dilakukan tanpa mengubah fungsi keselamatan. [NEEDS G-01/G-02/G-03/G-04/G-05/G-06/G-07/G-08/G-09/G-10/G-11/G-12/G-13/G-14: persetujuan teknis dan bukti proyek tetap diperlukan untuk klaim rating, dimensi, kinerja, kepatuhan, atau garansi.]
+
+Aturan operasinya sederhana: jangan menutup-nutupi gejala dengan material tambahan; temukan mekanismenya, catat batas bukti, dan eskalasikan bagian yang menyentuh struktur, air, pintu keluar, atau kinerja sistem.

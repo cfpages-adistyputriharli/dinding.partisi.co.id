@@ -3,7 +3,7 @@ article_id: PAR-04-06
 title: "Komponen yang Aus dan Komponen yang Seharusnya Bisa Diganti"
 slug: "komponen-aus-dan-suku-cadang-partisi"
 description: "Classify seals, rollers, guides, locks, hinges, handles, finish panels and proprietary parts by service needs"
-status: outline
+status: draft
 publication_date: "2025-08-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,11 +15,6 @@ final_route: "/artikel/komponen-aus-dan-suku-cadang-partisi.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
-  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://pesta.bsn.go.id/produk/by_ics/126"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
@@ -28,40 +23,12 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
   - "https://www.modernfold.com/en-US/products/operable-partitions"
   - "https://store.astm.org/e0557-12r26.html"
+  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
+writing_contract_version: native-id-v2
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Komponen yang Aus dan Komponen yang Seharusnya Bisa Diganti
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Komponen yang Aus dan Komponen yang Seharusnya Bisa Diganti”
-- **Reader and situation:** Owner evaluating lifecycle support
-- **Reader outcome:** Classify seals, rollers, guides, locks, hinges, handles, finish panels and proprietary parts by service needs
-- **Primary intent:** Plan maintainability and spares
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Sobat Partisi.co.id`
-- **Natural variants:** `Kawan Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not set replacement intervals; PAR-16-01 owns maintenance planning
-- **Final public route:** `/artikel/komponen-aus-dan-suku-cadang-partisi.html`
-- **Appointed CMS date:** `2025-08-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Komponen yang Aus dan Komponen yang Seharusnya Bisa Diganti**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Partisi.co.id`, `Kawan Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -72,157 +39,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Komponen yang Aus dan Komponen yang Seharusnya Bisa Diganti
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Partisi.co.id! Komponen partisi yang aus seharusnya diperlakukan sebagai bagian dari sistem, bukan benda yang diganti secara acak ketika macet. Seal, roller, guide, engsel, kunci, handle, panel finishing, dan komponen proprietary (suku cadang khusus pabrikan) perlu dikelompokkan menurut fungsi, akses servis, dan identitasnya.
 
-### KR-01
+Jawaban singkatnya: siapkan suku cadang untuk bagian yang memang dirancang lepas-pasang dan memiliki kode serta prosedur dari pabrikan. Seal, brush, roller, guide, handle, dan fastener tertentu sering masuk kelas ini. Track, hanger, backing, rangka pintu, kaca, panel berat, pocket, dan kontrol adalah bagian sistem; penggantiannya perlu verifikasi produk, penyangga, serta kondisi bangunan. Kerangka bangunan Indonesia mengaitkan pemeliharaan dengan keselamatan, kesehatan, kenyamanan, fungsi, dan dokumentasi; label produk saja tidak membuktikan kesesuaian proyek ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). [NEEDS TECHNICAL REVIEW: pilih komponen dan metode penggantian berdasarkan dokumen sistem aktual.]
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-10
-
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-### KR-20
-
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
-
-### KR-11
-
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
-
-### KR-14
-
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-04-04` → `/artikel/sistem-locking-partisi.html` — Sistem Locking Partisi: Menahan Posisi, Bukan Sekadar Mengunci Pintu
-- `PAR-04-05` → `/artikel/junction-dan-persilangan-track-partisi.html` — Junction, Corner, dan Persilangan Track pada Layout Kompleks
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal; bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Komponen yang Aus dan Komponen yang Seharusnya Bisa Diganti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gejala yang sama dapat berasal dari komponen berbeda. Pintu berat mungkin disebabkan roller, track kotor, panel turun, atau lantai tidak rata. Karena itu, jangan memesan bagian hanya berdasarkan bunyi atau foto. Catat lokasi, arah gerak, waktu muncul, dan perubahan setelah benturan, kebocoran, atau pekerjaan plafon. Suku cadang adalah keputusan diagnosis, bukan tebakan katalog.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Komponen yang Aus dan Komponen yang Seharusnya Bisa Diganti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Komponen aus menerima gesekan, siklus gerak, tekanan penutupan, atau paparan lingkungan sehingga elastisitas, kelurusan, atau kemampuan mengunci berubah. Kelompokkan menjadi (1) suku cadang servis dengan kode jelas; (2) komponen antarmuka seperti engsel, latch, jamb, dan threshold; serta (3) komponen sistem seperti track, hanger, panel berat, kaca, dan pocket. Dinding bergerak memerlukan dukungan track, bobot panel, penyimpanan, seal, dan pelatihan pengguna, bukan sekadar panel dekoratif ([Modernfold](https://www.modernfold.com/en-US/products/operable-partitions), [dormakaba MOVEO](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)). Artikel ini mengklasifikasikan kebutuhan servis, bukan menetapkan interval penggantian.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Komponen yang Aus dan Komponen yang Seharusnya Bisa Diganti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari pemeriksaan non-destruktif: amati gerak tersendat, bunyi, celah seal, pintu tidak menutup, kunci gagal mengait, panel bergeser, karat, lembap, atau finishing terkelupas. Cocokkan gejala dengan rantai fungsi. Seal memerlukan permukaan kontak dan tekanan yang benar; roller memerlukan track yang bersih dan sejajar; guide menahan arah; engsel memindahkan beban ke frame; latch dan kunci memerlukan posisi jamb yang tepat. Pada sistem top-hung, beban bergerak melalui hanger dan track ke penyangga bangunan. Spesifikasi teknis menempatkan dukungan, pemasangan, dan laporan sebagai bagian dari sistem ([Modernfold technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [ASTM E557](https://store.astm.org/e0557-12r26.html)).
+
+Sebelum memesan, kumpulkan model, nomor komponen, ukuran aktual, label, arah bukaan, dan catatan perubahan. Minta konfirmasi kompatibilitas, alat, urutan kerja, serta siapa yang berwenang mengerjakan. Jangan mengganti seal dengan profil yang hanya “mirip”. Instruksi pabrikan untuk seal dan permukaan harus diikuti; bahan pembersih yang salah dapat mempercepat kerusakan ([ASSA ABLOY Lorient](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Komponen yang Aus dan Komponen yang Seharusnya Bisa Diganti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gerakan struktur, sambungan, plafon, atau substrat dapat memindahkan beban ke partisi. [NEEDS PROFESSIONAL REVIEW: verifikasi penyangga, anchor, dan jalur beban pada proyek aktual.] Frekuensi buka-tutup, cara pengguna mendorong panel, kelembapan, kondensasi, garam, dan pembersih yang tidak kompatibel juga mengubah laju kerusakan. EPA menempatkan pengendalian sumber kelembapan sebagai bagian dari pemeliharaan bangunan ([EPA moisture control](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
+
+Pintu pada jalur keluar, frame, latch, seal, kaca, dan penetrasi harus dinilai sebagai satu rangkaian. Katalog BSN untuk [SNI 03-1746-2000](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000) dan [SNI 03-6766-2002](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002) membantu mengidentifikasi dokumen yang relevan; halaman katalog itu sendiri tidak membuktikan bahwa rakitan tertentu memenuhi rating atau jalur keluar. [NEEDS COMPLIANCE REVIEW: jangan menyatakan rating kebakaran atau kecukupan jalur keluar tanpa sistem yang diuji dan persetujuan profesional.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Komponen yang Aus dan Komponen yang Seharusnya Bisa Diganti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Gejala | Kandidat | Periksa sebelum pesan |
+|---|---|---|
+| Gerak tersendat | Roller, guide, track | Level, penghalang, dan perubahan penyangga |
+| Celah penutupan | Seal, brush, jamb | Profil, tekanan kontak, dan sumber gerakan |
+| Handle atau latch longgar | Fastener, handle, latch | Backing, kelurusan frame, dan fungsi kunci |
+| Finishing rusak | Panel/skin, edge | Penyebab benturan atau air |
+| Track macet | Hanger, trolley, track | Bobot, dukungan, dan pocket; jangan paksa |
+
+Jika handle longgar tetapi pintu sejajar, bagian servis mungkin cukup setelah kode terverifikasi. Jika frame ikut bergerak, mengganti handle hanya menutupi sebab. Pada panel dengan fungsi akustik atau kebakaran, penggantian kulit atau seal dapat mengubah sistem yang diuji. Kawan Partisi.co.id, tanyakan “apa yang berubah setelah diganti?” sebelum menanyakan harga.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Komponen yang Aus dan Komponen yang Seharusnya Bisa Diganti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Suku cadang tanpa identitas mudah tertukar. Labeli model sistem, posisi, tanggal pencatatan, dan sumber dokumen. Jangan memesan berdasarkan foto tanpa ukuran atau memakai komponen universal untuk sistem proprietary. Jangan menyemprot pelumas, mengebor frame, membuka pocket, atau mengubah anchor tanpa instruksi. Retak, korosi berat, rembesan aktif, panel jatuh, kabel kontrol, atau pintu jalur keluar yang gagal mengunci memerlukan penghentian pemakaian area dan eskalasi kepada penanggung jawab fasilitas serta teknisi yang berwenang. [NEEDS SAFETY REVIEW: ikuti prosedur isolasi proyek setempat.]
 
-## Objection or shortcut to address
+Daftar inspeksi dan pemeliharaan sistem pasif perlu dipadukan dengan dokumen produk, bukan disalin sebagai interval universal. Katalog BSN untuk bidang inspeksi/pemeliharaan membantu menemukan standar yang relevan, tetapi tidak menggantikan penilaian kondisi aktual ([daftar BSN](https://pesta.bsn.go.id/produk/by_ics/126)). Untuk langkah berikutnya, Anda juga dapat memakai halaman [partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) sebagai rujukan konteks layanan, lalu tetap meminta identifikasi sistem dan dukungan teknis untuk komponen yang akan diganti.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Mintalah teknisi mencatat komponen yang dilepas, alasan penggantian, hasil pemeriksaan pasangan komponennya, dan uji operasi setelah pekerjaan. Catatan ini membuat stok berikutnya lebih akurat dan membantu membedakan keausan normal dari masalah penyangga, kelembapan, atau penggunaan. Sobat Partisi.co.id, simpan satu salinan inventaris bersama gambar terpasang dan manual; dokumen kecil itu sering lebih berguna daripada kotak suku cadang tanpa label.
 
-## Required conclusion
+## Jalan pintas yang tampak murah
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Mengganti semua bagian dengan ukuran “hampir sama” dapat mengubah tekanan seal, posisi latch, beban roller, atau jalur gaya track. Pada dinding bergerak, ketidaksesuaian kecil dapat memicu macet berulang. Alternatifnya adalah menahan komponen yang tidak teridentifikasi, mengukur bagian lama tanpa merusaknya, lalu meminta verifikasi pemasok atau profesional.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Komponen yang layak direncanakan sebagai suku cadang adalah bagian servis yang identitas, fungsi, dan prosedur penggantiannya jelas. Bagian yang mengubah penyangga, beban, penutupan, jalur keluar, atau performa sistem tidak boleh diperlakukan sebagai pengganti kosmetik. Teman Partisi.co.id, buat inventaris satu halaman berisi gejala, lokasi, model, nomor part, bukti foto, dan keputusan “servis”, “eskalasi”, atau “stop”. Kirim inventaris bersama manual dan gambar aktual kepada pemasok atau peninjau profesional sebelum memesan bagian kritis. Artikel ini tidak menetapkan interval, rating, garansi, atau izin kerja; keputusan tersebut bergantung pada produk dan kondisi bangunan yang dapat diverifikasi.

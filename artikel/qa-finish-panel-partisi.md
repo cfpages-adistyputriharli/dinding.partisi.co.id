@@ -1,9 +1,23 @@
 ---
+
+<!-- BEGIN MANAGED IMAGE PLAN
+## Image plan
+
+- **Image ID:** `LOCAL-001`
+- **Source type:** `local`
+- **Placement:** after the opening has answered the main question, before the first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)`
+- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
+- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 article_id: PAR-12-04
 title: "QA Aplikasi HPL, Fabric, dan Finish Panel"
 slug: "qa-finish-panel-partisi"
-description: "Cover approved sample, substrate, direction, seams, adhesive evidence, edge, bubbles, alignment, cleaning and repair"
-status: outline
+description: "Panduan pemeriksaan mutu aplikasi HPL, fabric, dan finish panel dari sampel sampai perbaikan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,220 +29,93 @@ final_route: "/artikel/qa-finish-panel-partisi.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
   - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
   - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # QA Aplikasi HPL, Fabric, dan Finish Panel
 
-## Assignment lock
+Halo, Teman Partisi.co.id! Panel terlihat rapi belum tentu aplikasinya sudah dapat diterima. Kesalahan yang sering terjadi adalah menyamakan warna dengan mutu: sampel disetujui, lalu pemeriksa hanya melihat warna akhir tanpa mencocokkan substrat, arah serat, sambungan, tepi, gelembung, dan bukti lem. Akibatnya cacat baru terlihat setelah panel dipakai atau dibersihkan.
 
-- **Writer task:** Expand this file into one complete article answering: “QA Aplikasi HPL, Fabric, dan Finish Panel”
-- **Reader and situation:** Designer or factory inspector
-- **Reader outcome:** Cover approved sample, substrate, direction, seams, adhesive evidence, edge, bubbles, alignment, cleaning and repair
-- **Primary intent:** Inspect finish workmanship
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not select finish; PAR-05-04 owns selection
-- **Final public route:** `/artikel/qa-finish-panel-partisi.html`
-- **Appointed CMS date:** `2026-02-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+QA yang berguna memeriksa kesesuaian terhadap sampel yang disetujui, kondisi bidang dasar, urutan aplikasi, hasil visual, fungsi panel, serta catatan perbaikannya. PP 16/2021 menempatkan keselamatan, kesehatan, kenyamanan, kemudahan, fungsi, dan pemeliharaan sebagai bagian dari kerangka bangunan; label produk saja tidak membuktikan kepatuhan proyek ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Jadi keputusan “terima”, “perbaiki”, atau “tahan” harus bertumpu pada bukti yang dapat ditelusuri.
 
-## Opening instructions
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **QA Aplikasi HPL, Fabric, dan Finish Panel**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Partisi.co.id; bukan dokumentasi proyek tertentu.
 
+## Apa yang sebenarnya diperiksa pada lapisan akhir panel?
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+Sebelum masuk ke daftar cek, tetapkan objeknya. Lapisan akhir panel adalah lapisan tampak—misalnya HPL (high-pressure laminate, laminasi bertekanan tinggi) atau fabric—beserta cara lapisan itu melekat pada panel dan bertemu dengan komponen lain. QA di sini menilai mutu pengerjaan aplikasi, bukan memilih motif atau menentukan sistem partisi.
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Periksa tiga lapis bukti. Pertama, dokumen: sampel yang disetujui, lembar produk, metode kerja, dan catatan perubahan. Kedua, kondisi fisik: bidang dasar, arah motif, garis sambungan, tepi, gelembung, kebersihan, dan kesikuan. Ketiga, fungsi: panel, pintu, seal, atau sistem lipat bergerak tanpa terganggu oleh finish. Panduan sistem dinding kering Knauf menunjukkan bahwa lapisan dan rangka bekerja sebagai satu sistem; menilai kulit panel secara terpisah dapat menutupi masalah pada dasar atau sambungan ([Knauf W11](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende)).
 
-## Evidence packet
+## Bagaimana urutan QA aplikasi HPL, fabric, dan lapisan akhir panel?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Urutan mencegah pemeriksa menutup cacat yang sebenarnya masih bisa dilihat. Mulailah dari bukti sebelum pekerjaan tertutup, lanjutkan ke permukaan, lalu uji fungsi dan dokumentasikan keputusan.
 
-### KR-01
+### 1. Kunci sampel dan identitas bidang
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Bandingkan panel dengan sampel yang telah disetujui pada pencahayaan proyek. Catat kode, kelompok produksi (batch) bila tersedia, arah motif, sisi atas, serta lokasi panel. Jangan menganggap dua lembar dengan nama warna sama pasti identik; keputusan harus merujuk pada sampel yang disetujui, bukan ingatan.
 
-### KR-02
+### 2. Periksa substrat sebelum lapisan ditempel
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
+Substrat berarti bidang dasar tempat HPL atau fabric melekat. Cari permukaan yang tidak rata, debu, minyak, kelembapan, tonjolan sekrup, atau tepi yang belum siap. Maknanya sederhana: lapisan hanya dapat mengikuti dasar yang stabil; dasar bermasalah dapat muncul sebagai bayangan, retak, atau lepas. Minta catatan pemeriksaan dan persetujuan sebelum penutupan, karena item tersembunyi sulit diverifikasi setelah panel ditutup ([Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)).
 
-### KR-19
+### 3. Telusuri bukti perekat dan arah pemasangan
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
+Perekat bukan sekadar bahan yang “sudah dioles”. Minta nama produk, tanggal kedaluwarsa atau nomor batch jika diwajibkan dokumen proyek, metode pengolesan, waktu tunggu, dan catatan area yang dikerjakan. Petunjuk pemasangan HPL Bobrick dapat menjadi rujukan cara membaca instruksi produk, tetapi langkah dan toleransinya tidak boleh dipindahkan ke sistem lain tanpa persetujuan ([Bobrick HPL installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Cocokkan arah serat, pola, dan posisi sambungan dengan gambar atau contoh uji (mock-up). Bila metode berubah, tahan penerimaan sampai penyedia dan perancang menyetujui perubahan tertulis.
 
-### KR-21
+### 4. Nilai sambungan, tepi, dan permukaan
 
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
+Amati sambungan dari jarak pandang yang ditetapkan proyek, lalu dekatkan pemeriksaan pada tepi dan sudut. Cari garis yang meloncat, tepi terangkat, gelembung, kerutan fabric, noda lem, gores, atau perbedaan arah. Jangan mengubah temuan visual menjadi angka toleransi universal; toleransi harus berasal dari spesifikasi sistem yang berlaku.
 
-### KR-20
+### 5. Uji keselarasan dan fungsi antarmuka
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Garis finish harus bertemu dengan frame, skirting, seal (penutup rapat), engsel, latch, dan panel tetangga tanpa memaksa komponen. Buka-tutup pintu atau gerakkan panel sesuai fungsi yang disyaratkan, lalu catat titik seret, bunyi, atau seal yang tidak menutup. Sistem partisi bergerak bergantung pada track (rel), tumpuan, panel, seal, dan cara operasi; tampilan panel yang baik tidak membuktikan sistem siap digunakan ([Modernfold operable partitions](https://www.modernfold.com/en-US/products/operable-partitions)).
 
-### KR-11
+### 6. Bersihkan, tandai, dan tutup temuan
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+Pembersihan adalah verifikasi, bukan kosmetik terakhir. Gunakan hanya bahan dan cara yang disetujui untuk produk tersebut. Panduan perawatan Lorient dan sumber pemeliharaan Bobrick sama-sama menekankan bahwa bahan pembersih harus sesuai dengan komponen yang dirawat; jangan menyalin bahan kimia dari merek lain ([ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick cleaning and maintenance](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/)). Foto sebelum-sesudah, beri nomor temuan, tetapkan penanggung jawab, lalu periksa ulang area yang diperbaiki.
 
-### KR-14
+## Faktor apa yang paling sering mengubah hasil pemeriksaan lapisan akhir?
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+Jembatan ini penting karena cacat finish tidak selalu berasal dari aplikator. Kelompokkan penyebab agar perbaikan tidak berhenti pada menutup noda.
 
-## Evidence gates
+- **Kondisi dasar:** pergerakan rangka, sambungan papan, tonjolan, atau kelembapan dapat memindahkan masalah ke lapisan tampak.
+- **Bahan dan arah:** perbedaan batch, arah serat, atau tegangan fabric dapat membuat panel bersebelahan tampak tidak seragam.
+- **Antarmuka:** pintu, seal, track, dan frame menambah titik yang harus sejajar; perubahan pada salah satunya dapat mengganggu operasi.
+- **Lingkungan:** sumber air dan kelembapan perlu dicari sebelum delaminasi atau noda diperbaiki. Pengendalian kelembapan merupakan bagian dari desain, konstruksi, dan pemeliharaan bangunan ([EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
+- **Bukti:** tanpa catatan lem, foto sebelum penutupan, dan riwayat perubahan, pemeriksa tidak dapat membedakan cacat pemasangan dari kerusakan setelah pekerjaan.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+Kawan Partisi.co.id, bila penyebab belum jelas, tandai “perlu investigasi” dan jangan menjanjikan hasil perbaikan hanya dari pengamatan permukaan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Contoh keputusan praktis saat inspeksi lapisan akhir panel
 
-## Internal-link plan
+Gunakan skenario berikut sebagai cara berpikir, bukan sebagai standar penerimaan otomatis.
 
-### Existing local routes
+| Temuan | Pertanyaan verifikasi | Keputusan sementara |
+|---|---|---|
+| Arah motif berbeda | Apakah panel berasal dari sampel dan batch yang disetujui? | Tahan area, cocokkan dokumen dan mock-up. |
+| Gelembung atau tepi terangkat | Apakah substrat, perekat, dan kondisi kelembapan tercatat? | Jangan hanya menekan ulang; cari sebab dan metode perbaikan yang disetujui. |
+| Garis panel tidak bertemu | Apakah rangka, panel, frame, dan urutan pemasangan sesuai gambar? | Ukur secara proyek-spesifik dan minta koreksi sebelum serah terima. |
+| Panel tampak baik tetapi pintu seret | Apakah seal, hardware, dan clearance ikut diperiksa? | Tahan fungsi sampai antarmuka disetel dan diuji ulang. |
+| Noda setelah pembersihan | Apakah bahan pembersih sesuai petunjuk produk? | Hentikan bahan tersebut dan minta rekomendasi tertulis penyedia. |
 
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Untuk menyiapkan pertanyaan lapangan, Anda dapat membandingkan konteks sistem pada [contoh partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) dan [contoh partisi lipat Tuban](/partisi-lipat-tuban.html); halaman tersebut bukan bukti bahwa finish proyek Anda sudah memenuhi syarat.
 
-### Planned sibling articles
+## Kesalahan jalan pintas dan cara memeriksanya
 
-These are future routes. Do not link them as live until their HTML exists.
+Shortcut yang paling menggoda adalah menerima panel karena “dari jauh terlihat bagus”. Cara itu gagal ketika cacat berada di tepi, di balik seal, atau baru muncul saat panel bergerak dan dibersihkan. Gantilah penilaian sekilas dengan urutan: cocokkan sampel, periksa dasar, telusuri perekat, lihat sambungan dan tepi, uji fungsi, lalu tutup temuan dengan bukti.
 
-- `PAR-12-02` → `/artikel/kontrol-dimensi-panel-partisi.html` — Mengendalikan Dimensi, Kerataan, dan Squareness Panel
-- `PAR-12-03` → `/artikel/traceability-komponen-partisi.html` — Traceability Hardware, Seal, dan Panel dalam Satu Sistem
-- `PAR-12-05` → `/artikel/packing-panel-dan-track-partisi.html` — Packing Panel dan Track untuk Mencegah Rusak serta Tertukar
-- `PAR-12-06` → `/artikel/factory-acceptance-review-partisi.html` — Factory Acceptance Review untuk Sistem Partisi
+Shortcut lain adalah memperbaiki gelembung berulang kali tanpa mencari air, gerakan rangka, benturan, atau perekat yang tidak sesuai. Gejala dapat memiliki beberapa penyebab; perbaikan kosmetik yang berulang bisa menyamarkan risiko. Jika pekerjaan menyentuh struktur, fire stopping (penutupan celah tahan api), kaca, sistem bertenaga, atau jamur, hentikan pekerjaan dan minta penilaian profesional sesuai dokumen proyek.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Langkah berikutnya sebelum menerima lapisan akhir panel
 
-## Jawaban singkat dan salah paham utama
+Teman Partisi.co.id, QA aplikasi HPL, fabric, dan finish panel berarti membuktikan kesesuaian sampel, kesiapan substrat, arah dan sambungan, bukti perekat, kondisi tepi serta permukaan, kebersihan, dan fungsi antarmuka. Buat satu lembar inspeksi berisi identitas panel, foto, temuan, dokumen pendukung, keputusan, dan pemeriksaan ulang.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “QA Aplikasi HPL, Fabric, dan Finish Panel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “QA Aplikasi HPL, Fabric, dan Finish Panel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “QA Aplikasi HPL, Fabric, dan Finish Panel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “QA Aplikasi HPL, Fabric, dan Finish Panel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “QA Aplikasi HPL, Fabric, dan Finish Panel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “QA Aplikasi HPL, Fabric, dan Finish Panel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jika bukti tersembunyi tidak tersedia atau persyaratan proyek belum jelas, jangan mengisinya dengan asumsi. Tandai `[NEEDS PROJECT ACCEPTANCE CRITERIA]` dan minta persetujuan desainer, kontraktor, pemasok, serta penanggung jawab QA/HSE. Aturan operasinya: terima finish hanya setelah tampilan dan fungsi sama-sama terbukti, dengan batas teknis dan kepatuhan tetap ditinjau secara profesional.

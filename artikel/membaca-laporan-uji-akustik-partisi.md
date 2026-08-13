@@ -2,8 +2,9 @@
 article_id: PAR-06-02
 title: "Membaca Laporan Uji Akustik Partisi tanpa Salah Menafsirkan Angka dB"
 slug: "membaca-laporan-uji-akustik-partisi"
-description: "Identify metric, method, edition, laboratory, specimen, seals, size, frequencies, result and applicability"
-status: outline
+description: "Panduan praktis mencocokkan metrik, metode, spesimen, sambungan, hasil, dan keterterapan laporan uji akustik partisi."
+status: draft
+writing_contract_version: native-id-v2
 publication_date: "2025-09-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,58 +19,17 @@ sources:
   - "https://www.iso.org/standard/79487.html"
   - "https://store.astm.org/e0090-23.html"
   - "https://store.astm.org/e0336-24.html"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
   - "https://store.astm.org/e0557-12r26.html"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
-  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Membaca Laporan Uji Akustik Partisi tanpa Salah Menafsirkan Angka dB
 
-## Assignment lock
+Halo, Teman Partisi.co.id! Angka 38–60 dB pada brosur belum menjawab apakah percakapan di ruang Anda akan benar-benar lebih privat. Cara aman membacanya adalah mencocokkan besaran yang diukur, metode dan edisinya, laboratorium, spesimen, kondisi sambungan, rentang frekuensi, serta batas penerapannya. Jika satu unsur itu hilang, perlakukan angka sebagai klaim yang belum cukup untuk memilih sistem.
 
-- **Writer task:** Expand this file into one complete article answering: “Membaca Laporan Uji Akustik Partisi tanpa Salah Menafsirkan Angka dB”
-- **Reader and situation:** Buyer checking 38–60 dB marketing numbers
-- **Reader outcome:** Identify metric, method, edition, laboratory, specimen, seals, size, frequencies, result and applicability
-- **Primary intent:** Evaluate an acoustic test claim
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not certify the sold installation; PAR-14-04 owns field acceptance
-- **Final public route:** `/artikel/membaca-laporan-uji-akustik-partisi.html`
-- **Appointed CMS date:** `2025-09-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Laporan laboratorium menguji benda uji dalam konfigurasi tertentu; pengukuran lapangan menilai ruang yang sudah terpasang. [ISO 10140-2](https://www.iso.org/standard/79487.html) menjelaskan metode pengukuran isolasi bunyi di laboratorium, sedangkan ASTM E336 membahas pengukuran antar-ruang di lapangan. Keduanya tidak otomatis membuktikan performa partisi yang akan dibeli atau dipasang. Kriteria akustik proyek, detail sambungan, dan rencana uji lapangan tetap menentukan keputusan. [NEEDS G-08: laporan lengkap, kriteria proyek, dan rencana uji lapangan (field test) belum tersedia.]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Membaca Laporan Uji Akustik Partisi tanpa Salah Menafsirkan Angka dB**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -80,158 +40,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-12
-
-- **Original sources:** [SNI 03-6386-2000 acoustic design recommendation — BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2:2021 airborne sound-insulation laboratory method](https://www.iso.org/standard/79487.html), [ASTM E90 scope and laboratory/field limits](https://store.astm.org/e0090-23.html), [ASTM E336-24 field measurement between rooms](https://store.astm.org/e0336-24.html)
-- **Purpose for this article:** Prevent STC/Rw or “soundproof” claims from a material, panel, or laboratory specimen being presented as installed room performance.
-- **Safe grounded facts:** Laboratory and field quantities are different. Perimeters, doors, seals, head voids, ceilings, ducts, penetrations, junctions, workmanship, and adjacent structure can reduce achieved isolation. A test method does not prove a specific product passed or that the installed room will match.
-- **Limits:** Obtain full standards, complete current test reports, project acoustic criteria, junction design, and field-test plan where required. Resolve `G-08`.
-
-### KR-13
-
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
-
-### KR-14
-
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
-
-### KR-11
-
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
-
-### KR-10
-
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-06-01` → `/artikel/sound-insulation-versus-sound-absorption.html` — Sound Insulation Bukan Sound Absorption: Bedanya pada Partisi
-- `PAR-06-03` → `/artikel/target-privasi-percakapan-antar-ruang.html` — Menentukan Target Privasi Percakapan antar Ruang
-- `PAR-06-04` → `/artikel/flanking-dan-celah-partisi-akustik.html` — Flanking dan Celah: Mengapa Panel Bagus Bisa Gagal di Lapangan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Laporan Uji Akustik Partisi tanpa Salah Menafsirkan Angka dB”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari bukan sekadar “berapa dB”, melainkan keputusan yang dapat diaudit: apakah laporan ini relevan dengan sistem, ruang, dan target privasi yang sedang Anda nilai. Orang yang berwenang menyatakan kesesuaian harus ditunjuk dalam dokumen proyek; pembaca komersial dapat melakukan pemeriksaan awal, tetapi persetujuan teknis memerlukan peninjau akustik atau tim proyek yang kompeten.
 
-## Langkah 1 — tetapkan scope
+Siapkan PDF laporan utuh, lembar data produk, gambar detail, identitas laboratorium, tanggal dan edisi metode, deskripsi spesimen, serta kriteria ruang. SNI 03-6386-2000 tercatat sebagai rekomendasi desain akustik di katalog BSN, bukan bukti bahwa suatu produk telah lulus uji tertentu ([BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000)). Karena itu, tulis keputusan dengan kalimat bersyarat: “dapat dipertimbangkan setelah konfigurasi dan verifikasi lapangan cocok”, bukan “pasti kedap”.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Laporan Uji Akustik Partisi tanpa Salah Menafsirkan Angka dB”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan cakupan
+
+Pertama, tulis objek yang sedang dinilai: panel tetap, partisi lipat, pintu akses (pass door), atau satu sistem lengkap. Tandai batas pekerjaan sampai pertemuan dengan lantai, plafon, dinding samping, kolom, dan jalur utilitas. Jangan mencampur rating panel dengan rating ruang.
+
+Catat pula keadaan operasi. Dinding bergerak memiliki rel, kantong parkir, seal (perapat), penutup jamb, dan cara penguncian. ASTM E557 memberi panduan desain dan pemasangan partisi operabel, tetapi panduan itu tidak menjadi sertifikat produk atau kepatuhan Indonesia ([ASTM E557](https://store.astm.org/e0557-12r26.html)). Literatur teknis Modernfold juga meminta dukungan, pemasang, dan laporan yang sesuai sistem, sehingga beban rel dan kondisi bangunan harus diperiksa secara terpisah ([spesifikasi Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
+
+Tulis hal yang sengaja tidak dikerjakan: artikel ini tidak mengesahkan instalasi terjual dan tidak menggantikan penerimaan lapangan milik PAR-14-04. Jangan menetapkan ukuran stud, jarak anchor, toleransi seal, atau target rating baru tanpa data proyek.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Laporan Uji Akustik Partisi tanpa Salah Menafsirkan Angka dB”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan urutan pemeriksaan berikut pada setiap laporan.
+
+1. **Besaran dan labelnya.** Apakah angka menyebut STC, Rw, indeks lain, atau hasil per frekuensi? Jangan menyamakan istilah yang berbeda. Minta tabel frekuensi dan ringkasan metode, bukan hanya angka besar di halaman depan.
+2. **Metode dan edisi.** Cocokkan nomor metode dengan isi laporan. ISO 10140-2 adalah metode laboratorium; ASTM E90 menetapkan ruang lingkup pengukuran transmisi bunyi di laboratorium dan batas penggunaannya, bukan hasil lulus sebuah produk ([ASTM E90](https://store.astm.org/e0090-23.html)).
+3. **Laboratorium dan tanggal.** Pastikan identitas fasilitas, nomor laporan, tanggal pengujian, serta konfigurasi yang ditandatangani. Dokumen pemasaran tanpa laporan yang dapat dilacak adalah petunjuk awal, bukan bukti final.
+4. **Spesimen.** Cocokkan merek atau tipe, ketebalan, jumlah lapisan, rangka, isolasi, sambungan, pintu, kaca, dan penetrasi. Perubahan kecil pada komposisi atau cara menutup perimeter dapat membuat hasil tidak dapat dipindahkan ke sistem lain.
+5. **Ukuran dan kondisi tepi.** Ukuran benda uji, bidang pemasangan, seal, ruang kosong di atas kepala (head void), lantai, dan dinding pembatas harus terlihat. Celah di perimeter, pintu, duct, atau sambungan (junction) dengan struktur dapat menjadi jalur rambatan samping (flanking) yang tidak tercermin dalam klaim panel.
+6. **Hasil dan ketidakpastian.** Bedakan nilai hasil pengukuran dari nilai yang dijanjikan penjual. Jika laporan hanya menampilkan satu angka tanpa tabel atau catatan kondisi, tandai untuk klarifikasi.
+7. **Keterterapan.** Tanyakan, “Apakah ruang dan detail saya identik dengan benda uji?” Jika tidak, nyatakan sebagai referensi saja dan rencanakan verifikasi proyek.
+
+Teman Partisi.co.id, simpan matriks sederhana berisi kolom “terbukti”, “berbeda”, dan “belum ada”. Matriks itu memaksa tim melihat celah bukti sebelum angka masuk ke spesifikasi atau penawaran.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Laporan Uji Akustik Partisi tanpa Salah Menafsirkan Angka dB”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari kebutuhan ruang: siapa yang perlu privasi, sumber bising, jam penggunaan, dan konsekuensi bila percakapan masih terdengar. Lalu cocokkan kebutuhan tersebut dengan metrik yang benar. Setelah itu, cocokkan detail fisik benda uji dengan gambar kerja, termasuk pertemuan plafon, lantai, dinding, pintu, dan jalur servis.
 
-## Hold point dan kondisi berhenti
+Untuk partisi operabel, verifikasi dukungan rel, kerataan lantai, penutupan seal, urutan membuka-menutup, dan pelatihan pengguna melalui dokumen pemasok terkini. Jangan mengambil angka beban atau interval pemeliharaan dari produk lain. Uji fungsi harus mengikuti konfigurasi yang disetujui; angka laboratorium tidak menggantikan pemeriksaan kebocoran dan pengukuran lapangan.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Laporan Uji Akustik Partisi tanpa Salah Menafsirkan Angka dB”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika ada perubahan material, sambungan, atau bukaan setelah laporan diterbitkan, buat catatan deviasi dan minta penilaian ulang. Sebuah metode pengujian menunjukkan cara mengukur; metode itu sendiri tidak menyatakan bahwa rakitan Anda lulus.
 
-## Verifikasi hasil dan handover
+## Titik berhenti dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Laporan Uji Akustik Partisi tanpa Salah Menafsirkan Angka dB”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan keputusan pembelian atau penutupan pekerjaan ketika identitas spesimen tidak cocok, edisi metode tidak jelas, laboratorium tidak dapat dilacak, atau detail perimeter dan pintu tidak tersedia. Hentikan pula bila penjual hanya memberi angka panel tetapi kebutuhan Anda adalah isolasi antar-ruang.
 
-## Objection or shortcut to address
+Pada titik henti (hold point), keluarkan `[NEEDS G-08: verifikasi profesional, laporan lengkap, detail junction, dan rencana pengukuran lapangan]`. Jangan mengisi kekosongan dengan asumsi bahwa seal “pasti rapat” atau bahwa angka tertinggi selalu terbaik. Konsultasikan perbedaan tersebut kepada peninjau akustik dan tim desain sebelum pekerjaan berlanjut.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Sebelum serah terima, cocokkan daftar berikut dengan dokumen yang diberi nomor revisi:
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+- laporan uji dan metode/edisinya;
+- identitas spesimen, ukuran, lapisan, rangka, seal, pintu, dan penetrasi;
+- gambar kondisi terpasang (as-built) yang menunjukkan pertemuan dengan struktur dan utilitas;
+- catatan perubahan, penggantian, serta foto atau rekaman inspeksi sebelum tertutup;
+- hasil uji fungsi (commissioning) dan, bila dipersyaratkan proyek, hasil pengukuran lapangan;
+- penanggung jawab penerimaan dan tindakan koreksi jika hasil tidak mencapai kriteria.
 
-## Draft completion checklist
+Bandingkan nilai lapangan hanya dengan kriteria proyek yang telah disetujui, bukan dengan angka brosur. ASTM E336 membahas pengukuran antar-ruang di lapangan, sehingga interpretasi hasil harus mengikuti metode dan kondisi pengujian yang benar ([ASTM E336](https://store.astm.org/e0336-24.html)). Simpan versi laporan, alat ukur, tanggal, dan batasan agar keputusan berikutnya tidak memakai dokumen usang.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Jalan pintas yang tampak mudah tetapi berisiko
+
+Shortcut yang sering muncul adalah memilih produk dengan angka dB paling tinggi lalu menyalin angka itu ke spesifikasi. Cara ini gagal ketika angka berasal dari benda uji yang berbeda, diuji di laboratorium dengan tepi tertutup, sementara instalasi memiliki pintu, celah plafon, duct, dan struktur yang meneruskan bunyi. Alternatif yang lebih dapat dipertanggungjawabkan adalah meminta laporan lengkap, membuat matriks kecocokan, lalu menyepakati titik berhenti dan uji lapangan sebelum klaim dimasukkan ke serah terima. Untuk memahami konteks sistem partisi bergerak, lihat [contoh partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html), bukan sebagai bukti performa akustik proyek Anda.
+
+## Kesimpulan
+
+Laporan uji akustik dibaca dengan mencocokkan metrik, metode dan edisi, laboratorium, spesimen, ukuran, seal, frekuensi, hasil, dan keterterapan—bukan dengan memilih angka dB terbesar. Sobat Partisi.co.id, minta PDF utuh dan gambar detail, tandai setiap perbedaan, lalu ajukan `[NEEDS G-08]` untuk tinjauan profesional serta rencana pengukuran lapangan. Aturan kerjanya sederhana: angka laboratorium adalah bukti untuk konfigurasi yang diuji; penerimaan instalasi baru sah setelah sistem terpasang dan diverifikasi sesuai kriteria proyek.

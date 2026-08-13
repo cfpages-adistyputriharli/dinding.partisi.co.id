@@ -2,8 +2,9 @@
 article_id: PAR-18-01
 title: "Audit Partisi Eksisting sebelum Upgrade, Relokasi, atau Penggantian"
 slug: "audit-partisi-eksisting"
-description: "Record manufacturer, drawings, support, panels, track, seals, hardware, acoustics, compliance, damage, parts and room use"
-status: outline
+description: "Panduan mencatat identitas, dukungan, kondisi, fungsi, dan risiko partisi lama sebelum di-upgrade, dipindahkan, atau diganti."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,57 +18,26 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://peraturan.bpk.go.id/Home/Details/216870/permen-pupr-no-9-tahun-2021"
   - "https://www.iso.org/standard/69370.html"
   - "https://www.iso.org/standard/87610.html"
   - "https://www.iso.org/standard/14021.html"
   - "https://store.astm.org/e0557-12r26.html"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
-  - "https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000"
   - "https://www.iso.org/standard/79487.html"
   - "https://store.astm.org/e0090-23.html"
   - "https://store.astm.org/e0336-24.html"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
   - "https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos"
   - "https://www.ilo.org/resource/ilo-position-safety-use-asbestos"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Audit Partisi Eksisting sebelum Upgrade, Relokasi, atau Penggantian
 
-## Assignment lock
+Halo, Sobat Partisi.co.id! Partisi lama sering dianggap tinggal dibongkar lalu dipasang kembali. Padahal identitas sistem, jalur beban, kondisi track, seal, hardware, dan riwayat kerusakan mungkin tidak lagi jelas. Jawaban singkatnya: audit dulu untuk merekam apa yang ada, bagaimana cara kerjanya, dan risiko apa yang belum diketahui; baru pilih upgrade, relokasi, atau penggantian. Audit tidak menyatakan partisi pasti dapat digunakan kembali. **[NEEDS TECHNICAL REVIEW: kelayakan reuse dan relokasi harus disetujui profesional kompeten.]**
 
-- **Writer task:** Expand this file into one complete article answering: “Audit Partisi Eksisting sebelum Upgrade, Relokasi, atau Penggantian”
-- **Reader and situation:** Owner planning a major change
-- **Reader outcome:** Record manufacturer, drawings, support, panels, track, seals, hardware, acoustics, compliance, damage, parts and room use
-- **Primary intent:** Establish current system identity and condition
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Sobat Partisi.co.id`
-- **Natural variants:** `Kawan Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not certify reuse; PAR-18-02 owns relocation evidence and competent professionals approve
-- **Final public route:** `/artikel/audit-partisi-eksisting.html`
-- **Appointed CMS date:** `2026-07-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Catatan ini juga penting karena partisi memengaruhi fungsi, kenyamanan, pemeliharaan, dan dokumentasi bangunan. SNI 1727:2020 dan SNI 1726:2019 memberi kerangka beban dan gempa, tetapi katalog standar tidak menyediakan detail universal anchor atau jarak pengikat ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019](https://pesta.bsn.go.id/produk/detail/12762-sni17262019)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Audit Partisi Eksisting sebelum Upgrade, Relokasi, atau Penggantian**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Partisi.co.id`, `Kawan Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -78,157 +48,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Aset lokal proyek; bukan dokumentasi proyek tertentu.
 
-### KR-01
+## Apa yang dicatat dalam audit partisi lama?
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Mulai dari identitas: merek, model, usia perkiraan, nomor panel, jenis bukaan, gambar lama, manual, dan perubahan yang pernah dilakukan. Foto keseluruhan dan detail sambungan membantu menghubungkan catatan dengan lokasi. Jika label hilang, tulis “tidak teridentifikasi”, jangan menebak dari bentuk.
 
-### KR-10
+Lanjutkan ke sistem pendukung. Catat apakah panel berdiri di lantai atau digantung pada track, ke mana beban track diteruskan, kondisi anchor, ruang plafon, sambungan gerak, dan stacking pocket. Plafon gantung bukan otomatis struktur. FEMA E-74 membahas kerentanan komponen nonstruktural saat bangunan bergerak, tetapi bukan kode Indonesia atau izin untuk mengubah penopang tanpa desain ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+## Cara memeriksa panel, track, seal, dan hardware
 
-### KR-22
+Panel diperiksa untuk retak, delaminasi, sudut rusak, perubahan bentuk, dan bukaan pintu. Track diperiksa untuk kelurusan, sambungan, korosi, benda asing, serta akses pemeriksaan. Trolley atau roda diuji dengan gerakan perlahan; catat seret, bunyi, atau panel miring. Jangan memaksa panel yang macet karena gaya tambahan dapat memindahkan kerusakan ke gantungan atau anchor.
 
-- **Original sources:** [Permen PUPR No. 9 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Home/Details/216870/permen-pupr-no-9-tahun-2021), [ISO 20887:2020 design for disassembly/adaptability](https://www.iso.org/standard/69370.html), [ISO 14025:2026 environmental product declarations](https://www.iso.org/standard/87610.html), [ISO 14021:2026 self-declared environmental claims](https://www.iso.org/standard/14021.html)
-- **Purpose for this article:** Ground demountability, reuse, waste, EPD, and “green” claims in life-cycle evidence rather than slogans.
-- **Safe grounded facts:** “Demountable” does not prove reusable after removal, and an EPD does not automatically make one product preferable. Evaluation needs a common functional unit/scope, service conditions, replacement, maintenance, damage, disassembly method, recovery route, transport, and verified destination.
-- **Limits:** ISO abstracts do not supply project results. Verify current documents, comparable PCR/boundaries, Indonesian waste routes, and actual reuse/recycling capacity; resolve `G-14`.
+Seal dan jamb diperiksa saat panel tertutup. Celah tidak otomatis berarti seal harus diganti; lantai, posisi panel, atau tekanan lock mungkin menjadi penyebab. Untuk partisi operasional, dukungan track, berat panel, stacking, dan pengujian fungsi adalah bagian dari sistem ([Modernfold technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [ASTM E557-12(2026)](https://store.astm.org/e0557-12r26.html)).
 
-### KR-14
+## Fungsi ruang, akustik, dan kepatuhan
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+Tanyakan bagaimana ruang digunakan: seberapa sering dibuka, siapa operatornya, apakah ada pintu pass-door, kebutuhan privasi, dan jalur keluar. Angka STC atau Rw dari laboratorium tidak sama dengan isolasi ruangan terpasang. Perimeter, pintu, plafon, duct, penetrasi, dan junction dapat menurunkan hasil; metode ISO 10140-2, ASTM E90, dan ASTM E336 tidak membuktikan produk atau ruang tertentu lulus ([ISO 10140-2](https://www.iso.org/standard/79487.html), [ASTM E90](https://store.astm.org/e0090-23.html), [ASTM E336](https://store.astm.org/e0336-24.html)). **[NEEDS ACOUSTIC EVIDENCE: kriteria ruang dan laporan uji proyek belum tersedia.]**
 
-### KR-12
+Periksa juga dokumen aksesibilitas, kebakaran, dan penggunaan bangunan yang berlaku. Jangan menyatakan partisi lama patuh hanya karena masih berfungsi. Pintu, frame, seal, kaca, dan penetrasi memiliki bukti masing-masing bila klaim kebakaran atau egress dipakai.
 
-- **Original sources:** [SNI 03-6386-2000 acoustic design recommendation — BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2:2021 airborne sound-insulation laboratory method](https://www.iso.org/standard/79487.html), [ASTM E90 scope and laboratory/field limits](https://store.astm.org/e0090-23.html), [ASTM E336-24 field measurement between rooms](https://store.astm.org/e0336-24.html)
-- **Purpose for this article:** Prevent STC/Rw or “soundproof” claims from a material, panel, or laboratory specimen being presented as installed room performance.
-- **Safe grounded facts:** Laboratory and field quantities are different. Perimeters, doors, seals, head voids, ceilings, ducts, penetrations, junctions, workmanship, and adjacent structure can reduce achieved isolation. A test method does not prove a specific product passed or that the installed room will match.
-- **Limits:** Obtain full standards, complete current test reports, project acoustic criteria, junction design, and field-test plan where required. Resolve `G-08`.
+## Kondisi lingkungan dan material berisiko
 
-### KR-20
+Cari jejak kelembapan, kebocoran, korosi, jamur, dan pembersih yang tidak cocok. EPA menekankan pengendalian sumber kelembapan, sedangkan panduan perawatan ASSA ABLOY dan Bobrick berlaku untuk produk yang disebut, bukan semua merek ([EPA moisture guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)). Gejala berulang perlu dicari sebabnya, bukan ditutup dengan cat atau sealant baru.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Pada bangunan lama, papan, insulasi, perekat, atau pelapis yang tidak dikenal harus menjadi titik berhenti. WHO dan ILO menjelaskan risiko asbestos; inspeksi visual tidak cukup untuk membebaskan material tak dikenal. Jangan memotong, mengebor, mengampelas, atau mengambil sampel sendiri. Isolasi area dan minta penilai kompeten serta prosedur limbah setempat ([WHO asbestos](https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos), [ILO asbestos](https://www.ilo.org/resource/ilo-position-safety-use-asbestos)).
 
-### KR-23
+## Contoh keputusan audit
 
-- **Original sources:** [WHO asbestos fact sheet, 27 September 2024](https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos), [ILO position on safety in the use of asbestos](https://www.ilo.org/resource/ilo-position-safety-use-asbestos), [PP No. 22 Tahun 2021 environmental and waste-management framework — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html)
-- **Purpose for this article:** Establish a stop-before-disturbance gate for old boards, insulation, adhesives, coatings, contaminated wet areas, and unknown demolition waste.
-- **Safe grounded facts:** Visual inspection cannot reliably clear an unknown legacy material. Cutting, drilling, sanding, or demolition can turn a contained hazard into airborne dust or contaminated waste; flood/sewage or mold conditions add separate assessment needs.
-- **Limits:** Foreign WHO/ILO guidance does not define the complete Indonesian legal procedure. Do not tell readers to sample or remove suspect material themselves. Resolve `G-07`, `G-11`, and current local environmental requirements before procedural content.
+Jika panel terlihat baik tetapi track berkarat dan anchor tidak dapat diakses, keputusan bukan “reuse”. Statusnya “tahan untuk verifikasi penopang”. Jika seal aus tetapi panel, track, dan jamb teridentifikasi, minta supplier memeriksa kompatibilitas seal pengganti. Jika dokumen hilang dan ruang akan berubah fungsi, bandingkan biaya memperoleh data teknis dengan penggantian sistem; jangan membangun klaim performa dari tampilan.
 
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-18-02` → `/artikel/memindahkan-partisi-ke-opening-baru.html` — Bisakah Partisi Lama Dipindahkan ke Opening Baru?
-- `PAR-18-03` → `/artikel/upgrade-akustik-partisi.html` — Upgrade Akustik Partisi: Seal, Panel, Flanking, atau Ganti Sistem?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Audit Partisi Eksisting sebelum Upgrade, Relokasi, atau Penggantian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Audit Partisi Eksisting sebelum Upgrade, Relokasi, atau Penggantian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Audit Partisi Eksisting sebelum Upgrade, Relokasi, atau Penggantian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Audit Partisi Eksisting sebelum Upgrade, Relokasi, atau Penggantian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Audit Partisi Eksisting sebelum Upgrade, Relokasi, atau Penggantian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Partisi.co.id, buat tabel sederhana berisi lokasi, komponen, temuan, foto, dampak, tindakan sementara, penanggung jawab, dan status. Audit yang baik menghasilkan daftar ketidakpastian, bukan hanya daftar kerusakan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Audit Partisi Eksisting sebelum Upgrade, Relokasi, atau Penggantian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengukur panel lalu langsung memesan. Ukuran tidak menjelaskan kapasitas track, kondisi anchor, ruang stacking, atau kompatibilitas hardware. Kesalahan kedua adalah menganggap “demountable” berarti reusable. ISO 20887 membahas desain untuk pembongkaran dan adaptasi, tetapi reuse tetap memerlukan bukti kondisi, cara bongkar, transport, kerusakan, dan tujuan pemulihan ([ISO 20887](https://www.iso.org/standard/69370.html)).
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memakai label hijau sebagai bukti pilihan terbaik. EPD dan klaim lingkungan perlu batas fungsi, masa pakai, pemeliharaan, penggantian, dan tujuan yang dapat dibandingkan ([ISO 14025](https://www.iso.org/standard/87610.html), [ISO 14021](https://www.iso.org/standard/14021.html)). **[NEEDS ENVIRONMENTAL REVIEW: rute limbah dan kapasitas reuse lokal belum diverifikasi.]**
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sebelum menyusun rekomendasi, pisahkan temuan menjadi tiga tingkat. Tingkat pertama adalah kondisi yang mengharuskan penghentian sementara, seperti material tak dikenal, track yang tidak stabil, kabel atau sprinkler yang terganggu, dan panel yang dapat jatuh. Tingkat kedua adalah kondisi yang memerlukan verifikasi sebelum keputusan, seperti label hilang, retak yang penyebabnya belum jelas, atau laporan akustik yang tidak cocok dengan ruang. Tingkat ketiga adalah pekerjaan pemeliharaan biasa yang dapat dijadwalkan setelah sistem teridentifikasi. Pembagian ini membantu pemilik mengalokasikan waktu tanpa mengecilkan risiko.
 
-## Required conclusion
+Audit juga sebaiknya mencatat batas akses. Apakah pemeriksa dapat melihat bagian atas track, sisi belakang panel, anchor, dan ruang stacking tanpa membongkar? Jika tidak, tulis area yang belum terverifikasi dan jangan mengubahnya menjadi asumsi “kondisi baik”. Gunakan foto dengan penanda lokasi, sketsa sederhana, dan nomor panel agar inspeksi berikutnya dapat membandingkan perubahan. Catatan tanggal, operator yang hadir, dan kondisi ruang—termasuk apakah panel sedang dipakai—mencegah gejala sementara dianggap sebagai kondisi tetap.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Ketika hasil audit dibawa ke pengadaan, kirimkan paket yang sama kepada semua calon pemasok. Isinya identitas yang diketahui, ukuran terukur, foto, batas akses, daftar kerusakan, kebutuhan ruang, dan pertanyaan yang belum terjawab. Minta setiap pemasok menyatakan asumsi, pengecualian, komponen yang harus diganti, serta bukti yang mereka perlukan sebelum memberi rekomendasi. Dengan cara ini, perbandingan tidak hanya melihat harga pembongkaran, tetapi juga biaya verifikasi dan risiko perubahan.
 
-## Draft completion checklist
+## Bagaimana membuat rekaman audit yang dapat dipakai ulang?
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Bagian ini penting ketika keputusan tidak dibuat pada hari yang sama. Susun folder atau paket data dengan nama lokasi, tanggal, dan nomor audit. Simpan denah yang diberi tanda, foto berurutan, daftar komponen, hasil wawancara operator, serta dokumen lama dalam bentuk yang tidak menghapus revisi. Tandai mana pengamatan langsung, mana informasi dari pemilik, dan mana dugaan yang masih perlu dibuktikan. Pemisahan ini mencegah asumsi lama berubah menjadi “fakta” ketika paket berpindah tangan.
+
+Gunakan kode sederhana untuk temuan: identitas, struktur penopang, gerak, penutupan, lingkungan, fungsi, dan dokumen. Satu temuan sebaiknya memiliki lokasi, bukti, dampak yang mungkin, tindakan sementara, penanggung jawab, dan tanggal tindak lanjut. Misalnya, “panel P-04 seret” belum cukup; tambahkan kapan gejala terjadi, pada jalur mana, apakah lantai basah, dan apakah lock ikut gagal. Detail kecil ini membantu teknisi menguji penyebab tanpa mengulang seluruh survei.
+
+Jika audit akan mendukung relokasi, tambahkan urutan pembongkaran yang diusulkan hanya sebagai bahan review, bukan instruksi final. Catat sambungan mana yang dapat diakses, komponen mana yang mungkin rusak saat dibuka, dan bagaimana panel akan dilindungi selama pemindahan. Berat panel, jalur angkut, lift, pintu, dan ruang penyimpanan sementara dapat mengubah keputusan. **[NEEDS RELOCATION METHOD REVIEW: urutan bongkar, alat angkat, dan rute pemindahan belum disetujui.]**
+
+Untuk rencana upgrade akustik, bedakan target ruang dari target material. Periksa pintu, seal perimeter, head void, dinding samping, plafon, lantai, dan penetrasi sebelum menyimpulkan bahwa panel adalah sumber utama kebocoran suara. SNI 03-6386-2000 memberi rekomendasi desain akustik pada tingkat katalog, sedangkan hasil laboratorium ISO atau ASTM tidak menjamin kondisi lapangan. Minta kriteria ruang, detail junction, dan rencana pengukuran yang disetujui sebelum memesan perubahan.
+
+Terakhir, adakan pertemuan penutupan audit dengan pemilik, operator, pemasok, dan profesional terkait. Bacakan temuan yang belum selesai, jelaskan keputusan yang tertunda, dan pastikan setiap pihak memahami batas dokumen. Sobat Partisi.co.id, audit yang jujur boleh berakhir dengan kalimat “belum dapat diputuskan”. Kalimat itu lebih aman daripada rekomendasi cepat yang dibangun dari data tidak lengkap.
+
+## Kesimpulan: audit menjelaskan kondisi, bukan memberi sertifikat reuse
+
+Audit partisi eksisting harus merekam identitas, dukungan, panel, track, trolley, seal, hardware, fungsi ruang, lingkungan, dokumen, dan bukti kinerja. Hasilnya dipakai untuk memilih upgrade, relokasi, penggantian, atau studi tambahan—bukan untuk mengesahkan reuse secara otomatis.
+
+Kawan Partisi.co.id, minta survei terdokumentasi, gambar kondisi, daftar temuan, dan keputusan profesional sebelum membongkar. Anda dapat melihat [contoh konteks partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html), tetapi halaman layanan bukan bukti kondisi aset Anda. Aturan akhirnya: jangan mengganggu material yang tidak dikenal dan jangan mengklaim partisi lama layak dipindahkan sampai identitas, jalur beban, kondisi, dan persetujuan teknis benar-benar jelas.

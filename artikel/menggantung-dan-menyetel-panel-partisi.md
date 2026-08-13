@@ -2,8 +2,9 @@
 article_id: PAR-13-03
 title: "Menggantung dan Menyetel Panel Partisi"
 slug: "menggantung-dan-menyetel-panel-partisi"
-description: "Cover identity, handling, carrier engagement, order, level, plumb, clearances, seals, locks, movement and records"
-status: outline
+description: "Panduan memeriksa identitas panel, penanganan, urutan pemasangan, kerataan, ketegakan, celah, perapat, kunci, pergerakan, dan catatan inspeksi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,57 +18,31 @@ sources:
   - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
   - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
   - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
   - "https://store.astm.org/e0557-12r26.html"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
   - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
   - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Menggantung dan Menyetel Panel Partisi
 
-## Assignment lock
+Halo, Teman Partisi.co.id! Menggantung panel partisi bukan sekadar mengangkat lembaran lalu mengencangkan sekrup. Panel harus dikenali, dipasang pada carrier atau track yang benar, disusun sesuai urutan, lalu disetel level, tegak, celah, seal, dan kuncinya. Pemeriksaan akhir harus membuktikan panel bergerak dan menutup sesuai fungsi, bukan hanya tampak rapi.
 
-- **Writer task:** Expand this file into one complete article answering: “Menggantung dan Menyetel Panel Partisi”
-- **Reader and situation:** Installer or QA team
-- **Reader outcome:** Cover identity, handling, carrier engagement, order, level, plumb, clearances, seals, locks, movement and records
-- **Primary intent:** Plan panel hanging and initial adjustment
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not authorize lifting or proprietary adjustments; manufacturer method and PAR-17-02 govern safety
-- **Final public route:** `/artikel/menggantung-dan-menyetel-panel-partisi.html`
-- **Appointed CMS date:** `2026-03-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Urutan amannya adalah: cocokkan identitas dan kondisi panel dengan gambar kerja, pastikan track dan tumpuan sudah disetujui, lakukan penanganan menurut metode pabrikan, gantung satu per satu tanpa memaksa, setel dari acuan tetap, kemudian uji gerak dan dokumentasikan. Detail beban, alat angkat, torsi, toleransi, dan penyetelan proprietary tidak boleh ditebak. [NEEDS PROJECT METHOD REVIEW: konfirmasi metode pengangkatan, kapasitas carrier, toleransi, dan titik pemeriksaan sebelum pekerjaan.] Manual sistem bergerak membahas track, kantong parkir, seal, jamb, dan penggunaan sistem sebagai satu rangkaian, bukan panel lepas ([Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)). Untuk istilah atau persyaratan standar, baca ruang lingkup dokumen [ASTM E557](https://store.astm.org/e0557-12r26.html) yang berlaku; halaman katalog itu bukan bukti bahwa pemasangan tertentu telah memenuhi standar.
 
-## Opening instructions
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menggantung dan Menyetel Panel Partisi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Aset lokal ini bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -78,159 +53,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-15
-
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-### KR-14
-
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
-
-### KR-11
-
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
-
-### KR-10
-
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-13-01` → `/artikel/kesiapan-site-sebelum-partisi-dikirim.html` — Checklist Kesiapan Site sebelum Partisi Dikirim
-- `PAR-13-02` → `/artikel/urutan-instalasi-track-partisi.html` — Urutan Instalasi Track dan Support Partisi
-- `PAR-13-04` → `/artikel/menutup-interface-partisi-setelah-instalasi.html` — Menutup Interface Jamb, Lantai, dan Plafon setelah Panel Terpasang
-- `PAR-13-05` → `/artikel/perlindungan-partisi-selama-konstruksi.html` — Melindungi Panel dan Track selama Pekerjaan Interior Berlanjut
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menggantung dan Menyetel Panel Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling mahal adalah menyamakan “sudah tergantung” dengan “sudah terkomisioning”. Panel yang masuk track tetapi carrier-nya salah, urutannya tertukar, atau seal-nya terjepit dapat sulit digerakkan dan menimbulkan beban tak diinginkan. Sebaliknya, celah yang terlihat seragam belum membuktikan dinding tegak, pintu aman, atau fungsi akustik dan kebakaran.
+
+Tahan pekerjaan bila identitas panel, arah muka, nomor urut, atau kapasitas tumpuan tidak cocok dengan dokumen yang disetujui. Penggantian komponen dan deviasi tanpa catatan dapat menghilangkan bukti kinerja, garansi, dan keselamatan; barang tersembunyi juga sulit diverifikasi setelah penutupan ([Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menggantung dan Menyetel Panel Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Menggantung” di sini berarti menghubungkan panel ke carrier, roda, engsel, atau hardware yang memang dirancang sistemnya, lalu menempatkannya pada track atau support. “Menyetel” berarti melakukan koreksi awal yang diizinkan: posisi, level, plumb, celah, pertemuan jamb, seal, dan penguncian. Ini bukan izin untuk memodifikasi panel, mengebor ulang, mengubah track, atau mengangkat beban tanpa rencana keselamatan.
+
+Bahan muka juga bukan spesifikasi lengkap. Istilah phenolic, HPL, atau compact hanya mengidentifikasi keluarga material; grade interior tidak otomatis grade eksterior, dan tahan lembap tidak berarti rakitan boleh terendam ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [ISO 4586-6](https://www.iso.org/standard/72964.html)). Karena itu, instruksi pemasok, gambar terbitan, dan persetujuan profesional tetap menjadi rujukan utama.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menggantung dan Menyetel Panel Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan daftar penerimaan: kode panel, dimensi pada gambar, orientasi, aksesori, dan kerusakan tepi. Foto label dan kondisi awal. Pastikan track, bracing, anchor, dan struktur penumpu telah diperiksa oleh pihak berwenang; jangan menganggap grid plafon sebagai tumpuan tanpa detail desain dan pemeriksaan lapangan. Gunakan panduan pengurangan risiko komponen nonstruktural [FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf) sebagai konteks, bukan sebagai persetujuan untuk sistem ini. Identitas dan status standar terkait dapat diperiksa di katalog [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020).
+
+Berikutnya, lakukan briefing penanganan. Tentukan jalur, area bebas, komunikasi aba-aba, dan titik berhenti. Jangan mengandalkan tenaga manual atau alat sementara jika metode pabrikan meminta perangkat tertentu. Panel yang ditopang sementara harus stabil dan terlindung dari benturan.
+
+Pasang sesuai nomor urut dan arah yang disetujui. Kaitkan carrier tanpa memaksa; jika lubang, roda, atau pengunci tidak sejajar, hentikan dan cari penyebabnya. Setelah beberapa panel terpasang, ukur acuan tetap: garis track, level lantai, tegak muka, dan posisi jamb. Koreksi kecil dilakukan pada mekanisme yang memang disediakan, bukan dengan memelintir panel.
+
+Setel seal setelah geometri benar. Seal harus menyentuh bidang pasang secara konsisten, tidak terlipat, dan tidak menghalangi gerak. Pintu atau pass door perlu diuji terpisah karena menambah framing, engsel, latch, celah, dan kemungkinan dampak pada jalur keluar. Verifikasi persyaratan egress serta setiap klaim peringkat dinding, pintu, frame, hardware, dan penetrasi pada gambar serta dokumen desain yang berlaku; halaman katalog [SNI 03-1746-2000](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000) dan [SNI 03-6766-2002](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002) hanya membantu mengidentifikasi dokumen, bukan membuktikan kepatuhan rakitan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menggantung dan Menyetel Panel Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi support adalah faktor pertama. Beban panel, bukaan pintu, dinding tinggi, top-hung system, dan gerakan bangunan dapat mengubah tuntutan pada track, anchor, dan sambungan; angka universal untuk jarak stud, anchor, atau defleksi tidak aman dipublikasikan tanpa desain proyek. Periksa identitas dokumen gempa yang dirujuk proyek melalui katalog [SNI 1726:2019](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), lalu minta perhitungan atau persetujuan profesional bila sistem berada pada kondisi tersebut.
+
+Lingkungan juga penting. Kebocoran, kondensasi, kontak kapiler, ventilasi buruk, dan lubang fastener dapat merusak tepi serta seal. “Moisture resistant” bukan “waterproof assembly”; periksa sumber air dan akses pengeringan sebelum memilih sealant atau memutuskan perbaikan ([EPA moisture guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf)).
+
+Material penyusun, bahan pembersih, frekuensi operasi, dan kompetensi pengguna ikut menentukan umur layanan. Panduan perawatan seal hanya berlaku untuk produk yang disebut, sehingga interval dan bahan kimia harus dicocokkan dengan manual yang berlaku ([Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menggantung dan Menyetel Panel Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Temuan di lapangan | Keputusan awal | Bukti yang diminta |
+|---|---|---|
+| Label panel cocok, track belum disetujui | Tunda penggantungan | Gambar support, pemeriksaan anchor, persetujuan QA |
+| Panel masuk carrier tetapi seret | Hentikan, jangan dipaksa | Manual sistem, pemeriksaan roda/track, catatan penyetelan |
+| Celah berubah saat panel ditutup | Periksa level, plumb, dan urutan | Hasil ukur sebelum/sesudah, foto titik acuan |
+| Seal terlipat atau tertekan | Buka kembali sesuai metode | Part number seal, instruksi pemasok |
+| Ada pintu pada panel | Uji operasi dan jalur keluar terpisah | Detail frame, hardware, dan persetujuan egress |
+
+Sobat Partisi.co.id, tabel ini bukan pengganti toleransi pabrikan. Ia membantu menentukan kapan pekerjaan boleh maju dan kapan [NEEDS TECHNICAL REVIEW] harus dibuka untuk pemasok, perancang, atau HSE.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menggantung dan Menyetel Panel Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortcut pertama adalah menyusun panel berdasarkan kemudahan akses, bukan nomor urut. Periksa label, arah muka, dan posisi parkir sebelum carrier dikunci. Shortcut kedua adalah mengejar garis visual dengan mengganjal panel. Cara itu dapat menyembunyikan masalah track atau struktur; ukur dari datum dan catat penyebab koreksi.
 
-## Objection or shortcut to address
+Shortcut ketiga adalah menguji satu panel saja. Jalankan seluruh rangkaian: buka, tutup, parkir, kunci, dan ulangi pada kondisi yang ditentukan manual. Amati bunyi, seretan, perubahan celah, seal yang bergeser, dan jamb yang tidak menutup. Jangan menyimpulkan rating akustik, kebakaran, atau beban hanya dari uji visual; klaim sistem harus memiliki bukti produk dan desain yang tepat ([dormakaba MOVEO](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Catat nomor panel, tanggal, kru, alat ukur, hasil ukur, deviasi, foto sambungan, dan keputusan buka/tutup pekerjaan. Rekaman ini menjadi dasar inspeksi berikutnya, terutama untuk komponen yang akan tertutup.
 
-## Required conclusion
+## Jalan pintas yang perlu ditolak
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Kalau panel sudah menggantung dan pintunya bisa ditutup, berarti selesai.” Tidak selalu. Gerak sementara dapat terasa baik saat satu panel diuji, tetapi berubah ketika seluruh beban, seal, dan jamb bekerja bersama. Alternatif yang lebih andal adalah membuat inspeksi-dan-uji-rencana singkat: identitas, support, urutan, geometri, seal, lock, gerak penuh, lalu penerimaan oleh pihak yang ditunjuk. Jangan menyalin torsi atau toleransi dari merek lain.
 
-## Draft completion checklist
+## Langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Menggantung dan menyetel panel partisi berarti membuktikan hubungan antara panel, carrier, track, support, seal, pintu, dan fungsi geraknya. Langkah berikutnya adalah meminta metode pemasok dan gambar proyek terbaru, menandai titik [NEEDS PROJECT METHOD REVIEW], lalu melakukan inspeksi bersama QA, kontraktor, perancang, pemasok, dan HSE sesuai kewenangan. Untuk kebutuhan regional, Anda dapat membandingkan konteks layanan pada [contoh partisi lipat di Yogyakarta](/partisi-lipat-yogyakarta.html), tanpa menganggap halaman itu sebagai spesifikasi sistem Anda. Kawan Partisi.co.id, aturan operasinya sederhana: bila identitas, tumpuan, geometri, atau fungsi belum punya bukti tercatat, jangan nyatakan panel selesai—hentikan, dokumentasikan, dan minta persetujuan teknis.

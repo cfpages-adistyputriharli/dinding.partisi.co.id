@@ -2,8 +2,9 @@
 article_id: PAR-14-02
 title: "Memeriksa Alignment, Gerak, Lock, dan Seal saat Commissioning"
 slug: "pemeriksaan-fungsi-partisi-saat-commissioning"
-description: "Define setup, panel sequence, observations, measurement points, repeat cycles, recording and escalation"
-status: outline
+description: "Panduan praktis untuk tim QA memeriksa keselarasan, gerak panel, penguncian, dan seal saat commissioning partisi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-03"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,58 +17,18 @@ technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
   - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000"
-  - "https://www.iso.org/standard/79487.html"
-  - "https://store.astm.org/e0090-23.html"
-  - "https://store.astm.org/e0336-24.html"
-  - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
-  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Memeriksa Alignment, Gerak, Lock, dan Seal saat Commissioning
 
-## Assignment lock
+Halo, Kawan Partisi.co.id! Panel terlihat rapi belum berarti sistem partisi siap dipakai. Saat commissioning (uji fungsi sebelum serah terima), tim QA (quality assurance atau penjaminan mutu) perlu membuktikan bahwa panel berada pada posisi yang benar, bergerak sesuai urutan, mengunci tanpa dipaksa, dan seal menutup pada titik yang memang dirancang. Kesalahan umum adalah hanya melihat hasil akhir; padahal panel dapat tampak sejajar ketika diam tetapi mengikat saat digerakkan atau tidak menutup rapat di sambungan.
 
-- **Writer task:** Expand this file into one complete article answering: “Memeriksa Alignment, Gerak, Lock, dan Seal saat Commissioning”
-- **Reader and situation:** QA team witnessing operation
-- **Reader outcome:** Define setup, panel sequence, observations, measurement points, repeat cycles, recording and escalation
-- **Primary intent:** Verify functional behavior consistently
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Kawan Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not set proprietary acceptance values; approved documents govern criteria
-- **Final public route:** `/artikel/pemeriksaan-fungsi-partisi-saat-commissioning.html`
-- **Appointed CMS date:** `2026-04-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Cara paling aman adalah membuat urutan uji yang disetujui proyek, mencatat kondisi awal, menjalankan setiap panel dalam konfigurasi operasi normal, lalu mengulanginya dan menutup temuan dengan bukti. Nilai celah, gaya, beban, atau jumlah siklus bukan angka universal di artikel ini. Gunakan gambar kerja, manual sistem yang terpasang, dan kriteria penerimaan yang disetujui. Jika dokumen itu belum ada, tandai **[NEEDS PROJECT ACCEPTANCE CRITERIA AND APPROVED METHOD]** sebelum menyatakan lulus.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memeriksa Alignment, Gerak, Lock, dan Seal saat Commissioning**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Partisi.co.id`, `Sobat Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -78,158 +39,81 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-### KR-01
+## Hasil akhir dan prasyarat pemeriksaan fungsi
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Sebelum memilih alat, sepakati dulu arti “lulus”. Bagian ini mencegah pemeriksaan berubah menjadi pendapat visual dan menjelaskan siapa yang memutuskan, data apa yang dibawa, serta kondisi area yang harus siap.
 
-### KR-19
+Hasil commissioning adalah catatan yang dapat ditelusuri: identitas panel atau bentang, konfigurasi saat diuji, pengamatan alignment (keselarasan posisi), gerak, lock (penguncian), dan seal (perapat), pengulangan uji, temuan, serta keputusan buka-koreksi-uji ulang. Alignment berarti hubungan panel terhadap jalur, jamb (tiang atau penutup ujung panel), dan panel tetangga tetap sesuai gambar; mekanismenya terlihat dari celah dan pertemuan yang konsisten ketika panel bergerak; konsekuensinya adalah gerak tidak mengikat dan penutupan dapat diperiksa. Cara mengukurnya dan batas lulus tetap mengikuti dokumen proyek.
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
+Kontraktor atau pemasok yang memahami sistem menjalankan operasi, QA mencatat, dan wakil perancang atau pemilik menyetujui hasil sesuai matriks tanggung jawab. Siapkan gambar terbitan terakhir, daftar panel, manual operasi, berita perubahan, alat ukur yang statusnya masih berlaku, serta formulir temuan. Petunjuk pemasangan pabrikan menekankan pentingnya dukungan, urutan, dan komponen yang sesuai; lihat contoh instruksi partisi Bobrick untuk pola dokumentasinya ([instruksi pemasangan Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
 
-### KR-21
+Jika lantai, rel, saku parkir, pintu, atau area aman belum siap, jangan memaksa uji parsial lalu menyebut sistem lulus. Commissioning harus mewakili konfigurasi pemakaian yang akan diserahkan.
 
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
+## Langkah 1 — Tetapkan ruang lingkup alignment, gerak, lock, dan seal
 
-### KR-12
+Scope yang jelas mencegah tim mencampur uji fungsi dengan klaim struktur, akustik, kebakaran, atau garansi. Setelah objek dan antarmuka ditentukan, bagian ini membantu Anda memutuskan apa yang diamati dan apa yang harus dirujuk ke disiplin lain.
 
-- **Original sources:** [SNI 03-6386-2000 acoustic design recommendation — BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2:2021 airborne sound-insulation laboratory method](https://www.iso.org/standard/79487.html), [ASTM E90 scope and laboratory/field limits](https://store.astm.org/e0090-23.html), [ASTM E336-24 field measurement between rooms](https://store.astm.org/e0336-24.html)
-- **Purpose for this article:** Prevent STC/Rw or “soundproof” claims from a material, panel, or laboratory specimen being presented as installed room performance.
-- **Safe grounded facts:** Laboratory and field quantities are different. Perimeters, doors, seals, head voids, ceilings, ducts, penetrations, junctions, workmanship, and adjacent structure can reduce achieved isolation. A test method does not prove a specific product passed or that the installed room will match.
-- **Limits:** Obtain full standards, complete current test reports, project acoustic criteria, junction design, and field-test plan where required. Resolve `G-08`.
+Daftarkan setiap lintasan panel, titik awal dan akhir, arah gerak, posisi tumpuk, pass door bila ada, jamb, ambang, rel atas, dan pertemuan dengan dinding atau plafon. Tandai antarmuka yang bukan bagian paket—misalnya struktur penyangga atau lantai—tetapi dapat membuat panel miring. Sistem dinding bergerak dipengaruhi dukungan rel, berat panel, saku tumpuk, kerataan lantai, seal, dan penutupan jamb; dokumen teknis Modernfold menjelaskan mengapa semua item itu perlu berada dalam paket pemeriksaan ([contoh spesifikasi teknis Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
 
-### KR-14
+Nyatakan juga yang tidak diuji. Pemeriksaan ini tidak menetapkan rating akustik, ketahanan api, kapasitas rel, atau nilai proprietary. Penambahan pintu dapat mengubah rangka, beban, jarak bebas, dan fungsi keluar; bukti untuk aspek tersebut perlu paket uji dan persetujuan tersendiri. Untuk sistem bergerak, manual operasi dormakaba dapat menjadi rujukan urutan produk yang dinamai, bukan toleransi bagi sistem lain ([petunjuk operasi dormakaba](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi).
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+## Langkah 2 — Kumpulkan dan cocokkan bukti sebelum panel digerakkan
 
-### KR-11
+Urutan dokumen menentukan apakah observasi dapat dipercaya. Jembatan ini penting karena panel yang sudah ditutup atau diubah sulit diverifikasi tanpa rekaman, sementara penggantian komponen dapat mengubah bukti fungsi.
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+Cocokkan nomor revisi gambar dengan kondisi terpasang. Periksa jenis panel, arah operasi, perangkat lock, profil seal, hardware pintu, dan detail rel terhadap submittal (dokumen pengajuan teknis) yang disetujui. Catat substitusi atau deviasi sebagai temuan, bukan asumsi bahwa komponennya setara. Permen PUPR tentang sistem manajemen keselamatan konstruksi menempatkan perencanaan, pelaksanaan, dan pengendalian sebagai hal yang perlu dikelola dalam pekerjaan konstruksi ([Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)).
 
-### KR-20
+Buat lembar observasi dengan kolom: identitas panel, posisi, kondisi awal, tindakan operator, hasil alignment, rasa gerak (ringan/seret menurut kriteria proyek), status lock, kontinuitas seal, foto atau video, saksi, tanggal, dan nomor NCR bila ada. Jangan menulis “rapi” saja; tulis lokasi dan keadaan yang dapat diperiksa ulang. Jika ada alat ukur, catat titik ukur, satuan, kondisi, dan identitas alat. Nilai yang belum memiliki batas persetujuan diberi status “data untuk review”, bukan “lulus”.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+## Langkah 3 — Jalankan urutan kerja dan ulangi secara konsisten
 
-## Evidence gates
+Dengan bukti awal cocok, uji dilakukan dari kondisi aman ke konfigurasi penuh. Bagian ini mencegah operator mengubah urutan untuk menghindari titik seret dan membantu tim membedakan masalah satu panel dari masalah antarmuka.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+Mulai dengan area steril dan komunikasi satu komando. Amati panel saat diam: garis pertemuan, posisi terhadap jamb, rel, lantai, dan panel tetangga. Lanjutkan satu urutan operasi sesuai manual sistem: lepaskan pengunci yang memang harus dilepas, gerakkan panel melalui lintasan, parkir atau tumpuk pada posisi yang ditentukan, lalu kembalikan ke posisi tutup. Jangan menambah gaya, alat bantu, atau langkah yang tidak tertulis untuk “membantu” panel.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Pada setiap tahap, pisahkan observasi dari makna. Observasi dapat berupa panel berhenti di titik tertentu, celah berubah, handle tidak kembali, atau seal terlipat. Maknanya baru ditetapkan setelah dibandingkan dengan gambar dan kriteria penerimaan. Untuk lock, catat apakah perangkat mengunci penuh pada posisi yang benar dan dapat dilepas dengan cara normal. Untuk seal, periksa kehadiran, kontinuitas, kerusakan, dan kontak pada titik penutupan yang disyaratkan; jangan menyimpulkan performa akustik atau api dari sentuhan visual.
 
-## Internal-link plan
+Ulangi urutan sesuai jumlah siklus yang disetujui proyek. Bila dokumen hanya meminta demonstrasi fungsi tanpa jumlah siklus, tulis kondisi itu dan minta keputusan, bukan menetapkan angka sendiri. Kawan Partisi.co.id, satu demonstrasi yang berhasil tidak menghapus temuan pada pengulangan berikutnya; rekaman berurutan membuat pola masalah terlihat.
 
-### Existing local routes
+## Titik berhenti dan kondisi sebelum dinyatakan lulus
 
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Hold point berarti pekerjaan berhenti sementara sampai pihak berwenang meninjau bukti. Penjelasan ini mencegah dorongan untuk mengakali gejala dan menunjukkan kapan operator harus mengembalikan keputusan kepada perancang, pemasok, QA, atau HSE.
 
-### Planned sibling articles
+Hentikan uji bila panel mengikat keras, keluar jalur, jatuh, menghasilkan bunyi atau kerusakan baru, lock tidak dapat dilepas secara normal, seal terjepit, atau orang dan aset berada di jalur bahaya. Hentikan pula bila konfigurasi terpasang berbeda dari submittal, rel atau penyangga belum diverifikasi, pintu mengganggu fungsi keluar, atau ada keraguan bahwa komponen bukan produk yang disetujui.
 
-These are future routes. Do not link them as live until their HTML exists.
+Buka NCR (non-conformance report atau catatan ketidaksesuaian) atau catatan deviasi dengan lokasi, kondisi saat kejadian, urutan terakhir yang berhasil, dan bukti foto/video. Jangan menggerinda, menambah ganjal, memindah hardware, atau mengganti seal sebelum metode koreksi disetujui. [NEEDS PROFESSIONAL REVIEW FOR STRUCTURE, EGRESS, FIRE, ACOUSTIC, OR PRODUCT-SPECIFIC ACCEPTANCE.]
 
-- `PAR-14-01` → `/artikel/commissioning-movable-partition.html` — Commissioning Movable Partition: dari Gerak Panel sampai Dokumen
-- `PAR-14-03` → `/artikel/commissioning-pass-door-partisi.html` — Commissioning Pass Door di Dalam Panel Partisi
-- `PAR-14-04` → `/artikel/uji-akustik-lapangan-partisi.html` — Merencanakan Uji Akustik Lapangan untuk Partisi Terpasang
+## Verifikasi hasil dan serah terima yang dapat ditelusuri
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Serah terima (handover) bukan sekadar tanda tangan; penerima perlu dapat mengulangi operasi dan memahami batasnya. Bagian ini mengubah catatan lapangan menjadi keputusan yang bisa diaudit tanpa mengklaim hasil di luar uji yang benar-benar dilakukan.
 
-## Hasil akhir dan prasyarat
+Gunakan checklist penutupan berikut:
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Alignment, Gerak, Lock, dan Seal saat Commissioning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- konfigurasi dan revisi dokumen cocok dengan kondisi terpasang;
+- setiap panel memiliki identitas, arah gerak, dan hasil alignment;
+- urutan gerak, posisi parkir, lock, dan seal dicatat pada kondisi normal;
+- pengulangan uji, temuan, koreksi, dan uji ulang memiliki referensi yang sama;
+- manual operasi, batas penggunaan, daftar suku cadang, dan kontak servis diserahkan;
+- item terbuka diberi penanggung jawab dan status, bukan dihapus dari daftar.
 
-## Langkah 1 — tetapkan scope
+Untuk seal, serahkan juga aturan pembersihan dan pemeriksaan yang berlaku hanya pada produk yang benar-benar terpasang. Panduan pemeliharaan Lorient, misalnya, adalah instruksi produk tertentu dan tidak dapat dijadikan interval universal ([panduan pemeliharaan ASSA ABLOY Lorient](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide)).
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Alignment, Gerak, Lock, dan Seal saat Commissioning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tautkan tindak lanjut ke halaman [contoh partisi lipat di Yogyakarta](/partisi-lipat-yogyakarta.html) atau [contoh partisi lipat di Tuban](/partisi-lipat-tuban.html) hanya bila pembaca membutuhkan konteks jenis sistem; halaman tersebut bukan bukti bahwa proyek Anda memiliki konfigurasi yang sama.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Mengapa “sudah dicoba sekali” bukan bukti commissioning selesai
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Alignment, Gerak, Lock, dan Seal saat Commissioning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortcut yang sering dipilih adalah menggerakkan satu panel sekali, melihatnya menutup, lalu menandai semua panel lulus. Cara ini gagal ketika urutan, arah, titik tumpuk, atau gaya operator berbeda dari pemakaian normal. Gejala seperti seret atau lock yang hanya muncul pada pengulangan tidak akan tercatat.
 
-## Langkah 3 — jalankan urutan kerja
+Alternatif yang lebih andal adalah uji per konfigurasi, gunakan operator yang ditunjuk, rekam setiap penyimpangan, dan minta persetujuan ketika batas penerimaan belum tersedia. Teman Partisi.co.id, bukti yang jujur tentang item tertunda lebih berguna daripada tanda lulus yang tidak dapat dipertanggungjawabkan.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Alignment, Gerak, Lock, dan Seal saat Commissioning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: putuskan berdasarkan urutan dan bukti, bukan tampilan
 
-## Hold point dan kondisi berhenti
+Pemeriksaan alignment, gerak, lock, dan seal saat commissioning selesai ketika setiap konfigurasi yang disyaratkan telah dijalankan, diamati, diulang, dan dibandingkan dengan kriteria proyek yang disetujui. Catat titik ukur dan penyimpangan, hentikan pekerjaan pada kondisi berbahaya atau tidak cocok, lalu minta review profesional untuk aspek struktur, egress, kebakaran, akustik, dan kriteria produk.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Alignment, Gerak, Lock, dan Seal saat Commissioning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Alignment, Gerak, Lock, dan Seal saat Commissioning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya adalah meminta dokumen penerimaan dan manual sistem yang terpasang, mengisi lembar uji bersama pemasok serta QA, dan menutup setiap NCR dengan uji ulang. Aturan operasinya sederhana: tidak ada angka atau klaim “lulus” tanpa dasar dokumen yang berlaku untuk sistem dan proyek tersebut.

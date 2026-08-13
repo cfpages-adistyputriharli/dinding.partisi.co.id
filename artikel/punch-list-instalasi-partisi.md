@@ -2,8 +2,9 @@
 article_id: PAR-13-06
 title: "Punch List Instalasi Partisi yang Bisa Ditutup dengan Bukti"
 slug: "punch-list-instalasi-partisi"
-description: "Define location, panel mark, requirement, observation, photo, owner, action, reinspection and closure evidence"
-status: outline
+description: "Panduan mencatat lokasi, tanda panel, persyaratan, temuan, foto, penanggung jawab, tindakan, inspeksi ulang, dan bukti penutupan punch list instalasi partisi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,60 +15,14 @@ reader_address: "Teman Partisi.co.id"
 final_route: "/artikel/punch-list-instalasi-partisi.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
-  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
   - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
+  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
+  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
   - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
-  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Punch List Instalasi Partisi yang Bisa Ditutup dengan Bukti
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Punch List Instalasi Partisi yang Bisa Ditutup dengan Bukti”
-- **Reader and situation:** QA team before commissioning
-- **Reader outcome:** Define location, panel mark, requirement, observation, photo, owner, action, reinspection and closure evidence
-- **Primary intent:** Record and close installation defects
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not replace commissioning; PAR-14-01 owns system acceptance
-- **Final public route:** `/artikel/punch-list-instalasi-partisi.html`
-- **Appointed CMS date:** `2026-03-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Punch List Instalasi Partisi yang Bisa Ditutup dengan Bukti**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -78,157 +33,86 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Punch List Instalasi Partisi yang Bisa Ditutup dengan Bukti
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Partisi.co.id! Menjelang serah terima, tim QA (quality assurance atau jaminan mutu) sering menemukan catatan seperti “panel rusak”, “pintu seret”, atau “seal/karet penutup belum rapi”. Masalahnya bukan sekadar jumlah catatan. Jika lokasi, persyaratan, pemilik tindakan, dan bukti penutupan tidak jelas, item mudah dinyatakan selesai hanya karena tampak lebih rapi.
 
-### KR-01
+Punch list instalasi partisi yang dapat ditutup dengan bukti harus menghubungkan sembilan hal: lokasi, tanda panel, persyaratan yang dipakai, observasi, foto, pemilik, tindakan, inspeksi ulang, dan bukti penutupan. Foto sebelum dan sesudah membantu, tetapi tidak menggantikan pemeriksaan fungsi, dokumen produk, atau persetujuan pihak yang berwenang. Artikel ini membantu QA memilih bukti yang cukup untuk menutup cacat instalasi, sementara penerimaan sistem tetap berada pada proses commissioning (pengujian dan pemeriksaan kesiapan sebelum serah terima) dan review proyek [NEEDS G-01/G-05/G-09].
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-### KR-08
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Sebelum membuat kolom atau mengambil foto, luruskan dulu objek yang sedang dinilai. Bagian berikut membatasi arti “selesai” agar catatan QA tidak berubah menjadi klaim penerimaan sistem.
 
-### KR-15
+## Apa yang dimaksud punch list instalasi partisi dan apa batasnya?
 
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
+Punch list adalah daftar ketidaksesuaian atau pekerjaan tersisa yang ditautkan ke persyaratan tertentu, lalu diberi tindakan dan bukti verifikasi. “Tertutup” berarti temuan sudah diperiksa ulang terhadap persyaratan yang sama dan ada pihak yang menyetujui statusnya; bukan sekadar item diberi warna hijau di lembar kerja.
 
-### KR-19
+Batas ini penting karena cacat yang terlihat dapat menyembunyikan pekerjaan di balik panel. Panduan pemasangan partisi toilet Bobrick, misalnya, memisahkan kebutuhan panel, rangka, pengikat, dan perangkat pintu dalam instruksi sistemnya ([instruksi pemasangan Bobrick](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)). Untuk dinding rangka metal, hub sistem Knauf juga menempatkan konfigurasi dan sambungan sebagai bagian dari sistem, bukan keputusan satu panel ([hub sistem Knauf W11](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende)).
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
+Karena itu, jangan menutup item “sekrup tertutup” tanpa rekaman inspeksi sebelum penutupan. Bila persyaratan, gambar, atau instruksi produk belum disetujui, simpan status sebagai terbuka dan tandai `[NEEDS G-05: dokumen sistem/produk yang disetujui]`.
 
-### KR-14
+Setelah batas objek jelas, QA memerlukan alur yang dapat ditelusuri dari temuan sampai keputusan. Jembatan berikut menjelaskan urutan kerja dan siapa yang harus mengisi setiap bagian.
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+## Bagaimana urutan pencatatan dari temuan sampai penutupan?
 
-### KR-11
+Mulailah dari identitas lokasi yang dapat ditemukan orang lain tanpa menebak. Tulis lantai atau zona, nama ruang, garis sumbu atau elevasi bila tersedia, dan kode gambar. Tambahkan tanda panel atau bukaan—misalnya nomor panel pada gambar elevasi—bukan hanya “dinding ruang rapat”. Satu catatan sebaiknya menunjuk satu lokasi utama agar foto dan tindakan tidak tercampur.
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+Berikutnya tulis persyaratan sebagai rujukan yang bisa dibuka: nomor gambar revisi, spesifikasi, metode kerja yang disetujui, atau instruksi pabrikan untuk sistem yang benar-benar dipasang. Jangan menyalin toleransi dari produk lain. Untuk partisi bergerak, instruksi operasi dormakaba menekankan hubungan antara panel, jalur, penguncian, dan cara operasi; pemeriksaan visual saja tidak membuktikan fungsi ([petunjuk operasi dormakaba](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)).
 
-### KR-10
+Catat observasi secara netral: apa yang dilihat, terdengar, atau gagal dilakukan ketika diuji. “Pintu tidak menutup sampai kait” lebih dapat ditindaklanjuti daripada “hardware jelek”. Sertakan waktu, kondisi ruang, dan alat ukur jika memang digunakan; jangan mengisi angka yang tidak diambil.
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+Foto harus menjawab dua pertanyaan: di mana temuan berada dan apa yang perlu diperbaiki. Ambil satu foto konteks yang memperlihatkan ruang atau sumbu, lalu foto dekat yang memperlihatkan cacat. Beri nama berkas memakai ID item dan sudut pengambilan. Foto sesudah harus diambil dari sudut yang dapat dibandingkan, disertai catatan tindakan yang benar-benar dilakukan.
 
-## Evidence gates
+Kolom pemilik tindakan menunjuk pihak yang dapat mengubah kondisi—misalnya kontraktor partisi, pemasok pintu, atau tim pekerjaan sipil—bukan orang yang pertama kali menemukan cacat. Tindakan harus berupa pekerjaan terukur seperti “atur ulang posisi daun pintu sesuai metode yang disetujui” atau “ganti komponen yang disetujui”, bukan “perbaiki segera”. Tenggat boleh dicatat hanya jika ditetapkan dalam rencana proyek.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+Inspeksi ulang memeriksa kembali persyaratan dan fungsi yang sama. Penutupannya memerlukan bukti sesudah, identitas pemeriksa, tanggal, status, dan alasan bila item ditolak. Untuk pekerjaan yang akan tertutup, lampirkan rekaman inspeksi sebelum penutupan atau nyatakan bahwa item tidak dapat diverifikasi tanpa pembukaan kembali [NEEDS G-07: ITP (Inspection and Test Plan/rencana inspeksi dan pengujian) serta hold point proyek].
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Alur tersebut menjadi lebih berguna bila faktor pengubah hasil dipisahkan. Heading berikut membantu tim menghindari pemeriksaan seragam pada kondisi yang sebenarnya berbeda.
 
-## Internal-link plan
+## Faktor apa yang mengubah bukti penutupan instalasi partisi?
 
-### Existing local routes
+Antarmuka struktur adalah faktor pertama. Partisi tinggi, bukaan pintu, beban gantung, track atas, atau sambungan ke plafon dapat mengubah jalur beban dan kebutuhan penyangga. Catatan “terpasang ke plafon” tidak membuktikan bahwa plafon adalah tumpuan struktural. Rujukan beban dan gempa seperti katalog SNI atau panduan FEMA perlu diterjemahkan ke gambar serta perhitungan proyek oleh tenaga berwenang; jangan menulis ukuran stud, angkur, atau jarak pengaku secara universal [NEEDS G-01/G-03].
 
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Lingkungan basah mengubah jenis bukti. Kelembapan dapat masuk melalui kebocoran, kondensasi, tepi panel, lubang pengikat, atau kontak kapiler. Panduan EPA dan Gypsum Association sama-sama menempatkan pengendalian sumber air, pengeringan, ventilasi, dan akses pemeriksaan sebagai bagian dari pencegahan masalah, bukan sekadar memilih material bertanda “tahan lembap” ([EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0); [Gypsum Association GA-238](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf)). Jika ada noda atau kebocoran, foto permukaan saja tidak cukup: rekam sumber yang diperiksa, kondisi setelah pengeringan, dan keputusan perbaikan atau penggantian berdasarkan instruksi produk [NEEDS G-05/G-06/G-11].
 
-### Planned sibling articles
+Pintu dan panel bergerak memerlukan uji operasi. Buka-tutup, kait, seal, ambang, dan jalur gerak dapat memengaruhi keamanan, privasi, dan akses. Jika sistem memiliki pocket atau panel yang ditumpuk, tulis konfigurasi saat diuji. Klaim akustik atau kebakaran tidak boleh ditutup dari label panel saja; daun pintu, kusen, seal, sambungan, dan penetrasi ikut menentukan sistem yang diuji [NEEDS G-04/G-09].
 
-These are future routes. Do not link them as live until their HTML exists.
+Kawan Partisi.co.id, perbedaan kondisi ini menentukan bukti minimum. Item gores pada permukaan mungkin cukup dengan foto konteks, foto dekat, tindakan, dan inspeksi visual. Item seal pintu atau sambungan basah memerlukan uji fungsi dan rekaman kondisi lingkungan yang relevan. Item tersembunyi memerlukan bukti sebelum ditutup atau keputusan pembukaan kembali.
 
-- `PAR-13-04` → `/artikel/menutup-interface-partisi-setelah-instalasi.html` — Menutup Interface Jamb, Lantai, dan Plafon setelah Panel Terpasang
-- `PAR-13-05` → `/artikel/perlindungan-partisi-selama-konstruksi.html` — Melindungi Panel dan Track selama Pekerjaan Interior Berlanjut
+Untuk membantu rapat QA, gunakan skenario bersyarat berikut. Tujuannya bukan memberi toleransi baku, melainkan menunjukkan cara memilih bukti tanpa mengarang angka.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Contoh keputusan praktis untuk menutup tiga jenis temuan
 
-## Jawaban singkat dan salah paham utama
+| Temuan dan kondisi | Bukti awal | Tindakan dan inspeksi ulang | Status penutupan |
+|---|---|---|---|
+| Panel terlihat tergores di zona yang jelas | ID lokasi, tanda panel, foto konteks dan dekat, rujukan standar tampilan proyek | Pembersihan atau penggantian sesuai persetujuan; foto pembanding dan pemeriksaan visual | Tutup bila persyaratan tampilan terpenuhi dan pemeriksa menandatangani |
+| Pintu partisi tidak menutup atau kait tidak bekerja | Foto posisi, video atau catatan uji yang diizinkan proyek, rujukan instruksi sistem | Penyetelan oleh pemilik tindakan; ulangi siklus operasi yang disepakati dan cek seal/kusen | Tetap terbuka bila fungsi belum konsisten atau konfigurasi belum disetujui |
+| Tepi panel basah dekat sumber bocor | Foto lokasi dan sumber air, catatan waktu/kondisi, rujukan material | Hentikan sumber air, keringkan dan nilai kerusakan sesuai instruksi; inspeksi ulang setelah kondisi stabil | Jangan tutup hanya karena permukaan kering; minta keputusan penggantian atau penerimaan profesional bila dampaknya belum jelas |
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Punch List Instalasi Partisi yang Bisa Ditutup dengan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika bukti tidak menjawab persyaratan, status yang jujur adalah “menunggu informasi” atau “ditolak”, bukan “selesai bersyarat” tanpa pemilik. Untuk langkah berikutnya, Anda dapat melihat contoh konteks produk partisi lipat melalui [halaman partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) bila memang sistem yang dibahas sesuai; halaman tersebut bukan pengganti gambar kerja atau instruksi pemasangan proyek.
 
-## Definisi dan batas objek
+Bila tim perlu membandingkan konteks regional lain sebelum meminta dokumen pemasok, [halaman partisi lipat Tuban](/partisi-lipat-tuban.html) dapat menjadi rujukan awal tentang jenis sistem yang ditawarkan; keputusan instalasi tetap mengikuti gambar dan instruksi proyek Anda.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Punch List Instalasi Partisi yang Bisa Ditutup dengan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Skenario sering gagal karena shortcut administrasi. Bagian berikut mengubah shortcut yang umum menjadi pertanyaan pemeriksaan.
 
-## Cara kerjanya
+## Kesalahan umum saat menutup punch list dan cara memeriksanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Punch List Instalasi Partisi yang Bisa Ditutup dengan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai satu foto untuk banyak item. Periksa apakah setiap ID mempunyai foto konteks dan detail yang dapat dicocokkan. Jika tidak, minta foto tambahan atau gabungkan item hanya bila lokasi dan tindakan memang sama.
 
-## Faktor yang mengubah hasil
+Kesalahan kedua adalah menulis “sesuai standar” tanpa menyebut dokumen dan revisinya. Tanyakan: standar yang mana, bagian gambar atau instruksi mana, dan siapa yang menyetujuinya? Jika jawabannya belum ada, gunakan penanda `[NEEDS G-05: persyaratan terbit]`.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Punch List Instalasi Partisi yang Bisa Ditutup dengan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga adalah menganggap tanda tangan kontraktor sebagai bukti fungsi. Tanda tangan menunjukkan pihak mengajukan penutupan; QA tetap perlu memeriksa ulang. Untuk pintu, partisi bergerak, dan sambungan yang memengaruhi keselamatan, minta pemeriksaan pihak yang ditetapkan dalam rencana inspeksi [NEEDS G-09/G-10].
 
-## Contoh keputusan praktis
+Kesalahan keempat adalah menutup cacat setelah pekerjaan lain menutup akses. Buat titik tahan sebelum penutupan, simpan foto atau checklist inspeksi, dan catat siapa yang mengizinkan lanjut. Tanpa rekaman itu, keputusan yang aman mungkin memerlukan pembukaan kembali.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Punch List Instalasi Partisi yang Bisa Ditutup dengan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortcut yang paling menggoda adalah mengganti “bukti kurang” dengan “tidak ada masalah terlihat”. Sobat Partisi.co.id, itu hanya menyatakan kondisi permukaan pada satu waktu. Alternatif yang lebih dapat dipertanggungjawabkan adalah mengembalikan item kepada pemiliknya dengan daftar bukti yang spesifik: lokasi, persyaratan, uji, foto, dan persetujuan.
 
-## Kesalahan umum dan cara memeriksanya
+## Langkah berikutnya agar punch list benar-benar tertutup
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Punch List Instalasi Partisi yang Bisa Ditutup dengan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Punch list instalasi partisi dapat ditutup dengan bukti bila setiap temuan memiliki lokasi dan tanda panel yang unik, persyaratan yang dapat dibuka, observasi netral, foto yang dapat ditelusuri, pemilik tindakan, tindakan yang jelas, inspeksi ulang, serta persetujuan penutupan. Bukti itu menutup cacat yang dicatat; bukti tersebut tidak otomatis menerima keseluruhan sistem.
 
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum rapat commissioning, ekspor daftar item dengan lampiran foto dan dokumen rujukannya. Minta kontraktor menunjukkan item tersembunyi yang telah diperiksa sebelum penutupan, dan minta desainer atau profesional terkait meninjau isu struktur, kebakaran, akustik, kelembapan, akses, atau produk yang belum memiliki dasar proyek. Bila salah satu bukti utama belum tersedia, pertahankan status terbuka dengan `[NEEDS TECHNICAL REVIEW]` dan jangan menyamarkannya sebagai penerimaan. Itulah aturan operasionalnya: tutup hanya apa yang dapat dibuktikan dan diverifikasi ulang.

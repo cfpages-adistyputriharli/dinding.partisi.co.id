@@ -2,8 +2,9 @@
 article_id: PAR-02-02
 title: "Skenario Pembagian Ruang: dari Satu Aula menjadi Beberapa Fungsi"
 slug: "skenario-pembagian-ruang-dengan-partisi"
-description: "Turn adjacencies, capacities, event schedules and changeover time into room scenarios"
-status: outline
+description: "Panduan menyusun kombinasi ruang dari kedekatan fungsi, kapasitas, jadwal kegiatan, dan waktu perubahan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-06-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,59 +16,16 @@ final_route: "/artikel/skenario-pembagian-ruang-dengan-partisi.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://www.iso.org/standard/72960.html"
-  - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
-  - "https://www.formica.com/en-gb/products/washroom"
-  - "https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html"
-  - "https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
-  - "https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf"
   - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000"
+  - "https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html"
   - "https://www.iso.org/standard/79487.html"
   - "https://store.astm.org/e0090-23.html"
   - "https://store.astm.org/e0336-24.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Skenario Pembagian Ruang: dari Satu Aula menjadi Beberapa Fungsi
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Skenario Pembagian Ruang: dari Satu Aula menjadi Beberapa Fungsi”
-- **Reader and situation:** Facility planner mapping simultaneous activities
-- **Reader outcome:** Turn adjacencies, capacities, event schedules and changeover time into room scenarios
-- **Primary intent:** Plan useful room combinations
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Sobat Partisi.co.id`
-- **Natural variants:** `Kawan Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not size openings or panels; PAR-08-01 owns geometry
-- **Final public route:** `/artikel/skenario-pembagian-ruang-dengan-partisi.html`
-- **Appointed CMS date:** `2025-06-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Skenario Pembagian Ruang: dari Satu Aula menjadi Beberapa Fungsi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Partisi.co.id`, `Kawan Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -78,158 +36,87 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Partisi.co.id!
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Satu aula jarang dipakai untuk satu kegiatan sepanjang hari. Pagi bisa menjadi kelas, siang ruang rapat, dan sore tempat acara. Kekeliruan yang sering terjadi adalah langsung memilih jumlah panel lalu berharap semua fungsi muat. Keputusan yang lebih aman dimulai dari peta kegiatan: siapa yang berdekatan, berapa orang yang hadir, kapan ruang berubah, dan berapa lama perubahan itu boleh berlangsung.
 
-### KR-01
+Jadi, skenario pembagian ruang bukan gambar partisi terlebih dahulu. Susun beberapa kombinasi ruang dari data kegiatan, uji urutannya terhadap sirkulasi dan akses, lalu pilih sistem yang dapat dioperasikan oleh tim yang tersedia. Ukuran bukaan dan panel bukan bahasan artikel ini; bagian tersebut memerlukan perhitungan tersendiri dan telaah profesional. [NEEDS PROJECT REVIEW: kapasitas, jalur evakuasi, kriteria kebisingan, dan sistem partisi yang dipilih belum ditetapkan.]
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-### KR-03
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+## Menjawab fungsi aula sebelum memilih susunan partisi
 
-### KR-08
+Bagian ini penting karena satu denah dapat tampak rapi tetapi tetap gagal saat dua kegiatan berlangsung bersamaan. Yang perlu dijawab lebih dulu ialah kombinasi fungsi apa yang benar-benar dibutuhkan, bukan merek atau jenis panel. Tulis daftar kegiatan, peserta, kebutuhan privasi, sumber bising, dan waktu mulai-berakhirnya.
 
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+Kelompokkan kegiatan yang saling membutuhkan kedekatan. Registrasi sebaiknya dekat pintu masuk; konsumsi dekat area servis; ruang tenang dijauhkan dari sumber suara. Kedekatan bukan berarti semua ruang harus terbuka. Artinya, perpindahan orang dan barang tidak memotong kegiatan lain.
 
-### KR-16
+Catat kapasitas sebagai kebutuhan tiap kegiatan, bukan angka rekaan. Misalnya, “pelatihan kelompok kecil” dan “acara seluruh penghuni” adalah dua kebutuhan berbeda yang perlu diverifikasi oleh pengelola. Saat kapasitas belum pasti, gunakan rentang internal untuk membandingkan skenario dan tandai angka yang harus dikonfirmasi.
 
-- **Original sources:** [CDC environmental-cleaning procedures for global healthcare facilities](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html), [CDC 2024 considerations for healthcare surfaces](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html), [Bobrick toilet-partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [Polyrey compact-HPL installation/maintenance manual](https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf)
-- **Purpose for this article:** Replace vague “antibacterial/hygienic” marketing with a maintainable surface-and-process model.
-- **Safe grounded facts:** Hygiene depends on geometry, joints, damage, high-touch hardware, soil load, cleaning access, staff process, compatible chemistry, contact/use instructions, rinsing/drying, monitoring, and repair. An antibacterial treatment does not replace cleaning/disinfection.
-- **Limits:** CDC US healthcare requirements are not Indonesian law; its global guidance is practice support. Product chemicals and methods are not interchangeable. Facility IPC/EVS and manufacturers must resolve `G-05` and `G-12`.
+Susun pula jadwal perubahan. Jika aula berubah dua kali sehari, mekanisme lipat atau geser harus dapat dijalankan tanpa memindahkan furnitur berat berulang kali. Kawan Partisi.co.id, keputusan awal yang baik adalah keputusan yang bisa dijelaskan dalam satu lembar: fungsi, pengguna, waktu, dan syarat berhentinya operasi.
 
-### KR-14
+## Memisahkan objek yang dibahas dari pekerjaan desain detail
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+Skenario ruang adalah urutan keadaan ruang—misalnya satu aula, dua ruang belajar, lalu satu ruang serbaguna—beserta konsekuensi operasionalnya. Ia bukan gambar kerja, perhitungan bukaan, atau penetapan peringkat kinerja dinding. Batas ini mencegah asumsi bahwa satu produk otomatis cocok untuk semua keadaan.
 
-### KR-11
+Pertahankan tiga lapis keputusan. Lapis pertama adalah kebutuhan pengguna: akses, privasi, kebisingan, sanitasi, dan arus barang. Lapis kedua adalah sistem: panel, rel, segel, pintu lintasan, penyimpanan, dan titik penguncian. Lapis ketiga adalah bukti proyek: gambar koordinasi, data produk yang berlaku, metode inspeksi, dan persetujuan pihak berwenang.
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+Untuk aksesibilitas, posisi partisi, arah buka pintu, ruang pendekatan, pegangan, visibilitas, dan tata letak sanitasi saling memengaruhi. Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat (Permen PUPR) No. 14/PRT/M/2017 menempatkan akses sebagai persoalan jalur dan penggunaan bangunan secara terpadu, bukan sekadar memenuhi satu ukuran produk ([status peraturan](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)). Karena itu, jangan menetapkan ukuran pasti dari contoh asing tanpa memeriksa peraturan dan kondisi proyek Indonesia.
 
-### KR-12
+## Menyusun skenario ruang dari urutan kegiatan dan waktu perubahan
 
-- **Original sources:** [SNI 03-6386-2000 acoustic design recommendation — BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2:2021 airborne sound-insulation laboratory method](https://www.iso.org/standard/79487.html), [ASTM E90 scope and laboratory/field limits](https://store.astm.org/e0090-23.html), [ASTM E336-24 field measurement between rooms](https://store.astm.org/e0336-24.html)
-- **Purpose for this article:** Prevent STC/Rw or “soundproof” claims from a material, panel, or laboratory specimen being presented as installed room performance.
-- **Safe grounded facts:** Laboratory and field quantities are different. Perimeters, doors, seals, head voids, ceilings, ducts, penetrations, junctions, workmanship, and adjacent structure can reduce achieved isolation. A test method does not prove a specific product passed or that the installed room will match.
-- **Limits:** Obtain full standards, complete current test reports, project acoustic criteria, junction design, and field-test plan where required. Resolve `G-08`.
+Setelah fungsi dipetakan, jembatani ke mekanisme pengoperasian. Tujuannya bukan membuat partisi bergerak sesering mungkin, melainkan memastikan setiap perubahan memiliki urutan, pelaksana, dan kondisi aman yang jelas.
 
-## Evidence gates
+Mulailah dengan matriks sederhana: baris berisi kegiatan, kolom berisi waktu, kapasitas, kebutuhan privasi, dan ruang pendukung. Tandai kegiatan yang bersamaan. Dari sana buat dua atau tiga keadaan ruang, lalu tulis perubahan di antaranya: furnitur yang dipindahkan, panel yang dilipat atau digeser, pintu yang ditutup, dan area yang harus tetap kosong.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+Partisi operabel—yakni partisi yang dapat dipindah saat konfigurasi ruang berubah—adalah sistem mekanis yang bergantung pada penyangga rel, berat panel, kantong penyimpanan, kerataan lantai, segel, penutup jamb (sisi penutup di tepi bukaan), dan pintu lintasan. Panduan ASTM E557, yaitu pedoman teknis desain dan pemasangan partisi operabel, menekankan koordinasi dukungan, pemasangan, dan pengoperasian; literatur pemasok juga meminta dukungan struktur serta pemasang yang sesuai ([ASTM E557](https://store.astm.org/e0557-12r26.html)). Ini bukan bukti bahwa produk tertentu lulus untuk proyek Anda. Minta pemasok menunjukkan data sistem yang benar-benar ditawarkan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Tentukan siapa yang mengubah ruang. Jika hanya petugas terlatih yang boleh mengoperasikan, jadwalkan waktu dan aksesnya. Jika pengguna umum akan mengoperasikan, pilih skenario yang lebih sedikit langkah dan tetapkan pemeriksaan sebelum ruang dipakai. Sediakan tempat penyimpanan panel yang tidak memotong jalur orang atau pintu keluar.
 
-## Internal-link plan
+## Menguji faktor akses, suara, kebersihan, dan dukungan bangunan
 
-### Existing local routes
+Skenario yang tampak berhasil di atas kertas dapat berubah ketika bertemu kondisi bangunan. Bagian ini menguji faktor yang paling sering disalahpahami sebagai sifat panel semata.
 
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Pertama, periksa jalur dan pintu pada setiap keadaan ruang. Perubahan partisi tidak boleh menciptakan rute buntu atau menghalangi akses yang diperlukan. Setiap pintu lintasan menambah pekerjaan koordinasi pada rangka, ambang, perangkat keras, segel, dan pemeliharaan. Jika fungsi evakuasi atau kebakaran terlibat, bukti sistem lengkap—dinding, pintu, rangka, perangkat keras, dan penetrasi—harus ditinjau; label pada panel saja tidak cukup.
 
-### Planned sibling articles
+Kedua, bedakan tujuan suara. Insulasi bunyi berarti mengurangi perpindahan suara antar-ruang; hasil lapangan dipengaruhi keliling dinding, pintu, segel, plafon, saluran, sambungan, dan struktur bersebelahan. Organisasi Internasional untuk Standardisasi (ISO) 10140-2 menjelaskan metode laboratorium, sedangkan ASTM E90 dan ASTM E336 membedakan pengukuran laboratorium dan lapangan ([ISO 10140-2](https://www.iso.org/standard/79487.html), [ASTM E90](https://store.astm.org/e0090-23.html), [ASTM E336](https://store.astm.org/e0336-24.html)). Karena itu, istilah “kedap suara” harus diganti dengan kriteria ruang dan rencana pengukuran yang disepakati.
 
-These are future routes. Do not link them as live until their HTML exists.
+Ketiga, uji kebersihan sebagai proses. Permukaan, sambungan, perangkat yang sering disentuh, akses petugas, bahan kimia yang kompatibel, pembilasan, pengeringan, dan perbaikan kerusakan menentukan hasil. Panduan Pusat Pengendalian dan Pencegahan Penyakit Amerika Serikat (CDC) menekankan prosedur pembersihan sesuai area dan instruksi penggunaan; perlakuan antibakteri tidak menggantikan pembersihan dan disinfeksi ([prosedur pembersihan CDC](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html)). Untuk aula serbaguna, tulis siapa membersihkan apa setelah perubahan dan bagaimana kerusakan dilaporkan.
 
-- `PAR-02-01` → `/artikel/checklist-kebutuhan-ruang-partisi-lipat.html` — Checklist Kebutuhan Ruang sebelum Memilih Partisi Lipat
-- `PAR-02-03` → `/artikel/partisi-bergerak-untuk-sekolah.html` — Partisi Bergerak untuk Sekolah: Kelas, Aula, dan Jadwal Perubahan Ruang
-- `PAR-02-04` → `/artikel/partisi-ballroom-dan-hotel.html` — Partisi Ballroom dan Hotel: Privasi Acara, Setup, dan Operasional
+## Membandingkan skenario dengan tabel keputusan yang dapat diaudit
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kini setiap alternatif dapat dibandingkan tanpa mengarang kinerja produk. Tabel berikut memakai pertanyaan keputusan, bukan angka baku.
 
-## Jawaban singkat dan salah paham utama
+| Pertanyaan | Skenario A: satu aula | Skenario B: dua fungsi serentak | Skenario C: perubahan berkala |
+|---|---|---|---|
+| Kegiatan utama | Satu kegiatan besar | Dua kegiatan dengan arus terpisah | Kegiatan berganti menurut jadwal |
+| Perubahan ruang | Tidak ada saat acara | Sekali sebelum acara | Berulang sesuai jadwal |
+| Prioritas pemeriksaan | Jalur dan kapasitas | Privasi, suara, dan akses | Waktu operasi, penyimpanan, pelatihan |
+| Pertanyaan berhenti | Apakah semua pengguna dapat keluar? | Apakah kedua fungsi tetap dapat dicapai? | Apakah tim mampu mengubah dan memeriksa sistem? |
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Skenario Pembagian Ruang: dari Satu Aula menjadi Beberapa Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pilih skenario yang memenuhi kebutuhan paling penting dengan langkah operasi paling jelas. Jika dua kegiatan memerlukan privasi tinggi tetapi bangunan tidak menyediakan dukungan rel atau ruang penyimpanan, jangan memaksa Skenario B. Jika perubahan jarang dan petugas terbatas, Skenario A atau C yang lebih sederhana dapat lebih masuk akal. Sobat Partisi.co.id, tuliskan alasan pemilihan dan kondisi yang membuat Anda kembali ke skenario lain.
 
-## Definisi dan batas objek
+Untuk melihat contoh kategori sistem yang perlu ditanyakan kepada pemasok, Anda dapat membandingkan konteks halaman [partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) dan [partisi lipat Tuban](/partisi-lipat-tuban.html). Anggap keduanya sebagai rujukan jenis layanan/produk yang perlu diverifikasi, bukan bukti bahwa sistemnya sesuai dengan aula Anda.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Skenario Pembagian Ruang: dari Satu Aula menjadi Beberapa Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Memeriksa kesalahan umum sebelum keputusan dikunci
 
-## Cara kerjanya
+Pemeriksaan terakhir mencegah skenario berubah menjadi daftar harapan. Lakukan bersama pengelola, pengguna utama, perencana bangunan, dan pemasok sistem.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Skenario Pembagian Ruang: dari Satu Aula menjadi Beberapa Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- Apakah setiap keadaan ruang memiliki denah jalur masuk, keluar, dan akses layanan yang dapat dibaca?
+- Apakah kapasitas tiap kegiatan berasal dari kebutuhan proyek yang dikonfirmasi, bukan perkiraan dari luas kosong?
+- Apakah waktu perubahan memasukkan pemindahan furnitur, pemeriksaan penguncian, dan pembersihan?
+- Apakah dukungan struktur, kerataan lantai, kantong penyimpanan, segel, dan pintu lintasan sudah dikoordinasikan?
+- Apakah target suara dinyatakan sebagai kebutuhan antar-ruang dan rencana uji, bukan label “soundproof”?
+- Apakah prosedur kebersihan menyebut bahan kimia, alat, frekuensi, pengeringan, dan pelaporan kerusakan?
+- Apakah dokumen produk, pemasangan, kebakaran, aksesibilitas, dan pemeliharaan yang berlaku sudah tersedia untuk telaah?
 
-## Faktor yang mengubah hasil
+Shortcut “pilih partisi terbesar lalu bagi aula sebanyak mungkin” gagal karena mengabaikan jadwal, jalur, dukungan, dan kemampuan operator. Gantilah dengan uji meja: jalankan setiap skenario secara berurutan pada denah, minta operator menjelaskan langkahnya, lalu tandai titik yang memerlukan keputusan profesional. [NEEDS TECHNICAL REVIEW: verifikasi akhir terhadap peraturan Indonesia, struktur bangunan, kriteria akustik, aksesibilitas, kebakaran, dan data sistem pemasok.]
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Skenario Pembagian Ruang: dari Satu Aula menjadi Beberapa Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya untuk mengunci skenario pembagian ruang
 
-## Contoh keputusan praktis
+Jawaban judulnya adalah: ubah satu aula menjadi beberapa fungsi dengan memilih kombinasi keadaan ruang berdasarkan kedekatan kegiatan, kapasitas yang dikonfirmasi, jadwal perubahan, dan waktu operasi—baru kemudian koordinasikan sistem partisinya. Jangan menganggap panel sebagai jawaban tunggal.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Skenario Pembagian Ruang: dari Satu Aula menjadi Beberapa Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Skenario Pembagian Ruang: dari Satu Aula menjadi Beberapa Fungsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Dokumen berikutnya yang perlu Anda siapkan adalah matriks kegiatan, denah tiap keadaan, urutan perubahan, daftar pelaksana, dan daftar bukti yang belum ada. Minta telaah profesional sebelum menetapkan bukaan, panel, peringkat kinerja, jalur evakuasi, atau kriteria kinerja. Operasikan hanya skenario yang jalurnya jelas, sistemnya didukung bangunan, dan pemeriksaannya dapat dilakukan setiap kali ruang berubah.

@@ -2,8 +2,9 @@
 article_id: PAR-09-03
 title: "Klaim Fire-Rated pada Partisi: Bukti Sistem yang Harus Dilihat"
 slug: "bukti-fire-rated-partisi"
-description: "Explain tested assembly, report, field of application, configuration, hardware, seals, opening and installation matching"
-status: outline
+description: "Menjelaskan cara mencocokkan susunan teruji, laporan, ruang lingkup penerapan, konfigurasi, bukaan, perangkat keras, perapat, dan pemasangan sebelum menerima klaim ketahanan api."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,57 +16,29 @@ final_route: "/artikel/bukti-fire-rated-partisi.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
-  - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
-  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
   - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
   - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
   - "https://www.iso.org/standard/83943.html"
   - "https://store.astm.org/e0119-24.html"
   - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
   - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Klaim Fire-Rated pada Partisi: Bukti Sistem yang Harus Dilihat
 
-## Assignment lock
+Halo, Kawan Partisi.co.id! Ketika penjual menyebut partisi “fire-rated” atau tahan api, Anda mungkin menerima brosur, sertifikat bahan, atau angka durasi tanpa tahu apakah dokumen itu berlaku untuk dinding yang akan dipasang. Risiko terbesarnya bukan sekadar salah istilah: klaim komponen dapat disalahartikan sebagai bukti satu dinding lengkap, padahal rangka, sambungan, pintu, perapat, penetrasi, dan cara pemasangan dapat mengubah hasil.
 
-- **Writer task:** Expand this file into one complete article answering: “Klaim Fire-Rated pada Partisi: Bukti Sistem yang Harus Dilihat”
-- **Reader and situation:** Buyer offered a rated product
-- **Reader outcome:** Explain tested assembly, report, field of application, configuration, hardware, seals, opening and installation matching
-- **Primary intent:** Evaluate a fire-performance claim
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Kawan Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not certify the installed wall; competent fire authority and PAR-14-06 own acceptance
-- **Final public route:** `/artikel/bukti-fire-rated-partisi.html`
-- **Appointed CMS date:** `2025-12-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: terima klaim ketahanan api hanya setelah ada bukti untuk susunan lengkap yang diuji atau dinilai, laporan yang dapat ditelusuri, ruang lingkup penerapan yang cocok, dan kecocokan konfigurasi serta pemasangan di proyek. Sertifikat papan, kaca, atau perapat saja tidak cukup. Jika salah satu dokumen itu belum ada, tandai klaim sebagai belum terbukti dan minta peninjauan profesional.
 
-## Opening instructions
+Kondisi bangunan dan tujuan keselamatan menentukan bukti yang dibutuhkan. Perencanaan, perubahan, penggunaan, pemeliharaan, dan serah terima bangunan dapat menyentuh keselamatan, kesehatan, kenyamanan, fungsi, serta dokumentasi; PP No. 16 Tahun 2021 tidak memberikan satu angka universal yang otomatis berlaku untuk semua partisi ([catatan BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). [NEEDS FIRE EVIDENCE: laporan sistem lengkap dan penerimaan profesional untuk konfigurasi proyek belum tersedia.]
 
-- Open with the exact short salutation: **“Halo, Kawan Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Klaim Fire-Rated pada Partisi: Bukti Sistem yang Harus Dilihat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Partisi.co.id`, `Sobat Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
+Ilustrasi umum dari aset lokal dinding.partisi.co.id; bukan dokumentasi proyek tertentu. Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,159 +49,84 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Apa arti fire-rated pada partisi?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Istilah ini perlu diluruskan sebelum Anda membaca angka atau logo. Dengan memahami objek yang dinilai, Anda dapat membedakan ketahanan api satu bahan dari kinerja satu susunan dinding dan tidak menuntut dokumen yang salah.
 
-### KR-01
+Fire-rated berarti memiliki klaim ketahanan terhadap paparan api berdasarkan metode pengujian atau penilaian tertentu; dalam bahasa praktis, klaim itu harus melekat pada susunan dan kondisi penerapan yang dijelaskan, bukan hanya pada nama bahan. “Rakitan” atau susunan lengkap mencakup panel atau papan, rangka, pengikat, insulasi, sambungan, tepi perimeter, pintu, kaca bila ada, perapat, penetrasi, dan cara pemasangan.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Hal ini berbeda dari reaksi permukaan terhadap api. Bahan dapat memiliki informasi tentang nyala atau asap di permukaan, tetapi informasi itu tidak otomatis menjadi durasi ketahanan api dinding pemisah. Catatan katalog Badan Standardisasi Nasional (BSN) untuk Standar Nasional Indonesia (SNI) 03-1736-2000 dan SNI 1741:2008 berada dalam ranah proteksi pasif serta pengujian ketahanan api, tetapi halaman katalog bukan hasil uji konfigurasi proyek ([SNI 03-1736-2000](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008](https://pesta.bsn.go.id/produk/detail/7531-sni17412008)).
 
-### KR-02
+Jadi, pertanyaan awalnya bukan “papan ini tahan api berapa lama?”, melainkan “susunan apa yang diuji, dalam kondisi apa, dan apakah susunan itu sama dengan yang akan dipasang?”. Jika penjual tidak dapat menjawabnya, jangan mengisi kekosongan dengan angka dari brosur.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
+## Bukti pertama: susunan lengkap dan laporan yang dapat ditelusuri
 
-### KR-03
+Setelah istilahnya jelas, fokuskan pemeriksaan pada dokumen yang menghubungkan hasil dengan objek nyata. Bagian ini menjelaskan apa yang perlu ada di laporan dan apa yang tidak boleh disimpulkan dari judul standar saja.
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+Laporan uji atau penilaian yang berguna menyebut identitas susunan, bahan dan ukuran yang dipakai, rangka, pengikat, insulasi, sambungan, tepi keliling (perimeter), kondisi bukaan, serta cara pemasangan yang diamati. Anda perlu dapat menelusuri siapa yang menguji atau menilai, kapan dokumen diterbitkan, hasil apa yang dicatat, dan batas penerapannya. Salinan satu halaman tanpa identitas susunan membuat kecocokan sulit diperiksa.
 
-### KR-10
+Organisasi Internasional untuk Standardisasi (ISO) 834-1:2025 dan ASTM International E119-24 menjelaskan ruang lingkup metode atau pengujian ketahanan api, bukan jaminan bahwa setiap dinding yang memakai standar itu lulus. Karena itu, tautan ke standar membantu memahami jenis bukti yang dicari, tetapi tidak menggantikan laporan hasil untuk sistem tertentu ([ISO 834-1](https://www.iso.org/standard/83943.html), [ASTM E119-24](https://store.astm.org/e0119-24.html)). [NEEDS TEST REPORT: identitas laboratorium, susunan uji, hasil, dan batas penerapan harus tersedia sebelum klaim diterima.]
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+Bandingkan daftar pada laporan dengan daftar belanja dan gambar kerja. Perbedaan kecil—jenis pengikat, jarak sambungan, lapisan, perapat, atau cara menutup tepi—dapat berarti Anda tidak lagi memakai susunan yang diuji. Jika laporan hanya menyebut panel tanpa rangka atau sambungan, perlakukan itu sebagai bukti bahan, bukan bukti dinding lengkap.
 
-### KR-13
+## Bukti kedua: ruang lingkup penerapan dan konfigurasi harus cocok
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+Laporan yang sah untuk satu susunan masih bisa tidak berlaku untuk proyek Anda. Bagian ini membantu Anda mencari batas penggunaan sehingga hasil uji tidak dipindahkan ke bentuk yang tidak pernah dinilai.
 
-### KR-11
+Ruang lingkup penerapan menjelaskan perubahan apa yang masih diizinkan dan perubahan apa yang membatalkan kesetaraan. Periksa jenis panel, rangka, jumlah lapisan, insulasi, arah pemasangan, tinggi atau bentuk, sambungan kepala dan kaki, pertemuan dengan dinding lain, serta kondisi plafon. Jangan menganggap konfigurasi yang “mirip” otomatis sama; minta dasar tertulis dari laboratorium, penilai, atau pemegang sistem.
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+Partisi dengan pintu, kaca, panel akses, kisi layanan, atau saluran kabel mempunyai bukaan dan penetrasi yang mengubah jalur panas serta asap. Dinding dengan satu konfigurasi tetap tidak otomatis mencakup pintu sisipan atau modul yang dapat dilipat. Dokumen teknis sistem partisi operabel Modernfold sendiri menunjukkan bahwa pemasangan dan komponen sistem perlu dibaca bersama, bukan dipisahkan menjadi klaim panel saja ([gambaran sistem Modernfold](https://www.modernfold.com/en-US/products/operable-partitions)).
 
-### KR-14
+Kawan Partisi.co.id, buat tabel pencocokan sederhana: kolom pertama berisi elemen pada laporan, kolom kedua berisi elemen pada gambar proyek, kolom ketiga berisi perbedaan dan keputusan peninjau. Bila satu elemen belum diketahui, tulis `[NEEDS CONFIGURATION MATCH: ...]` dan jangan menandainya “sesuai”.
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+## Bukti ketiga: pintu, perangkat keras, perapat, dan penetrasi
 
-## Evidence gates
+Banyak klaim runtuh pada detail kecil di sekitar bukaan. Bagian ini mengubah daftar komponen menjadi pemeriksaan sebab-akibat agar Anda tidak menerima kalimat “pintunya sudah fire-rated” tanpa melihat hubungan dengan dinding.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+Pintu, kusen, engsel, pengunci, kaca, ambang, dan perapat harus cocok dengan susunan yang dinilai. Pintu yang memiliki dokumen sendiri belum tentu mempertahankan kinerja ketika dipasang pada dinding, rangka, dan sambungan yang berbeda. Catatan SNI 03-6766-2002 membahas metode pengujian pintu kebakaran, tetapi catatan katalog tidak membuktikan bahwa pintu tertentu memenuhi kebutuhan proyek; fungsi jalan keluar juga harus ditinjau bersama persyaratan yang berlaku ([SNI 03-6766-2002](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [SNI 03-1746-2000](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Perapat menutup celah pada sambungan atau tepi, tetapi bahan dan cara perawatannya berlaku sesuai produk serta lokasi penggunaannya. Panduan perawatan perapat Lorient memperlihatkan mengapa instruksi bahan pembersih dan interval tidak boleh dipindahkan ke merek lain tanpa verifikasi ([panduan perawatan Lorient](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide)). Kabel, pipa, kotak listrik, kisi udara, dan bukaan inspeksi juga perlu detail penutupan yang cocok; satu lubang yang ditambahkan setelah uji dapat mengubah susunan.
 
-## Internal-link plan
+[NEEDS OPENING REVIEW: pintu, kusen, perapat, penetrasi, dan perangkat keras proyek harus dicocokkan dengan bukti sistem lengkap serta tinjauan profesional kebakaran.]
 
-### Existing local routes
+## Bukti keempat: pemasangan, inspeksi, dan pemeliharaan
 
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Dokumen yang benar masih dapat gagal diterapkan jika pemasangan menyimpang. Di bagian ini, ikat bukti kertas dengan pemeriksaan lapangan dan aturan pemeliharaan yang dapat dijalankan.
 
-### Planned sibling articles
+Mintalah gambar detail pertemuan atas, bawah, sudut, sambungan antar-panel, dan perimeter. Periksa siapa yang memasang, urutan pekerjaannya, bahan yang dipakai, dan bagaimana perubahan di lapangan dicatat. Foto serah terima membantu menunjukkan apa yang benar-benar dipasang, tetapi foto tidak menggantikan laporan atau penilaian sistem.
 
-These are future routes. Do not link them as live until their HTML exists.
+Pemeriksaan setelah pemasangan sebaiknya menanyakan apakah semua pengikat, sambungan, perapat, pintu, dan penutup penetrasi berada di tempatnya; apakah ada perubahan yang tidak tercatat; dan apakah akses inspeksi tetap tersedia. Jadwal pemeliharaan harus menyebut komponen, metode, bahan pembersih, serta kondisi penghentian operasi. Jika instruksi hanya berbunyi “rawat secara berkala”, minta penjelasan tertulis dari pemegang sistem.
 
-- `PAR-09-01` → `/artikel/checklist-kepatuhan-partisi-bergerak.html` — Checklist Fire, Egress, dan Accessibility untuk Partisi Bergerak
-- `PAR-09-02` → `/artikel/pass-door-egress-dan-aksesibilitas.html` — Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah
-- `PAR-09-04` → `/artikel/partisi-dan-strategi-evakuasi.html` — Partisi Bergerak dan Strategi Evakuasi saat Ruang Berubah Konfigurasi
-- `PAR-09-05` → `/artikel/koordinasi-partisi-dengan-mep-dan-av.html` — Koordinasi Partisi dengan Sprinkler, Alarm, HVAC, Lighting, dan AV
+PP No. 16 Tahun 2021 menempatkan pemeliharaan dan dokumentasi sebagai bagian dari siklus bangunan, tetapi kerangka itu bukan pengganti penerimaan teknis untuk dinding tertentu. [NEEDS INSTALLATION REVIEW: kesesuaian pemasangan dan rekaman perubahan harus diverifikasi oleh pihak yang berwenang sebelum klaim dipakai untuk keputusan keselamatan.]
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Contoh membaca paket dokumen tanpa tertipu judul
 
-## Jawaban singkat dan salah paham utama
+Skenario ini menunjukkan urutan pemeriksaan, bukan hasil proyek tertentu. Bayangkan Anda menerima brosur panel, sertifikat perapat, dan satu laporan uji yang menyebut dinding berlapis.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Klaim Fire-Rated pada Partisi: Bukti Sistem yang Harus Dilihat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Langkah pertama adalah mencari gambar susunan pada laporan. Jika gambar menunjukkan dua lapisan papan pada rangka tertentu, cocokkan dengan daftar bahan dan gambar kerja Anda. Langkah kedua adalah mencari batas penerapan: tinggi, sambungan, arah pemasangan, pintu, dan penetrasi. Langkah ketiga adalah memeriksa apakah laporan mencakup pintu serta perapat yang akan dipakai atau hanya dinding tanpa bukaan.
 
-## Definisi dan batas objek
+Jika semua elemen cocok dan pihak profesional menerima dokumennya, paket itu layak diteruskan ke pemeriksaan pemasangan. Jika hanya panel yang memiliki sertifikat, kesimpulannya berhenti pada “bahan memiliki dokumen”; Anda belum boleh menulis “dinding fire-rated”. Jika terdapat perbedaan rangka, sambungan, atau bukaan, minta penilaian kesetaraan tertulis—jangan mengubah perbedaan itu menjadi asumsi.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Klaim Fire-Rated pada Partisi: Bukti Sistem yang Harus Dilihat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Klaim Fire-Rated pada Partisi: Bukti Sistem yang Harus Dilihat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Klaim Fire-Rated pada Partisi: Bukti Sistem yang Harus Dilihat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Klaim Fire-Rated pada Partisi: Bukti Sistem yang Harus Dilihat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Partisi.co.id, simpan versi laporan, gambar revisi, daftar perubahan, dan catatan inspeksi dalam satu paket. Dokumen yang tidak bertanggal atau tidak jelas versinya sulit dipakai untuk menelusuri keputusan ketika ruang diubah.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Klaim Fire-Rated pada Partisi: Bukti Sistem yang Harus Dilihat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menjadikan logo standar sebagai sertifikat lulus. Perbaikannya: cari laporan atau penilaian yang menyebut susunan, hasil, dan batas penerapan; standar pengujian saja tidak cukup.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah memakai sertifikat papan, kaca, atau perapat sebagai bukti dinding lengkap. Perbaikannya: minta daftar seluruh komponen dan hubungan antar-komponen, termasuk sambungan serta perimeter.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menganggap pintu atau penetrasi sebagai tambahan belakangan. Perbaikannya: masukkan setiap bukaan ke tabel pencocokan sejak awal dan minta bukti yang mencakup susunan tersebut.
 
-## Required conclusion
+Kesalahan keempat adalah menutup perubahan lapangan dengan bahan yang “kelihatannya sama”. Perbaikannya: hentikan klaim sampai perubahan dicatat, dinilai, dan diterima oleh pihak yang kompeten.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Kesalahan kelima adalah memakai istilah fire-rated sebagai janji kepatuhan. Perbaikannya: jelaskan batas dokumen, sebut konfigurasi yang benar-benar didukung, dan simpan penanda `[NEEDS PROFESSIONAL REVIEW]` ketika penerimaan proyek belum ada.
 
-## Draft completion checklist
+## Kesimpulan: klaim harus mengikuti susunan, bukan sebaliknya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Bukti fire-rated yang berguna menghubungkan laporan atau penilaian dengan rakitan lengkap, ruang lingkup penerapan, konfigurasi proyek, bukaan, perangkat keras, perapat, penetrasi, pemasangan, dan pemeliharaan. Sertifikat satu komponen atau judul standar tidak dapat menggantikan hubungan itu.
+
+Langkah berikutnya adalah meminta laporan lengkap, gambar susunan, batas penerapan, daftar komponen, detail bukaan, instruksi pemasangan, dan rekaman inspeksi. Tunjukkan seluruh paket kepada profesional atau otoritas kebakaran yang berwenang untuk menilai penerimaan terpasang. [NEEDS PROFESSIONAL REVIEW: artikel ini membantu membaca bukti, bukan mengesahkan dinding yang sudah terpasang.]
+
+Teman Partisi.co.id, bila Anda memerlukan konteks layanan sebelum mengumpulkan dokumen, lihat [contoh halaman partisi lipat di Yogyakarta](/partisi-lipat-yogyakarta.html) atau [contoh halaman partisi lipat di Tuban](/partisi-lipat-tuban.html), tetapi jangan gunakan halaman layanan sebagai bukti ketahanan api. Aturan akhirnya sederhana: klaim hanya boleh sejauh susunan, laporan, pemasangan, dan penerimaan yang benar-benar dapat ditunjukkan.

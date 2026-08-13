@@ -2,8 +2,9 @@
 article_id: PAR-02-06
 title: "Rumah Sakit dan Fasilitas Publik: Kapan Partisi Bergerak Perlu Kehati-hatian Ekstra?"
 slug: "partisi-bergerak-di-fasilitas-publik"
-description: "Identify hygiene, impact, accessibility, supervision, fire, egress, cleaning and maintenance evidence needs"
-status: outline
+description: "Panduan mengenali kebutuhan bukti kebersihan, aksesibilitas, keselamatan, operasi, dan perawatan partisi bergerak di fasilitas publik"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,7 +22,6 @@ sources:
   - "https://www.iso.org/standard/72964.html"
   - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html"
-  - "https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html"
   - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
   - "https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf"
   - "https://store.astm.org/e0557-12r26.html"
@@ -29,45 +29,15 @@ sources:
   - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
   - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
   - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
   - "https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000"
   - "https://www.iso.org/standard/79487.html"
   - "https://store.astm.org/e0090-23.html"
   - "https://store.astm.org/e0336-24.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Rumah Sakit dan Fasilitas Publik: Kapan Partisi Bergerak Perlu Kehati-hatian Ekstra?
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Rumah Sakit dan Fasilitas Publik: Kapan Partisi Bergerak Perlu Kehati-hatian Ekstra?”
-- **Reader and situation:** Planner considering public or healthcare use
-- **Reader outcome:** Identify hygiene, impact, accessibility, supervision, fire, egress, cleaning and maintenance evidence needs
-- **Primary intent:** Recognize high-consequence use constraints
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not approve healthcare or public use; PAR-09-01 owns compliance coordination
-- **Final public route:** `/artikel/partisi-bergerak-di-fasilitas-publik.html`
-- **Appointed CMS date:** `2025-07-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Rumah Sakit dan Fasilitas Publik: Kapan Partisi Bergerak Perlu Kehati-hatian Ekstra?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -78,157 +48,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+Halo, Teman Partisi.co.id! Partisi bergerak di rumah sakit atau fasilitas publik perlu kehati-hatian ekstra ketika perubahan ruang menyentuh keselamatan, akses, kebersihan, atau operasi harian. Fleksibel bukan berarti boleh dipasang seperti panel dekoratif biasa. Jawaban “aman dipakai” baru layak diberikan setelah fungsi ruang, jalur pengguna, sistem bangunan, prosedur pembersihan, dan dokumen produk diperiksa bersama.
 
-## Evidence packet
+Jika partisi membentuk ruang pemeriksaan, koridor, toilet, area tunggu, atau ruang serbaguna yang sering berubah, minta bukti tertulis tentang beban penyangga, cara pengoperasian, pintu, sambungan, bahan pembersih, serta skenario evakuasinya. Peraturan aksesibilitas Indonesia menempatkan jalur, ruang pendekatan, ayunan pintu, pegangan, visibilitas, dan tata letak sanitair sebagai satu rangkaian; satu ukuran panel saja tidak membuktikan akses yang aman ([Permen PUPR 14/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-16
-
-- **Original sources:** [CDC environmental-cleaning procedures for global healthcare facilities](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html), [CDC 2024 considerations for healthcare surfaces](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html), [Bobrick toilet-partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [Polyrey compact-HPL installation/maintenance manual](https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf)
-- **Purpose for this article:** Replace vague “antibacterial/hygienic” marketing with a maintainable surface-and-process model.
-- **Safe grounded facts:** Hygiene depends on geometry, joints, damage, high-touch hardware, soil load, cleaning access, staff process, compatible chemistry, contact/use instructions, rinsing/drying, monitoring, and repair. An antibacterial treatment does not replace cleaning/disinfection.
-- **Limits:** CDC US healthcare requirements are not Indonesian law; its global guidance is practice support. Product chemicals and methods are not interchangeable. Facility IPC/EVS and manufacturers must resolve `G-05` and `G-12`.
-
-### KR-14
-
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
-
-### KR-11
-
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
-
-### KR-12
-
-- **Original sources:** [SNI 03-6386-2000 acoustic design recommendation — BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2:2021 airborne sound-insulation laboratory method](https://www.iso.org/standard/79487.html), [ASTM E90 scope and laboratory/field limits](https://store.astm.org/e0090-23.html), [ASTM E336-24 field measurement between rooms](https://store.astm.org/e0336-24.html)
-- **Purpose for this article:** Prevent STC/Rw or “soundproof” claims from a material, panel, or laboratory specimen being presented as installed room performance.
-- **Safe grounded facts:** Laboratory and field quantities are different. Perimeters, doors, seals, head voids, ceilings, ducts, penetrations, junctions, workmanship, and adjacent structure can reduce achieved isolation. A test method does not prove a specific product passed or that the installed room will match.
-- **Limits:** Obtain full standards, complete current test reports, project acoustic criteria, junction design, and field-test plan where required. Resolve `G-08`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-02-04` → `/artikel/partisi-ballroom-dan-hotel.html` — Partisi Ballroom dan Hotel: Privasi Acara, Setup, dan Operasional
-- `PAR-02-05` → `/artikel/partisi-kantor-dan-ruang-rapat.html` — Partisi Kantor dan Ruang Rapat: Fleksibilitas tanpa Mengganggu Kerja
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Rumah Sakit dan Fasilitas Publik: Kapan Partisi Bergerak Perlu Kehati-hatian Ekstra?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal; ini bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Rumah Sakit dan Fasilitas Publik: Kapan Partisi Bergerak Perlu Kehati-hatian Ekstra?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dibahas adalah partisi lipat atau dinding operabel yang dipindah, dilipat, atau disusun ulang oleh petugas. Ia mencakup panel, rel atas, gantungan, kantong parkir, seal, jamb, pintu pass door, kunci, dan elemen yang menempel pada lantai maupun plafon. Sistem ini perlu dibaca sebagai satu kesatuan mekanis: halaman rujukan ASTM dan dokumen teknis pabrikan sama-sama mengarahkan perhatian pada dukungan struktur, pemasangan, serta pemeliharaan ([ASTM E557](https://store.astm.org/e0557-12r26.html), [Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)). Keduanya bukan persetujuan otomatis untuk proyek tertentu.
+
+Artikel ini tidak menyatakan suatu produk telah memenuhi peraturan, tahan api, kedap suara, atau cocok untuk area klinis tertentu. Persetujuan penggunaan tetap berada pada koordinasi desain, pengelola fasilitas, pengendali infeksi, dan profesional terkait. [NEEDS REVIEW: koordinasi kepatuhan proyek, klasifikasi ruang, serta dokumen produk yang berlaku belum tersedia.]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Rumah Sakit dan Fasilitas Publik: Kapan Partisi Bergerak Perlu Kehati-hatian Ekstra?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum memilih panel, petakan urutan kerja. Siapa yang membuka dan menutup? Seberapa sering? Di mana panel disimpan tanpa menghalangi koridor? Apakah lantai rata dan plafon mampu menerima rel serta beban gantung? Ketika panel ditutup, seal di kepala, jamb, dan pertemuan antarpanel harus benar-benar bertemu; ketika dibuka, roda, engsel, dan pengunci harus dapat dioperasikan tanpa memaksa pengguna. Halaman produk MOVEO, misalnya, menyediakan dokumentasi operasi dan dukungan sistem; itu tetap perlu dicocokkan dengan konfigurasi proyek ([dormakaba Indonesia](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)).
+
+Tambahkan pintu, dan risikonya bertambah: kusen, engsel, latch, ambang, seal, kaca, serta penetrasi dapat mengubah beban, kebocoran suara, privasi, dan jalur keluar. Klaim dinding berperingkat tidak otomatis berlaku untuk pintu dan perangkatnya; halaman katalog SNI 03-6766-2002 dapat menjadi titik awal identifikasi rujukan uji, bukan bukti bahwa rakitan proyek Anda lulus ([BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Rumah Sakit dan Fasilitas Publik: Kapan Partisi Bergerak Perlu Kehati-hatian Ekstra?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Higiene dan pembersihan.** Di fasilitas kesehatan, kebersihan bergantung pada sambungan, celah, kerusakan permukaan, pegangan yang sering disentuh, akses petugas, bahan kimia yang kompatibel, waktu kontak, pembilasan, dan pengeringan. Panduan prosedur CDC dapat dipakai sebagai bahan koordinasi praktik pembersihan, bukan sebagai hukum Indonesia; lapisan “antibakteri” juga tidak menggantikan pembersihan dan disinfeksi ([CDC](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html)). Panduan Bobrick dan Polyrey membatasi metode pada produk serta bahan tertentu, sehingga lembar kompatibilitas dari pemasok tetap diperlukan ([Bobrick](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [Polyrey](https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf)).
+
+**Material dan lingkungan.** Istilah phenolic, HPL, atau compact laminate belum cukup sebagai spesifikasi. ISO membedakan ruang lingkup compact laminate interior dan eksterior; ketahanan lembap tidak berarti boleh terendam, dan klaim panel tidak membuktikan jangkar, hardware, korosi, atau aksesibilitas seluruh bilik ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [ISO 4586-6](https://www.iso.org/standard/72964.html)).
+
+Panduan koleksi washroom dari Formica juga berlaku pada produk dan pasar yang disebutnya, sehingga spesifikasi lokal serta ketersediaan harus dikonfirmasi sebelum dipakai sebagai dasar keputusan ([Formica Washroom](https://www.formica.com/en-gb/products/washroom)).
+
+**Dampak dan pengawasan.** Troli, tempat tidur, atau pengguna yang terburu-buru dapat membentur panel. Tentukan zona aman, cara menghentikan gerak, siapa yang berwenang memindahkan, serta inspeksi roda, rel, seal, dan pengunci. Frekuensi operasi dan pelatihan pengguna harus masuk SOP, bukan hanya manual yang disimpan di gudang.
+
+**Aksesibilitas dan sirkulasi.** Ukur rute dari pintu masuk hingga fungsi ruang: ruang putar, arah ayunan, posisi pegangan, visibilitas, dan hambatan sementara. Teman Partisi.co.id, jangan menyimpulkan “aksesibel” dari lebar panel atau ukuran pintu pada brosur; verifikasi terhadap regulasi dan gambar koordinasi proyek yang lengkap ([Permen PUPR 14/2017 PDF](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)).
+
+**Kebakaran dan egress.** Partisi yang menutup koridor, tangga, atau pintu keluar harus ditinjau terhadap skenario evakuasi. Katalog BSN mencantumkan SNI 03-1746-2000 sebagai rujukan yang perlu dibaca bersama persyaratan bangunan aktual; halaman katalognya sendiri tidak membuktikan bahwa suatu rakitan proyek telah memenuhi ketentuan ([BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000)). Jangan menutup jalur, mengunci pintu tanpa prosedur darurat, atau mengandalkan label “fire rated” tanpa rakitan lengkap, penetrasi, dan bukti yang sesuai. [NEEDS FIRE/EGRESS REVIEW: klasifikasi ruang dan rakitan teruji belum diberikan.]
+
+**Akustik.** Nilai STC atau Rw dari panel atau laboratorium bukan jaminan privasi ruangan. Kepala plafon, pintu, seal, ducting, sambungan, dan mutu pemasangan dapat menurunkan isolasi; metode laboratorium dan pengukuran lapangan memang berbeda ([SNI 03-6386-2000](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2](https://www.iso.org/standard/79487.html), [ASTM E90](https://store.astm.org/e0090-23.html), [ASTM E336](https://store.astm.org/e0336-24.html)).
+
+## Operasi, perawatan, dan serah terima
+
+Partisi di fasilitas publik tidak selesai ketika panel terakhir terpasang. Buat satu lembar operasi yang menyebut urutan membuka, menutup, mengunci, dan memarkir panel; area yang harus dikosongkan; serta tindakan bila panel tersendat. Nama operator dan pengganti perlu dicatat, terutama bila panel berat atau jalurnya bersinggungan dengan pasien, troli, dan pengunjung. Jangan mendorong panel dengan kendaraan atau memaksa roda melewati lantai yang tidak rata tanpa instruksi sistem.
+
+Jadwal perawatan sebaiknya memisahkan pemeriksaan harian oleh operator dari pemeriksaan teknis berkala. Pada pemeriksaan rutin, catat kondisi rel, roda atau trolley, engsel, seal, jamb, pengunci, sambungan, dan titik benturan. Bersihkan sesuai bahan kimia dan cara yang tercantum dalam dokumen produk; bila permukaan retak, tepi terangkat, atau perangkat tidak mengunci, hentikan penggunaan bagian tersebut dan minta penilaian pemasok. Jangan mengarang interval servis—tetapkan frekuensi setelah melihat manual produk, intensitas pemakaian, dan prosedur fasilitas.
+
+Saat serah terima, minta gambar terpasang, daftar komponen dan suku cadang, manual operasi, instruksi pembersihan, catatan pelatihan, serta daftar pengecualian yang belum diselesaikan. Paket ini membantu pengelola membedakan kerusakan akibat operasi, perubahan ruang, dan kebutuhan desain baru. Teman Partisi.co.id, dokumen yang lengkap lebih berguna daripada janji umum seperti “bebas perawatan” karena keputusan berikutnya dapat ditelusuri ke kondisi ruang dan sistem yang benar-benar dipasang.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Rumah Sakit dan Fasilitas Publik: Kapan Partisi Bergerak Perlu Kehati-hatian Ekstra?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai pemicu verifikasi, bukan persetujuan otomatis:
+
+| Situasi | Pertanyaan sebelum memilih | Konsekuensi bila bukti belum ada |
+|---|---|---|
+| Ruang pemeriksaan sering dibagi | Apakah privasi, pembersihan, dan akses petugas sudah dipetakan? | Tunda pemilihan; minta skema sambungan dan SOP kebersihan. |
+| Koridor dapat berubah fungsi | Apakah posisi terbuka dan tertutup tetap menjaga jalur keluar? | Hentikan desain sampai tinjauan egress selesai. |
+| Area basah atau semi-eksterior | Grade panel apa, bagaimana tepi dan hardware dilindungi? | Jangan samakan produk interior dengan eksterior. |
+| Panel berat dipindah harian | Siapa operator terlatih dan kapan inspeksi dilakukan? | Tetapkan pengawasan dan jadwal perawatan tertulis. |
+| Target “kedap suara” | Ada kriteria ruang dan rencana uji lapangan? | Hindari janji angka dari brosur saja. |
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Rumah Sakit dan Fasilitas Publik: Kapan Partisi Bergerak Perlu Kehati-hatian Ekstra?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah membeli panel berdasarkan warna dan harga lalu mencari cara memasangnya belakangan. Minta gambar rel, titik dukungan, kantong parkir, detail lantai-plafon, dan batas beban lebih dulu. Kesalahan kedua adalah menyebut permukaan “higienis” tanpa daftar bahan kimia yang kompatibel. Cocokkan instruksi pabrikan dengan prosedur IPC/EVS fasilitas dan simpan catatan perubahan produk.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menganggap pintu darurat sama dengan pintu biasa. Periksa arah buka, latch, seal, ambang, visibilitas, akses pengguna kursi roda, dan interaksi dengan alarm atau kontrol gedung. Kesalahan keempat adalah menyamakan laporan uji panel dengan kinerja ruangan. Minta laporan rakitan lengkap dan, bila ditetapkan konsultan, rencana pengukuran lapangan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk membandingkan pendekatan sistem lipat dan kebutuhan koordinasi lapangan, Anda dapat melihat [contoh halaman partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) sebagai referensi jenis pertanyaan yang perlu diajukan—bukan sebagai bukti kepatuhan fasilitas kesehatan.
 
-## Required conclusion
+## Jalan pintas yang perlu ditolak
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Pakai spesifikasi proyek kantor yang sudah ada; rumah sakit kan hanya butuh panel yang mudah dilipat.” Jalan pintas ini gagal karena pola sentuh, pembersihan, beban benturan, kebutuhan privasi, dan konsekuensi evakuasi berbeda. Alternatif yang lebih aman adalah membuat lembar persyaratan ruang: fungsi, pengguna, frekuensi gerak, bahan pembersih, jalur keluar, target akustik, dan pihak yang menyetujui. Jika satu kolom belum terisi, tandai sebagai pekerjaan desain, bukan asumsi.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Partisi.co.id, partisi bergerak memerlukan kehati-hatian ekstra saat berada di jalur evakuasi, area klinis atau basah, ruang dengan tuntutan privasi, dan tempat yang sering terkena benturan atau pembersihan. Langkah berikutnya: minta paket dokumen yang memuat gambar koordinasi, dukungan struktur, rakitan pintu dan seal, instruksi pembersihan, SOP operasi, jadwal inspeksi, serta tinjauan aksesibilitas, kebakaran, dan infeksi dari pihak berwenang.
+
+Aturan praktisnya sederhana: jangan menyetujui produk karena panelnya terlihat kuat atau brosurnya menyebut “higienis” dan “kedap suara”. Setujui hanya setelah sistem, ruang, pengguna, dan bukti pengujian ditinjau bersama; untuk kepatuhan fasilitas publik atau kesehatan, keputusan akhir tetap memerlukan review profesional proyek.

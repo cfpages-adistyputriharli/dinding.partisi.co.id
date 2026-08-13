@@ -2,8 +2,9 @@
 article_id: PAR-16-02
 title: "Panel Berat, Seret, Bising, atau Tidak Bisa Lock: Pohon Diagnosis"
 slug: "diagnosis-panel-partisi-seret-atau-bising"
-description: "Map obstruction, sequence, alignment, track, trolley, seal, lock, structure and damage hypotheses to safe next steps"
-status: outline
+description: "Pohon diagnosis praktis untuk panel yang berat, seret, bising, atau gagal mengunci, dari gejala hingga eskalasi aman"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,56 +15,14 @@ reader_address: "Teman Partisi.co.id"
 final_route: "/artikel/diagnosis-panel-partisi-seret-atau-bising.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
-  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
-  - "https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html"
-  - "https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
-  - "https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
+  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
+  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Panel Berat, Seret, Bising, atau Tidak Bisa Lock: Pohon Diagnosis
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Panel Berat, Seret, Bising, atau Tidak Bisa Lock: Pohon Diagnosis”
-- **Reader and situation:** Operator or maintenance team facing a fault
-- **Reader outcome:** Map obstruction, sequence, alignment, track, trolley, seal, lock, structure and damage hypotheses to safe next steps
-- **Primary intent:** Triage common functional symptoms
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not authorize overhead adjustment; PAR-17-03 owns isolation and qualified technicians repair
-- **Final public route:** `/artikel/diagnosis-panel-partisi-seret-atau-bising.html`
-- **Appointed CMS date:** `2026-05-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Panel Berat, Seret, Bising, atau Tidak Bisa Lock: Pohon Diagnosis**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,158 +33,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Panel Berat, Seret, Bising, atau Tidak Bisa Lock: Pohon Diagnosis
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Partisi.co.id! Saat panel partisi terasa makin berat, tersendat, mengeluarkan bunyi, atau tidak mau mengunci, godaan paling cepat biasanya menyemprot pelumas atau memaksa tuas. Padahal satu gejala dapat berasal dari benda asing di jalur, urutan panel yang keliru, rel dan roda gantung yang tidak sejajar, seal yang menekan, atau perubahan pada struktur. Diagnosis yang aman dimulai dari apa yang terlihat dan kapan gejala muncul, bukan dari komponen yang paling mudah dijangkau.
 
-### KR-01
+Jawaban singkatnya: hentikan gerakan bila ada loncatan, panel miring, bunyi benturan, celah pengunci tidak bertemu, atau bagian atas tampak berubah; catat lokasi dan kondisi gejala; kemudian telusuri dari hambatan sederhana menuju rel, roda, seal, dan pengunci tanpa menyetel komponen overhead. Sistem partisi operabel bekerja sebagai satu rangkaian panel, rel, penyangga, seal, serta perangkat penutup, seperti dijelaskan dalam ringkasan sistem Modernfold (https://www.modernfold.com/en-US/products/operable-partitions).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Yang dapat mengubah keputusan adalah bukti lapangan: apakah panel seret hanya saat belok atau selalu, apakah bunyi muncul di satu titik, apakah masalah mengikuti satu panel, apakah lantai atau plafon baru berubah, dan apakah ada air, benturan, atau pekerjaan renovasi. [NEEDS G-03/G-08: beban rel, detail penyangga, dan interval pemeriksaan harus mengikuti desain serta manual sistem yang terpasang.]
 
-### KR-11
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
-
-### KR-15
-
-- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
-- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
-- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
-- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
-
-### KR-16
-
-- **Original sources:** [CDC environmental-cleaning procedures for global healthcare facilities](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html), [CDC 2024 considerations for healthcare surfaces](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html), [Bobrick toilet-partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [Polyrey compact-HPL installation/maintenance manual](https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf)
-- **Purpose for this article:** Replace vague “antibacterial/hygienic” marketing with a maintainable surface-and-process model.
-- **Safe grounded facts:** Hygiene depends on geometry, joints, damage, high-touch hardware, soil load, cleaning access, staff process, compatible chemistry, contact/use instructions, rinsing/drying, monitoring, and repair. An antibacterial treatment does not replace cleaning/disinfection.
-- **Limits:** CDC US healthcare requirements are not Indonesian law; its global guidance is practice support. Product chemicals and methods are not interchangeable. Facility IPC/EVS and manufacturers must resolve `G-05` and `G-12`.
-
-### KR-20
-
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-14
-
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-16-01` → `/artikel/jadwal-maintenance-movable-partition.html` — Jadwal Inspeksi dan Maintenance Movable Partition
-- `PAR-16-03` → `/artikel/diagnosis-seal-partisi.html` — Seal Partisi Bocor, Robek, atau Tidak Menekan: Apa yang Diperiksa?
-- `PAR-16-04` → `/artikel/diagnosis-penurunan-privasi-suara-partisi.html` — Privasi Suara Menurun setelah Beberapa Tahun: Langkah Penelusuran
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Panel Berat, Seret, Bising, atau Tidak Bisa Lock: Pohon Diagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bagian ini penting karena istilah “berat” dan “bising” sering mencampur beberapa kejadian. Sebelum menyentuh panel, tulis panel atau segmen mana yang bermasalah, posisi saat gejala muncul, arah gerakan, bunyi yang terdengar, dan apakah gejala baru atau memburuk perlahan. Video pendek dari jarak aman dapat membantu, tetapi jangan meminta orang berdiri di jalur panel yang bergerak.
+
+Uji paling informatif adalah membandingkan gerakan normal dengan titik gangguan tanpa menambah gaya. Jika panel ringan pada awal lintasan lalu berat menjelang ujung, curigai perubahan celah, seal, pengunci, atau pertemuan jamb (sisi kusen tempat panel bertemu). Jika berat sejak awal, lihat kemungkinan hambatan di lantai, rel, atau roda. Bila hanya satu panel yang berbunyi sedangkan panel lain lewat mulus, lokasi bunyi lebih bernilai daripada dugaan bahwa seluruh sistem rusak.
+
+Catat apakah bunyi berupa gesekan, ketukan berulang, derit, atau suara logam bertemu. Gesekan yang mengikuti putaran mengarahkan pemeriksaan ke roda atau rel; ketukan di satu titik mengarahkan perhatian ke sambungan, benda asing, atau perubahan posisi. Ini bukan vonis komponen, melainkan cara memilih pemeriksaan berikutnya, Teman Partisi.co.id.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Panel Berat, Seret, Bising, atau Tidak Bisa Lock: Pohon Diagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum diagnosis rinci, pastikan tidak ada kondisi yang membuat pengujian sendiri tidak layak. Batasi akses dan jangan lanjutkan bila panel tampak menggantung tidak rata, bergerak sendiri, jatuh dari jalur, merusak kusen, menjepit tangan, atau tidak dapat ditahan dalam posisi aman. Bunyi keras yang baru muncul bersamaan dengan retak, kebocoran, bau terbakar, atau kerusakan pengunci juga menjadi alasan untuk menghentikan operasi.
+
+Jangan membuka penutup atas, mengendurkan baut gantung, memaksa panel melewati hambatan, atau mengganjal pengunci agar tampak tertutup. Penyetelan overhead dan perbaikan komponen yang menahan beban berada di luar triase ini dan memerlukan isolasi serta teknisi berkualifikasi. Jika panel berada pada jalur evakuasi atau pintu akses penting, keputusan penggunaan harus mengikuti prosedur gedung dan penanggung jawab keselamatan; PP No. 16 Tahun 2021 menempatkan penggunaan, pemeliharaan, dan perubahan bangunan dalam kerangka keselamatan dan fungsi (https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021).
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Panel Berat, Seret, Bising, atau Tidak Bisa Lock: Pohon Diagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hambatan paling sederhana dapat berupa sekrup, serpihan, karpet terangkat, atau benda yang masuk di bawah panel. Bersihkan hanya bagian yang terlihat dan tidak memerlukan pembongkaran; bila hambatan berada di dalam rel atau tidak dapat diambil tanpa gaya, tandai lokasi untuk teknisi.
+
+Urutan dan kesejajaran adalah kelompok berikutnya. Panel yang seharusnya menutup berurutan dapat saling mendorong bila salah posisi, sementara rel yang berubah terhadap lantai membuat roda bergerak miring. Ciri yang mendukung ialah beberapa panel mulai berat pada garis atau titik yang sama, celah antar-panel berubah, atau panel kembali ringan setelah diposisikan sesuai urutan operasi. Jangan menyimpulkan rel turun hanya dari celah; ukur dan cocokkan dengan gambar terpasang.
+
+Roda gantung atau trolley—rakitan roda yang membawa panel di rel—dapat aus, kotor, atau menerima beban tidak merata. Bunyi yang mengikuti setiap putaran dan terasa dari bagian atas panel menjadi petunjuk, tetapi tanpa akses dan data produk Anda tidak dapat memastikan roda mana yang rusak. Rel, pocket penumpukan, dan penyangga juga saling terkait; ASTM E557 menempatkan dukungan rel, lantai, seal, dan instalasi sebagai satu sistem (https://store.astm.org/e0557-12r26.html).
+
+Seal atau gasket yang menutup celah bisa membuat panel terasa berat tepat ketika mendekati posisi akhir. Tekanan yang tidak merata, kotoran, atau perubahan bentuk menyebabkan gesekan dan bunyi desis. Pembersihan harus mengikuti manual produk, bukan bahan kimia serbaguna; panduan perawatan seal Lorient menekankan pemeriksaan kondisi, kebersihan, dan kompatibilitas perawatan pada produk yang disebut (https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide).
+
+Pengunci yang gagal biasanya merupakan akibat, bukan penyebab awal. Panel yang tidak sejajar, seal terlalu menekan, atau lantai berubah dapat membuat kait tidak bertemu meskipun mekanisme pengunci masih utuh. Sebaliknya, tuas yang longgar atau latch yang macet dapat menghambat penutupan. Bedakan “tidak bisa mengunci” dari “tidak boleh dipaksa mengunci”: yang pertama gejala mekanis, yang kedua keputusan keselamatan bila posisi panel belum benar.
+
+Air dan perubahan material menambah cabang diagnosis. Kebocoran, kondensasi, atau genangan dapat memicu korosi, pembengkakan tepi, dan perubahan gesekan. Panduan EPA mengingatkan bahwa kendali kelembapan bergantung pada sumber air, pengeringan, ventilasi, dan detail sambungan; tahan lembap tidak otomatis berarti seluruh rakitan kedap air (https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0). [NEEDS G-05/G-11: kategori paparan, ambang penggantian, dan metode pengeringan harus diputuskan dari kondisi lokasi serta instruksi material.]
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Panel Berat, Seret, Bising, atau Tidak Bisa Lock: Pohon Diagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari catatan: nomor panel, posisi awal, arah gerak, titik bunyi, foto celah, kondisi lantai, dan perubahan lingkungan. Lalu lakukan inspeksi visual dari luar jalur: cari benda asing, lantai terangkat, bekas benturan, seal terlipat, karat, retak, atau tanda air. Pemeriksaan ini memberi banyak informasi dengan risiko rendah.
+
+Berikutnya, cocokkan urutan operasi dengan gambar, label panel, atau manual yang diserahkan saat serah terima. Jalankan satu siklus lambat tanpa menambah gaya dan hentikan bila hambatan berulang. Bandingkan panel bermasalah dengan panel tetangga pada posisi yang sama; perbedaan lokal membantu memisahkan isu sistem dari isu satu komponen.
+
+Jika gejala tetap, minta pemeriksaan kompeten terhadap rel, trolley, penyangga, seal, dan pengunci. Sertakan riwayat beban, frekuensi penggunaan, pekerjaan plafon atau lantai, benturan, kebocoran, serta bahan pembersih yang dipakai. Jangan mengubah setelan overhead selama pengumpulan bukti karena perubahan itu dapat menghapus pola gejala awal.
+
+Jika Anda perlu membandingkan cara kerja panel lipat yang dipakai di lapangan, lihat [contoh penggunaan partisi lipat di Yogyakarta](/partisi-lipat-yogyakarta.html) sebagai konteks jenis sistem, bukan sebagai bukti bahwa penyebab di lokasi Anda sama.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Panel Berat, Seret, Bising, atau Tidak Bisa Lock: Pohon Diagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil “tidak ada benda asing” hanya menutup satu hipotesis; itu tidak membuktikan rel atau trolley baik. Hasil “panel bisa bergerak setelah didorong” juga bukan bukti aman, karena gaya tambahan dapat menyamarkan ketidakselarasan dan mempercepat kerusakan. Tulis hasil sebagai observasi, misalnya “berat pada 30 cm terakhir dan bunyi ketukan di jamb kanan”, lalu pisahkan dugaan penyebab dan tindakan yang diizinkan.
+
+Bila masalah mengikuti lokasi rel, mintalah pengukuran dan pemeriksaan penyangga. Bila mengikuti panel, periksa rakitan panel, roda, seal, dan pengunci panel itu. Bila muncul setelah kebocoran atau renovasi, cari interaksi bangunan lebih dulu. Kawan Partisi.co.id, keputusan perbaikan, penggantian, atau pembatasan akses harus merujuk pada gambar terpasang, manual, dan kriteria penerimaan proyek—bukan pada satu video atau suara.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Panel Berat, Seret, Bising, atau Tidak Bisa Lock: Pohon Diagnosis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tindakan sementara yang wajar adalah menandai panel, membatasi penggunaan, membersihkan kotoran yang terlihat tanpa membongkar, dan melaporkan gejala lengkap kepada pengelola atau pemasang. Perbaikan baru dapat direncanakan setelah penyebab dan komponen pengganti teridentifikasi. Jika ada kerusakan struktur, bagian atas tidak stabil, pengunci gagal pada jalur penting, atau kelembapan berulang, eskalasi harus mencakup teknisi sistem dan pihak bangunan yang berwenang.
 
-## Objection or shortcut to address
+Shortcut “semprot pelumas lalu paksa sampai lock” bisa memberi rasa ringan sesaat tetapi mengubah gesekan, menarik debu, merusak seal tertentu, atau menutupi masalah kesejajaran. Alternatif yang lebih dapat dilacak adalah mencatat gejala, memeriksa hambatan yang aman, menggunakan bahan hanya jika manual menyebutkannya, dan meminta teknisi menguji ulang setelah sumber masalah diperbaiki.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Kesimpulan: ubah gejala menjadi keputusan yang aman
 
-## Required conclusion
+Panel berat, seret, bising, atau tidak bisa mengunci sebaiknya dibaca sebagai pohon diagnosis: mulai dari lokasi dan waktu gejala, saring risiko, telusuri hambatan dan urutan, lalu evaluasi kesejajaran rel, trolley, seal, pengunci, struktur, dan kerusakan akibat air atau benturan. Simpan foto, video aman, dan catatan perubahan bersama gambar serta manual sistem.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah Anda sekarang adalah menandai panel yang bermasalah, membatasi operasi bila ada risiko, dan meminta pemeriksaan kompeten dengan pertanyaan spesifik: “Di titik mana gaya berubah, komponen apa yang membawa beban, dan bukti apa yang mendukung tindakan ini?” Jangan melakukan penyetelan overhead sendiri. Aturan operasinya sederhana: jika diagnosis belum memisahkan gejala dari penyebab dan belum ada otoritas teknis yang jelas, jangan paksa panel bergerak atau mengunci.

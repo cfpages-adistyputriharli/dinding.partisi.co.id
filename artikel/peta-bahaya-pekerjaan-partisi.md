@@ -2,8 +2,9 @@
 article_id: PAR-17-01
 title: "Peta Bahaya Pekerjaan Partisi dari Instalasi sampai Operasi"
 slug: "peta-bahaya-pekerjaan-partisi"
-description: "Map overhead loads, lifting, panel instability, crush, pinch, height, tools, dust, hot work, electrical and public interface"
-status: outline
+description: "Panduan memetakan bahaya partisi sejak survei dan instalasi hingga pengoperasian, perawatan, dan serah terima."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,57 +15,30 @@ reader_address: "Teman Partisi.co.id"
 final_route: "/artikel/peta-bahaya-pekerjaan-partisi.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
-  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
+  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
+  - "https://www.modernfold.com/en-US/products/operable-partitions"
+  - "https://store.astm.org/e0557-12r26.html"
+  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
+  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
+  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
+  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Peta Bahaya Pekerjaan Partisi dari Instalasi sampai Operasi
 
-## Assignment lock
+Halo, Teman Partisi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Peta Bahaya Pekerjaan Partisi dari Instalasi sampai Operasi”
-- **Reader and situation:** Supervisor preparing risk assessments
-- **Reader outcome:** Map overhead loads, lifting, panel instability, crush, pinch, height, tools, dust, hot work, electrical and public interface
-- **Primary intent:** Identify lifecycle hazards
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not replace task-specific assessment or permits; PAR-17-02 through PAR-17-06 own detail
-- **Final public route:** `/artikel/peta-bahaya-pekerjaan-partisi.html`
-- **Appointed CMS date:** `2026-06-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Supervisor sering menerima gambar denah yang tampak siap dikerjakan, lalu mengira bahaya partisi hanya soal panel jatuh. Padahal keputusan mengangkat, memasang, menggerakkan, dan merawat partisi melibatkan beban di atas kepala, kestabilan panel, titik jepit, alat kerja, debu, pekerjaan panas, listrik, serta orang lain yang melintas. Peta bahaya yang baik mengikuti siklus hidup dan menghubungkan setiap bahaya dengan kondisi pemicunya.
 
-## Opening instructions
+Jawaban singkatnya: pecah pekerjaan menjadi tahap survei, pengadaan dan pengangkatan, pemasangan, pengujian, operasi, perawatan, serta pembongkaran; untuk tiap tahap catat objek, energi, orang yang terpapar, pengendalian, dan bukti pemeriksaannya. Kondisi bangunan, tipe sistem, dukungan lintasan, jalur utilitas, dan aturan proyek dapat mengubah kesimpulan. Karena itu peta ini membantu Anda menentukan pertanyaan dan pemeriksaan, bukan menggantikan penilaian risiko tugas atau izin kerja.
 
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Peta Bahaya Pekerjaan Partisi dari Instalasi sampai Operasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
+Ilustrasi umum dari aset lokal dinding.partisi.co.id; bukan dokumentasi proyek tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -75,157 +49,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Menentukan objek, kondisi awal, dan tahap pekerjaan partisi
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum menilai bahaya, pastikan yang dipetakan adalah sistem yang benar dan berada pada kondisi nyata. Kesalahan umum ialah memakai ukuran denah sebagai satu-satunya data, padahal denah tidak menunjukkan posisi struktur, ruang di atas plafon, sambungan gerak, utilitas tersembunyi, atau kapasitas substrat. Panduan FEMA juga menekankan perlunya memahami hubungan elemen nonstruktural dengan bangunan dan pergerakannya ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-### KR-01
+Mulai dengan daftar objek: dinding tetap, partisi bergerak, lintasan atas, kantong parkir, pintu lintasan, rangka, panel, kaca, seal, ambang, dan perlengkapan yang menempel. Tulis kondisi awal yang dapat diamati—misalnya jalur akses terhalang, lantai tidak rata, panel sudah rusak, atau area publik masih aktif—tanpa menyimpulkan penyebab sebelum diperiksa.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Lalu tandai tahapnya. Pada survei, bahaya utama berkaitan dengan salah informasi dan benturan utilitas. Pada pengangkatan, fokus beralih ke beban tergantung dan jalur orang. Saat pemasangan, periksa kestabilan sementara, ketinggian, alat, debu, pekerjaan panas, serta listrik. Ketika sistem digunakan, pintu, seal, lintasan, dan titik jepit menjadi perhatian. Untuk dinding atau sistem bergerak, dukungan lintasan dan ruang parkir harus dikonfirmasi oleh rancangan pemasok serta peninjauan profesional; [NEEDS DATA PROYEK: kapasitas dukungan, beban komponen, dan detail angkur].
 
-### KR-11
+## Memetakan mekanisme bahaya dari energi dan perubahan kondisi
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+Bagian ini menjawab mengapa bahaya muncul, bukan sekadar menyebut namanya. Satu objek dapat berubah risikonya ketika dipindahkan, disangga, diberi bukaan, atau dipakai berulang. Dokumentasi sistem operable partition menempatkan lintasan, berat panel, penutupan jamb, seal, dan cara operasi sebagai bagian dari sistem, bukan aksesori terpisah ([Modernfold](https://www.modernfold.com/en-US/products/operable-partitions); [ASTM E557](https://store.astm.org/e0557-12r26.html)).
 
-### KR-14
+**Beban dan kestabilan.** Beban di atas kepala mencakup panel, lintasan, atau alat yang sedang diangkat. Energi gravitasi berubah menjadi bahaya jatuh ketika sling, penyangga, atau jalur angkat tidak sesuai. Panel yang belum ditopang dapat miring atau terguling; pintu dan bukaan juga mengubah jalur beban lokal. Jangan menetapkan ukuran stud, angkur, jarak bracing, atau toleransi universal. Cocokkan data komponen dan struktur dengan perancang serta pemasok.
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+**Crush dan pinch.** Crush berarti tubuh tertekan di antara benda; pinch berarti jari atau anggota tubuh terjepit pada celah bergerak. Keduanya dapat terjadi saat panel dilipat, didorong ke kantong, pintu ditutup, atau seal menekan jamb. Tandai zona gerak, siapa yang mengoperasikan, dan cara menghentikan gerakan sebelum uji fungsi. Satu operator yang tidak terlatih dapat mengubah area aman menjadi area paparan.
 
-### KR-19
+**Ketinggian, alat, debu, dan panas.** Pemasangan bagian atas membuat pekerja berada di ketinggian dan membawa alat. Pengeboran dapat menghasilkan debu; pemotongan atau pengelasan menambah sumber panas dan percikan. Pisahkan pengendalian: akses kerja dan penahan alat untuk ketinggian, penghalang serta pembersihan untuk debu, dan izin serta isolasi area untuk pekerjaan panas. Jangan menganggap ventilasi ruangan otomatis cukup tanpa menilai jalur paparan.
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
+**Listrik dan antarmuka publik.** Pengeboran atau pemotongan dapat bertemu kabel tersembunyi; alat listrik menambah risiko jika isolasi dan sumber daya tidak dikendalikan. Di area yang masih dipakai umum, material, kabel, debu, dan pintu sementara harus dipisahkan dari jalur orang. Rencana survei perlu menunjukkan utilitas, sprinkler, detektor, akses, drainase, dan ruang parkir sebelum metode kerja disetujui ([Modernfold technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
 
-### KR-18
+Untuk dinding yang menerima beban atau dipengaruhi gerak bangunan, gunakan data desain yang berlaku. SNI 1727:2020 dan SNI 1726:2019 adalah rujukan katalog untuk beban minimum dan desain gempa, tetapi catatan katalog tidak menyediakan perhitungan proyek ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020); [SNI 1726:2019](https://pesta.bsn.go.id/produk/detail/12762-sni17262019)). Artinya, peta bahaya harus memicu koordinasi struktur, bukan menyalin angka dari artikel ini.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
+## Inspeksi dan data yang perlu dicatat pada setiap tahap
 
-### KR-20
+Peta bahaya menjadi berguna jika orang lain dapat menelusuri apa yang dilihat, kapan, dan keputusan apa yang diambil. Buat satu lembar per tahap dengan kolom objek, kondisi, bahaya, pengendalian, penanggung jawab, bukti, dan status. Foto hanya mendukung catatan; foto tidak membuktikan kapasitas tersembunyi.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Pada survei, catat jalur material, posisi struktur dan utilitas yang terkonfirmasi, ketinggian kerja, kondisi lantai, ruang kantong, serta batas area publik. Pada penerimaan material, cocokkan identitas panel, lintasan, hardware, seal, dan petunjuk pemasok dengan daftar pengadaan. Jika ada substitusi, tahan pemasangan sampai dampaknya pada beban, kebakaran, akustik, kelembapan, atau garansi ditinjau; Permen PUPR No. 10 Tahun 2021 menjadi salah satu rujukan kerangka keselamatan konstruksi, bukan izin otomatis untuk metode tertentu ([BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)).
 
-### KR-10
+Saat pemasangan, rekam kondisi dukungan sebelum ditutup, urutan penyanggaan sementara, identitas alat angkat, isolasi utilitas, pengendalian debu dan panas, serta pemeriksaan sambungan. Setelah penutupan, sebagian item tidak lagi terlihat. Karena itu dokumen inspeksi dan uji (inspection and test plan) harus disepakati kontraktor, perancang, pemasok, dan HSE/QA sebelum pekerjaan dimulai.
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+Pada commissioning (pengujian dan serah fungsi), uji fungsi yang memang direncanakan: gerak panel, penutupan jamb, pintu, seal, dan penghentian saat ada hambatan. Catat siapa yang menguji, kondisi area, hasil, dan cacat terbuka. Uji visual saja tidak cukup untuk menyatakan fungsi atau rating sistem.
 
-## Evidence gates
+## Memilih perawatan, perbaikan, penguatan, atau penghentian operasi
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+Setelah sistem dipakai, gejala perlu dihubungkan dengan penyebab sebelum tindakan dipilih. Panel yang seret dapat berasal dari lantai tidak rata, lintasan, seal, benturan, atau perubahan bangunan. Air dan kelembapan dapat memicu korosi, jamur, delaminasi, atau kerusakan lapisan; EPA menyarankan pengendalian sumber kelembapan dalam desain, konstruksi, dan pemeliharaan ([EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Gunakan urutan aman: hentikan operasi bila ada risiko jatuh, jepit, kabel terbuka, panas, atau kerusakan yang memburuk; amankan area; dokumentasikan gejala; lalu minta diagnosis pihak berwenang. Perawatan rutin seperti pembersihan atau pemeriksaan seal harus mengikuti petunjuk produk yang benar-benar terpasang. Panduan Lorient, misalnya, berlaku untuk produk dan bahan pembersih yang disebut di dalamnya, bukan semua seal ([ASSA ABLOY Lorient](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide)).
 
-## Internal-link plan
+Perbaikan kosmetik boleh dipilih hanya setelah sumber masalah dipahami. Penguatan, penggantian panel, perubahan pintu, atau pembongkaran memerlukan peninjauan desain dan isolasi area. Jangan mengoperasikan kembali sistem hanya karena permukaannya terlihat rapi.
 
-### Existing local routes
+## Menentukan prioritas berdasarkan akibat dan kemampuan mengendalikan
 
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Prioritas bukan lomba mencari cacat terbanyak. Dahulukan bahaya dengan akibat berat dan peluang paparan nyata: beban tergantung di jalur orang, panel tidak stabil, titik jepit yang dapat dijangkau publik, utilitas berenergi, atau pekerjaan panas dekat bahan mudah terbakar. Setelah itu nilai apakah pengendalian tersedia sekarang atau memerlukan penghentian pekerjaan.
 
-### Planned sibling articles
+Kawan Partisi.co.id, gunakan pertanyaan keputusan sederhana: siapa dapat terkena, kapan energinya aktif, apa penghalang pertama, bukti apa yang membuktikan penghalang bekerja, dan siapa yang berwenang menghentikan pekerjaan? Jika jawaban terakhir tidak jelas, naikkan isu ke supervisor dan HSE/QA (keselamatan, kesehatan kerja, lingkungan, dan jaminan mutu). Rute pekerjaan dengan [panduan partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) atau [referensi partisi lipat Tuban](/partisi-lipat-tuban.html) hanya membantu mengenali konteks produk; keduanya bukan pengganti penilaian lokasi Anda.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Menjaga rekaman, serah terima, dan pemicu pemeriksaan ulang
 
-- `PAR-17-02` → `/artikel/data-lifting-track-dan-panel-partisi.html` — Lifting Track dan Panel: Data yang Diperlukan sebelum Mengangkat
-- `PAR-17-03` → `/artikel/bahaya-crush-dan-pinch-panel-partisi.html` — Crush, Pinch, dan Stored Energy saat Panel Bergerak
+Handover (serah terima) yang kuat menjawab apa yang dipasang, bagaimana dioperasikan, dan kapan harus diperiksa ulang. Serahkan gambar akhir, identitas komponen, catatan dukungan dan angkur yang disetujui, hasil uji fungsi, daftar cacat, petunjuk operasi, batas penggunaan, serta riwayat perubahan. Simpan juga foto kondisi tersembunyi sebelum penutupan.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Pemeriksaan ulang dipicu oleh kejadian, bukan kalender semata: benturan, kebocoran, perubahan layout, pekerjaan plafon, penggantian hardware, keluhan pintu atau seal, gerakan bangunan, dan perubahan jalur publik. Dokumentasikan gejala dan tindakan, lalu evaluasi ulang peta bahaya sebelum sistem diaktifkan kembali.
 
-## Tentukan objek, kondisi, dan tahap siklus hidup
+## Jalan pintas yang sering gagal: menilai dari tampilan akhir
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Peta Bahaya Pekerjaan Partisi dari Instalasi sampai Operasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mengecat panel, merapikan seal, atau melihat pintu dapat bergerak sekali memang cepat, tetapi tidak membuktikan dukungan lintasan, stabilitas, utilitas tersembunyi, atau pengendalian titik jepit. Spesifikasi operable partition menempatkan dukungan, pemasangan, pelatihan pengguna, dan pemeliharaan sebagai rangkaian yang saling terkait ([Modernfold specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
 
-## Mekanisme perubahan atau penurunan kinerja
+Alternatif yang lebih dapat ditelusuri ialah menahan serah terima sampai daftar inspeksi, uji fungsi, dan deviasi ditutup oleh pihak yang berwenang. Bila data kapasitas, rating, atau kondisi struktur belum tersedia, beri tanda [NEEDS TECHNICAL REVIEW] dan jangan mengubahnya menjadi klaim pasti.
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Bahaya Pekerjaan Partisi dari Instalasi sampai Operasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: peta bahaya harus mengikuti energi, tahap, dan bukti
 
-## Inspeksi dan data yang perlu dicatat
+Peta bahaya pekerjaan partisi dari instalasi sampai operasi berarti memeriksa perubahan energi dan paparan pada setiap tahap: survei, angkat, pasang, uji, pakai, rawat, dan bongkar. Tandai beban atas, kestabilan, crush/pinch, ketinggian, alat, debu, panas, listrik, serta antarmuka publik; lalu hubungkan dengan pengendalian dan rekaman.
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Bahaya Pekerjaan Partisi dari Instalasi sampai Operasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan perawatan atau intervensi
-
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Peta Bahaya Pekerjaan Partisi dari Instalasi sampai Operasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara menentukan prioritas
-
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Bahaya Pekerjaan Partisi dari Instalasi sampai Operasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Rekaman, handover, dan pemicu pemeriksaan ulang
-
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Peta Bahaya Pekerjaan Partisi dari Instalasi sampai Operasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya adalah membawa lembar tahap, gambar, data produk, dan foto kondisi awal ke rapat koordinasi proyek. Minta perancang, pemasok, kontraktor, dan HSE/QA menyetujui dukungan, metode, uji, serta batas operasi. Teman Partisi.co.id, jangan tetapkan dimensi, rating, interval, atau kepatuhan hanya dari peta umum ini: keputusan akhir tetap memerlukan bukti proyek dan peninjauan profesional.

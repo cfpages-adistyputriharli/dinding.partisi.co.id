@@ -2,8 +2,9 @@
 article_id: PAR-09-04
 title: "Partisi Bergerak dan Strategi Evakuasi saat Ruang Berubah Konfigurasi"
 slug: "partisi-dan-strategi-evakuasi"
-description: "Map open and closed states, occupant load inputs, route visibility, furniture, staff roles, drills and prohibited configurations"
-status: outline
+description: "Panduan memetakan kondisi ruang, jumlah penghuni, visibilitas rute, furnitur, peran petugas, latihan, dan konfigurasi terlarang saat partisi bergerak digunakan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,57 +16,24 @@ final_route: "/artikel/partisi-dan-strategi-evakuasi.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
-  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
   - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
+  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
   - "https://www.modernfold.com/en-US/products/operable-partitions"
   - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Partisi Bergerak dan Strategi Evakuasi saat Ruang Berubah Konfigurasi
 
-## Assignment lock
+Halo, Teman Partisi.co.id! Ketika satu aula harus menjadi dua ruang rapat, lalu kembali menjadi aula, jalur keluar tidak boleh ikut “berpindah” tanpa pemeriksaan. Kekeliruan yang sering terjadi adalah menganggap partisi sudah ditumpuk berarti evakuasi otomatis aman. Padahal posisi panel, pintu, furnitur, jumlah orang, dan petugas yang mengarahkan orang berubah pada setiap keadaan ruang.
 
-- **Writer task:** Expand this file into one complete article answering: “Partisi Bergerak dan Strategi Evakuasi saat Ruang Berubah Konfigurasi”
-- **Reader and situation:** Facility manager using several room layouts
-- **Reader outcome:** Map open and closed states, occupant load inputs, route visibility, furniture, staff roles, drills and prohibited configurations
-- **Primary intent:** Assess room-state effects on evacuation
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not write an approved emergency plan; site authority owns it
-- **Final public route:** `/artikel/partisi-dan-strategi-evakuasi.html`
-- **Appointed CMS date:** `2025-12-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: buat peta evakuasi untuk setiap konfigurasi yang benar-benar dipakai, bukan satu denah untuk semua keadaan. Tandai jalur yang terlihat, pintu yang dapat dioperasikan, area penumpukan panel, dan furnitur yang mungkin menghalangi. Uji peta itu bersama pengelola gedung dan petugas keselamatan. Kesimpulan dapat berubah bila jumlah penghuni, fungsi acara, arah bukaan pintu, atau sistem partisinya berbeda. Kerangka bangunan nasional sendiri menempatkan perubahan, penggunaan, pemeliharaan, dan keselamatan sebagai hal yang perlu dikelola, bukan disimpulkan dari label produk saja ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-## Opening instructions
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Partisi Bergerak dan Strategi Evakuasi saat Ruang Berubah Konfigurasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,159 +44,83 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Apa yang dimaksud strategi evakuasi untuk partisi bergerak?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum menggambar panah, samakan dulu objeknya. Strategi evakuasi di sini adalah cara memeriksa dampak perubahan tata ruang terhadap orang dan jalur keluar; ini bukan dokumen rencana tanggap darurat yang disahkan. Otoritas gedung tetap menetapkan rencana, kapasitas, penanggung jawab, dan persetujuan akhirnya.
 
-### KR-01
+Partisi bergerak mencakup panel yang dilipat, digeser, atau disimpan pada kantong penumpukan. Sistemnya memiliki rel, penyangga, sambungan, segel, dan kadang pass door (pintu sisipan). Panduan sistem operable partition (partisi operasional yang dapat dipindah) menempatkan dukungan rel, berat panel, kantong simpan, kerataan lantai, penutupan jamb, pengoperasian, dan perawatan sebagai satu sistem ([Modernfold](https://www.modernfold.com/en-US/products/operable-partitions); [ASTM E557](https://store.astm.org/e0557-12r26.html)). Artinya, benda yang tampak seperti “dinding sementara” tetap dapat mengubah bukaan, pandangan, dan perilaku pengguna.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Gunakan dua peta minimum: keadaan terbuka (ruang menjadi satu) dan keadaan tertutup (ruang terbagi). Tambahkan keadaan antara jika panel sering berhenti sebelum rapat sempurna. Pada tiap peta, catat fungsi ruang, perkiraan jumlah penghuni, lokasi furnitur, posisi panel dan kantongnya, pintu yang tersedia, serta orang yang memimpin evakuasi. Jangan menulis angka kapasitas atau lebar minimum dari perkiraan; tandai `[NEEDS PROJECT EGRESS REVIEW]` sampai otoritas dan dokumen proyek memastikannya.
 
-### KR-02
+## Bagaimana perubahan posisi panel mengubah jalur keluar?
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
+Perubahan panel paling mudah dipahami sebagai perubahan urutan keputusan orang. Bagian ini menjelaskan titik yang perlu diamati agar Anda tidak hanya memindahkan garis dinding pada denah.
 
-### KR-03
+Pada keadaan terbuka, orang biasanya melihat satu ruang besar dan memilih rute berdasarkan pintu yang tampak. Saat panel tertutup, pandangan dapat terputus dan penghuni di ruang belakang mungkin tidak mengetahui pintu terdekat. Karena itu, gambar ulang arah pandang dari posisi kerja, kursi, dan area berkumpul, bukan hanya dari tengah ruangan. Persyaratan sarana jalan keluar harus dibaca bersama kondisi bangunan dan penggunaan aktual ([SNI 03-1746-2000](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000)).
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+Periksa apakah panel yang sudah ditutup benar-benar berhenti pada posisi operasi yang ditentukan. Panel setengah terbuka, pintu sisipan yang tidak terkunci, atau segel yang menonjol dapat menyempitkan lintasan dan membingungkan arus. Jangan menyatakan “pintu darurat” hanya karena ada daun pintu pada panel; status pintu, bingkai, perangkat keras, dan hubungan dengan sistem dinding perlu bukti proyek yang sesuai. Untuk saat ini gunakan penanda `[NEEDS DOOR-AND-WALL SYSTEM EVIDENCE]` bila dokumen tersebut belum tersedia.
 
-### KR-10
+## Faktor apa yang harus dipetakan pada setiap keadaan ruang?
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+Denah yang sama dapat menghasilkan risiko berbeda ketika isi ruang berubah. Jembatan ini penting agar pemeriksaan tidak berhenti pada panel, tetapi mengikuti kondisi yang dialami penghuni.
 
-### KR-13
+**Jumlah dan pola penghuni.** Catat fungsi kegiatan dan perkiraan orang pada keadaan normal maupun acara padat. Jumlah itu menjadi masukan untuk otoritas yang menghitung kebutuhan jalan keluar; jangan mengubahnya menjadi kapasitas resmi tanpa perhitungan dan persetujuan.
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+**Visibilitas dan tanda arah.** Dari setiap zona, tentukan apakah pintu terlihat, apakah tanda arah tertutup panel, dan apakah pencahayaan darurat tetap terbaca. Jika tanda hanya menghadap satu konfigurasi, siapkan pemeriksaan ulang setiap kali tata ruang berubah. Permen PUPR tentang persyaratan kemudahan menekankan bahwa akses merupakan rangkaian rute dan penggunaan, bukan satu ukuran produk ([Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
 
-### KR-11
+**Furnitur dan perlengkapan.** Kursi lipat, meja registrasi, podium, kabel, dan pembatas antrean sering dipindahkan bersamaan dengan panel. Tetapkan area simpan yang tidak memakan lintasan atau ruang putar pintu. Foto kondisi sebelum acara dapat membantu pemeriksaan, tetapi foto bukan pengganti inspeksi langsung.
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+**Antarmuka bangunan.** Rel atas, gantungan, sprinkler, lampu, detektor, dan plafon harus dikoordinasikan. Plafon gantung bukan otomatis penyangga struktural; beban dan gerakan partisi perlu diteruskan ke struktur pendukung yang memang dirancang untuk itu ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)). Detail angkur, jarak, atau penahan tidak boleh ditebak. Minta gambar dan perhitungan yang berlaku untuk proyek.
 
-### KR-14
+## Siapa melakukan apa sebelum dan saat evakuasi?
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+Peta hanya berguna jika orang tahu kapan memeriksa dan siapa yang boleh mengubah konfigurasi. Bagian ini mengubah denah menjadi kebiasaan operasi yang dapat diaudit.
 
-## Evidence gates
+Sebelum ruang dipakai, petugas fasilitas mencocokkan keadaan aktual dengan peta: panel terkunci pada posisi yang benar, pintu dapat dibuka, jalur bebas, tanda terlihat, dan kantong penumpukan tidak menjadi tempat menaruh barang. Koordinator acara menyampaikan batas furnitur dan jumlah orang kepada petugas keselamatan. Hanya personel yang ditunjuk yang mengoperasikan panel; pengguna umum tidak seharusnya memaksa panel ketika keadaan darurat.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+Saat alarm, petugas di tiap zona memberi instruksi singkat menuju rute yang telah ditetapkan dan melapor bila akses tertutup. Jangan membuat orang kembali untuk mengambil barang atau mencari panel. Setelah area kosong, lakukan penghitungan di titik berkumpul sesuai prosedur gedung. Peran dan titik penghitungan harus ditulis dalam rencana resmi site; artikel ini tidak menetapkan komando darurat.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Bagaimana membuat latihan yang membandingkan ruang terbuka dan tertutup?
 
-## Internal-link plan
+Latihan yang selalu memakai satu tata letak hanya menguji hafalan. Bandingkan setidaknya satu sesi ruang terbuka dan satu sesi ruang terbagi, dengan pemberitahuan dan pengawasan sesuai kebijakan gedung.
 
-### Existing local routes
+Mulai dari pengarahan awal (briefing): jelaskan bahwa latihan bukan uji kecepatan dan siapa pun boleh menghentikannya bila muncul bahaya. Catat waktu mulai, keadaan panel, jumlah peserta, pintu yang digunakan, titik orang berhenti, serta pertanyaan yang muncul. Amati apakah penghuni melihat tanda, memilih rute yang dituju, dan menemukan furnitur penghalang. Jangan menyimpulkan kinerja sistem dari satu latihan kecil; gunakan hasilnya untuk daftar perbaikan dan minta tinjauan profesional jika ada temuan struktural, kebakaran, atau aksesibilitas.
 
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Contoh keputusan praktis untuk dua konfigurasi ruang
 
-### Planned sibling articles
+Contoh berikut sengaja bersyarat agar tidak dibaca sebagai persetujuan desain. Misalkan sebuah ruang rapat dapat dibuka menjadi aula. Pada keadaan terbuka, meja berada di sisi dinding dan dua pintu terlihat dari area utama. Pada keadaan tertutup, panel membagi ruang dan meja tambahan ditempatkan dekat salah satu pintu.
 
-These are future routes. Do not link them as live until their HTML exists.
+| Temuan saat pemeriksaan | Keputusan operasi sementara | Bukti yang masih diperlukan |
+|---|---|---|
+| Pintu dan tanda terlihat, lintasan bebas pada kedua keadaan | Izinkan penggunaan sesuai rencana gedung; catat pemeriksaan sebelum acara | Konfirmasi peta resmi dan jumlah penghuni oleh otoritas |
+| Tanda tertutup panel pada ruang belakang | Ubah orientasi tanda atau hentikan konfigurasi itu sampai rute terbaca | Penilaian aksesibilitas dan pencahayaan proyek |
+| Meja tambahan menyentuh area bukaan | Pindahkan meja; jangan mengandalkan “masih bisa lewat” | Verifikasi dimensi dan arus oleh penanggung jawab keselamatan |
+| Panel berhenti di tengah atau pintu sisipan tidak berfungsi | Hentikan operasi panel dan isolasi ruang dari pemakaian | Pemeriksaan pemasok/teknisi dan bukti sistem pintu-dinding |
 
-- `PAR-09-02` → `/artikel/pass-door-egress-dan-aksesibilitas.html` — Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah
-- `PAR-09-03` → `/artikel/bukti-fire-rated-partisi.html` — Klaim Fire-Rated pada Partisi: Bukti Sistem yang Harus Dilihat
-- `PAR-09-05` → `/artikel/koordinasi-partisi-dengan-mep-dan-av.html` — Koordinasi Partisi dengan Sprinkler, Alarm, HVAC, Lighting, dan AV
-- `PAR-09-06` → `/artikel/keamanan-publik-saat-partisi-beroperasi.html` — Keamanan Publik saat Partisi Beroperasi di Aula, Sekolah, dan Venue
+Teman Partisi.co.id, tabel ini membantu memutuskan tindakan hari itu, bukan menggantikan persetujuan. Untuk membandingkan jenis partisi lipat dan kebutuhan ruang, Anda dapat melihat [contoh partisi lipat di Yogyakarta](/partisi-lipat-yogyakarta.html) sebagai referensi produk; keputusan evakuasi tetap mengikuti kondisi gedung Anda.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kesalahan umum yang perlu dihentikan sejak pemeriksaan pertama
 
-## Jawaban singkat dan salah paham utama
+Kesalahan pertama adalah memakai denah “normal” untuk acara dengan panel tertutup. Perbaikannya sederhana: simpan denah per keadaan dan beri tanggal pemeriksaan.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Partisi Bergerak dan Strategi Evakuasi saat Ruang Berubah Konfigurasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan kedua adalah menghitung kursi tetapi melupakan orang yang berdiri, antre, atau berada di balik panel. Mintalah penanggung jawab kegiatan menjelaskan pola penggunaan sebelum angka dimasukkan ke kajian resmi.
 
-## Definisi dan batas objek
+Kesalahan ketiga adalah menaruh kursi cadangan dan barang dekorasi di kantong panel. Area itu adalah bagian dari operasi sistem; instruksi pengoperasian dan perawatan pemasok harus diikuti, bukan dijadikan gudang ([Modernfold](https://www.modernfold.com/en-US/products/operable-partitions)).
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Partisi Bergerak dan Strategi Evakuasi saat Ruang Berubah Konfigurasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan keempat adalah menganggap sertifikat atau label panel membuktikan seluruh dinding dan pintu aman. Klaim kebakaran, akses, dan jalan keluar berlaku pada susunan lengkap serta pemasangan yang dinilai. Jika bukti sistem tidak lengkap, pertahankan `[NEEDS TECHNICAL REVIEW]` dan jangan menerbitkan klaim kepatuhan.
 
-## Cara kerjanya
+## Jalan pintas yang tampak praktis tetapi berisiko
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Partisi Bergerak dan Strategi Evakuasi saat Ruang Berubah Konfigurasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang sering dipilih adalah membuka panel sedikit saja agar “orang masih bisa menyelip”. Cara ini gagal karena lebar dan arah lintasan tidak lagi konsisten, sementara orang dalam keadaan panik tidak membaca niat operator. Segel, roda, atau daun pintu juga dapat berada pada posisi yang tidak dirancang untuk dilalui.
 
-## Faktor yang mengubah hasil
+Alternatif yang lebih dapat dipertanggungjawabkan adalah menetapkan posisi operasi yang jelas, memberi tanda pada denah, melarang konfigurasi antara bila belum dinilai, dan meminta pemeriksaan teknisi ketika panel tidak mencapai posisi itu. Jika membutuhkan pembanding vendor atau lokasi pemasangan, [referensi partisi lipat di Tuban](/partisi-lipat-tuban.html) dapat menjadi titik awal percakapan, bukan bukti bahwa konfigurasi gedung Anda otomatis sesuai.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Partisi Bergerak dan Strategi Evakuasi saat Ruang Berubah Konfigurasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Partisi.co.id, perlakukan perubahan denah sebagai perubahan operasi, bukan pekerjaan dekorasi yang bisa dilakukan diam-diam.
 
-## Contoh keputusan praktis
+## Langkah berikutnya sebelum konfigurasi ruang disahkan
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Partisi Bergerak dan Strategi Evakuasi saat Ruang Berubah Konfigurasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Partisi bergerak memengaruhi evakuasi melalui perubahan pandangan, bukaan, lintasan, furnitur, dan tugas petugas. Karena itu, strategi yang masuk akal adalah memetakan setiap keadaan ruang, memeriksanya sebelum dipakai, melatih perbedaannya, lalu menyerahkan angka kapasitas dan status kepatuhan kepada otoritas gedung serta tenaga kompeten.
 
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Partisi Bergerak dan Strategi Evakuasi saat Ruang Berubah Konfigurasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Siapkan satu paket tinjauan berisi denah terbuka/tertutup, daftar penghuni, foto kondisi aktual, daftar furnitur, prosedur operasi panel, catatan latihan, dan temuan yang belum terjawab. Minta pengelola gedung menandatangani keputusan penggunaannya dan menutup `[NEEDS PROJECT EGRESS REVIEW]`, `[NEEDS DOOR-AND-WALL SYSTEM EVIDENCE]`, serta `[NEEDS TECHNICAL REVIEW]` dengan bukti yang sesuai. Aturan operasinya: jangan ubah konfigurasi ruang tanpa mengubah peta, pemeriksaan, dan pengarahan evakuasinya.

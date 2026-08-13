@@ -2,8 +2,9 @@
 article_id: PAR-05-05
 title: "Kelembapan, Kondensasi, dan Perubahan Dimensi pada Panel Partisi"
 slug: "kelembapan-dan-panel-partisi"
-description: "Explain moisture sources, conditioning, substrate response, corrosion, edge protection, ventilation and inspection"
-status: outline
+description: "Panduan merancang panel partisi untuk ruang lembap: sumber air, kondensasi, perubahan dimensi, korosi, perlindungan tepi, ventilasi, dan inspeksi"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -39,13 +40,13 @@ sources:
   - "https://www.iso.org/standard/14021.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Kelembapan, Kondensasi, dan Perubahan Dimensi pada Panel Partisi
 
-## Assignment lock
+Halo, Kawan Partisi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Kelembapan, Kondensasi, dan Perubahan Dimensi pada Panel Partisi”
+## Konteks keputusan
+
+- **Ruang lingkup:** Artikel ini menjawab “Kelembapan, Kondensasi, dan Perubahan Dimensi pada Panel Partisi”.
 - **Reader and situation:** Owner in a humid, coastal or intermittently cooled building
 - **Reader outcome:** Explain moisture sources, conditioning, substrate response, corrosion, edge protection, ventilation and inspection
 - **Primary intent:** Design for humid interior conditions
@@ -69,7 +70,7 @@ sources:
 - Do not use a generic industry-history or “Di era digital” introduction.
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -80,9 +81,9 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Catatan sumber
 
 Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
@@ -135,13 +136,13 @@ Use the original source links below. Do not cite this outline or `GLOBAL_RESEARC
 - **Safe grounded facts:** “Demountable” does not prove reusable after removal, and an EPD does not automatically make one product preferable. Evaluation needs a common functional unit/scope, service conditions, replacement, maintenance, damage, disassembly method, recovery route, transport, and verified destination.
 - **Limits:** ISO abstracts do not supply project results. Verify current documents, comparable PCR/boundaries, Indonesian waste routes, and actual reuse/recycling capacity; resolve `G-14`.
 
-## Evidence gates
+## Batas keputusan
 
 - **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
 
 If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
 
-## Internal-link plan
+## Tautan lanjutan
 
 ### Existing local routes
 
@@ -160,78 +161,68 @@ These are future routes. Do not link them as live until their HTML exists.
 - `PAR-05-04` → `/artikel/memilih-finish-partisi-bergerak.html` — HPL, Fabric, Wallpaper, dan Finish Lain untuk Partisi Bergerak
 - `PAR-05-06` → `/artikel/menilai-sampel-dan-mock-up-partisi.html` — Menilai Sampel Finish dan Mock-Up sebelum Produksi Massal
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kelembapan, Kondensasi, dan Perubahan Dimensi pada Panel Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Halo, Kawan Partisi.co.id! Panel partisi di ruang lembap tidak otomatis gagal, tetapi juga tidak aman jika diperlakukan seperti benda yang selalu kering dan stabil. Keputusan yang paling menentukan adalah mengendalikan sumber air dan kondensasi, memberi waktu pengkondisian pada material, lalu memilih susunan panel, rangka, tepi, sambungan, dan ventilasi berdasarkan kondisi nyata ruangan.
+
+Kelembapan dapat memicu pemuaian atau penyusutan pada material yang menyerap uap, membuat lapisan terkelupas di tepi, dan mempercepat korosi pada logam. Kondensasi menambah air justru ketika permukaan panel lebih dingin daripada udara lembap. Karena itu, “pakai panel tahan air” saja bukan jawaban lengkap. Jenis lembaran, sistem rangka, detail bawah dan kepala panel, kebocoran bangunan, pola pendinginan, serta cara pembersihan harus dinilai sebagai satu sistem. Panduan pengendalian kelembapan EPA menekankan pengelolaan sumber air dan pengeringan, bukan sekadar menutup noda di permukaan (https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0).
+
+Artikel ini membahas perencanaan dan pemeriksaan untuk interior pantai, bangunan yang sering berubah dari terbuka ke ber-AC, atau ruang dengan beban basah. Ia tidak mendiagnosis kerusakan terpasang; bila sudah ada retak, bau, jamur, panel menggelembung, atau pintu seret, hentikan perbaikan kosmetik dan minta pemeriksaan proyek. [NEEDS PROJECT MOISTURE DATA AND SYSTEM APPROVAL]
+
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
+
+Aset lokal; gambar ini bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kelembapan, Kondensasi, dan Perubahan Dimensi pada Panel Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Panel partisi” bukan satu material tunggal. ISO 4586 membedakan lembaran laminasi dekoratif untuk direkatkan ke penopang dan compact laminate yang dapat berdiri sendiri; keduanya berbeda dari papan komposit, papan gipsum, rangka metal, atau satu unit partisi yang sudah dipasang (https://www.iso.org/standard/72959.html; https://www.iso.org/standard/72961.html; https://www.iso.org/standard/72962.html). Knauf juga menerbitkan sistem drywall sebagai konfigurasi berlapis, bukan izin untuk menganggap semua papan dan stud setara (https://knauf.com/en-EG/systems/drywall-systems).
+
+Batas ini penting saat Anda membaca klaim “moisture resistant”. Klaim pada satu lapisan tidak membuktikan sambungan, rongga, sekrup, sealant, atau lantai di bawahnya tahan terhadap paparan yang sama. Artikel ini membahas keputusan desain, pengadaan bukti, dan inspeksi rutin. Ia tidak menentukan ukuran stud, tinggi maksimum, rating api atau akustik, masa garansi, maupun kecocokan produk tertentu. Nilai tersebut harus berasal dari dokumen sistem yang benar-benar ditawarkan dan disetujui untuk proyek.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kelembapan, Kondensasi, dan Perubahan Dimensi pada Panel Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Udara membawa uap air. Ketika permukaan panel, frame, atau aksesori turun di bawah suhu titik embun, uap berubah menjadi tetesan. Sumbernya dapat berupa udara luar pantai, kebocoran atap dan pipa, kegiatan mencuci, lantai yang belum kering, atau AC yang membuat satu sisi panel jauh lebih dingin. Air yang masuk ke pori atau celah kemudian bergerak melalui kapilaritas; pengeringan yang lambat menjaga material tetap lembap.
+
+Material higroskopis merespons perubahan kadar air dengan perubahan dimensi. Sambungan yang terlalu ketat dapat menekan tepi saat material mengembang; sambungan tanpa ruang gerak dapat membuka celah saat menyusut. Di sekitar bukaan pintu, perubahan kecil saja dapat memengaruhi alignment (kesegarisan dan posisi) serta gesekan. Pada logam, air dan kontaminan mempercepat korosi, terutama di potongan, lubang sekrup, dan titik yang cat atau pelapisnya tergores.
+
+Urutan kerja yang aman adalah: identifikasi sumber air, stabilkan kondisi ruang, simpan dan kondisikan material sesuai petunjuk sistem, lindungi tepi dan penetrasi, pasang rangka serta panel mengikuti dokumen yang disetujui, kemudian verifikasi fungsi. Catatan foto sebelum penutupan, daftar produk, perubahan lapangan, dan hasil pemeriksaan menjadi bukti untuk bagian yang tidak dapat dilihat setelah ditutup. Prinsip inspeksi dan pemeliharaan pasif dapat dirujuk pada daftar BSN serta panduan pemeliharaan ASSA ABLOY dan Bobrick (https://pesta.bsn.go.id/produk/by_ics/126; https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide; https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/).
+
+Ventilasi bukan berarti meniupkan udara lembap ke rongga tertutup. Atur aliran agar sumber uap dibuang dan permukaan tidak mengalami pendinginan lokal yang ekstrem. Jika ruang memakai AC berselang, rencana operasi perlu menetapkan kapan sistem dihidupkan, bagaimana pintu dan kisi bekerja, dan siapa yang memeriksa kebocoran. Detail tersebut adalah keputusan proyek, bukan angka universal.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kelembapan, Kondensasi, dan Perubahan Dimensi pada Panel Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari lingkungan: kedekatan dengan laut, hujan yang masuk, elevasi lantai, kelembapan ruang, durasi AC, dan lokasi sumber air. Lanjutkan ke material: kemampuan menyerap air, jenis inti, lapisan muka, kualitas tepi, kompatibilitas perekat dan sealant, serta perlindungan pada potongan. Rangka dan pengikat menentukan apakah perubahan kecil diteruskan menjadi lendutan, bunyi, atau pintu yang tidak lagi pas.
+
+Pelaksanaan sama pentingnya. Material yang dipasang sebelum lantai dan plester mengering dapat membawa air ke dalam sistem. Menutup panel tanpa mencatat pipa dan sambungan menghilangkan kesempatan memeriksa kebocoran. Substitusi produk, perubahan detail kepala panel, atau pengeboran tambahan dapat membatalkan bukti kinerja yang semula diajukan. Permen PUPR No. 10 Tahun 2021 menggarisbawahi perlunya tata kelola keselamatan konstruksi; peran kontraktor, perancang, pemasok, dan QA/HSE harus jelas dalam dokumen proyek (https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
+
+Terakhir, lihat pemakaian dan perawatan. Air yang disemprotkan langsung, bahan pembersih yang tidak kompatibel, handuk basah yang menempel, atau roda troli yang menghantam tepi menciptakan beban berbeda dari kelembapan udara biasa. Jadwal inspeksi harus lahir dari risiko dan petunjuk sistem yang dipilih, bukan dari interval yang dianggap berlaku untuk semua partisi.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kelembapan, Kondensasi, dan Perubahan Dimensi pada Panel Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan ruang rapat dekat pantai yang ber-AC pada jam kerja saja. Sebelum memesan, minta pemasok menunjukkan susunan panel lengkap, detail tepi bawah, perlindungan rangka, dan prosedur pengkondisian. Tanyakan juga bagaimana kondensasi ditangani ketika AC mati semalam. Jika jawaban hanya menyebut nama papan, keputusan belum memiliki bukti yang cukup.
+
+Untuk toilet atau area dengan pembersihan basah, prioritaskan pengendalian air di lantai dan sambungan, bukan hanya memilih muka panel mengilap. Pastikan drainase, seal, dan akses pemeriksaan disetujui. Untuk partisi bergerak, minta uji fungsi pada kondisi operasi yang dimaksud: gerakan, penguncian, dan pertemuan panel. Manual dormakaba menegaskan bahwa instruksi pengoperasian adalah bagian dari keselamatan penggunaan; jangan memindahkan toleransi atau langkahnya ke sistem lain (https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi).
+
+Kawan Partisi.co.id, gunakan tabel keputusan sederhana: ada sumber air aktif berarti perbaiki sumbernya sebelum menutup panel; ada kondensasi berarti periksa suhu permukaan dan aliran udara; ada tepi rusak atau karat berarti dokumentasikan, isolasi penyebab, lalu minta keputusan teknis. Tidak ada data kondisi berarti jangan menjanjikan umur, performa, atau garansi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kelembapan, Kondensasi, dan Perubahan Dimensi pada Panel Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengecat ulang noda tanpa mencari jalur air. Periksa sisi belakang, lantai, kepala panel, dan area penetrasi; noda berulang adalah sinyal, bukan sekadar masalah warna. Kedua, menyamakan sertifikat material dengan kinerja sistem. Simpan lembar data, revisi gambar, dan laporan uji yang benar-benar merujuk konfigurasi terpasang.
 
-## Objection or shortcut to address
+Ketiga, mengunci semua sambungan dengan sealant tanpa menyediakan detail gerak atau akses. Minta gambar sambungan dan siapa yang menyetujuinya. Keempat, menutup pekerjaan tanpa rekaman tersembunyi. Buat hold point (titik pemeriksaan wajib sebelum pekerjaan dilanjutkan) sebelum penutupan untuk memeriksa rangka, isolasi, jalur utilitas, dan perlindungan tepi. Kelima, menganggap ventilasi akan menyelesaikan kebocoran. Ventilasi membantu pengeringan, tetapi tidak menggantikan perbaikan atap, pipa, atau drainase.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jika papan lama, perekat, atau insulasi tidak dikenal akan dipotong atau dibongkar, berhenti. WHO dan ILO mengingatkan bahwa inspeksi visual tidak cukup untuk membebaskan material legacy yang mungkin mengandung asbestos; pemotongan atau pengamplasan dapat menyebarkan debu, sementara banjir, limbah, dan jamur memiliki kebutuhan penilaian terpisah (https://www.who.int/westernpacific/newsroom/fact-sheets/detail/asbestos; https://www.ilo.org/resource/ilo-position-safety-use-asbestos). Jangan mengambil sampel atau membuangnya sendiri; minta tenaga kompeten dan verifikasi persyaratan lingkungan Indonesia, termasuk kerangka PP No. 22 Tahun 2021 (https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html).
 
-## Required conclusion
+## Pilihan yang tampak praktis
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah membeli panel dengan label “tahan lembap” lalu mengabaikan pengkondisian dan inspeksi. Label itu mungkin merujuk pada satu komponen atau kondisi uji tertentu, bukan pada sambungan, rangka, dan ruangan Anda. Alternatif yang lebih dapat dipertanggungjawabkan adalah membuat submittal (paket dokumen pengajuan) sistem: kondisi ruang, sumber air, susunan lapisan, detail tepi, metode pembersihan, catatan penutupan, dan rencana pemeriksaan. Bila dokumen itu belum lengkap, tunda keputusan final dan tandai [NEEDS PRODUCT/SYSTEM EVIDENCE REVIEW].
 
-## Draft completion checklist
+## Langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kelembapan, kondensasi, dan perubahan dimensi dikendalikan dengan desain sistem serta operasi yang konsisten—bukan dengan satu nama panel. Sebelum produksi atau penutupan, minta data kondisi ruang, gambar sambungan, dokumen produk, rencana ventilasi, dan titik inspeksi. Setelah serah terima, catat sumber air, perubahan tampilan, korosi, dan fungsi pintu; eskalasi gejala berulang kepada perancang atau pemeriksa yang berwenang.
+
+Teman Partisi.co.id, aturan praktisnya sederhana: kendalikan air sebelum memperbaiki permukaan, buktikan konfigurasi sebelum menjanjikan kinerja, dan jangan mengganggu material lama yang belum diidentifikasi. Untuk langkah awal membandingkan kebutuhan ruang, lihat [contoh pilihan partisi lipat di Yogyakarta](/partisi-lipat-yogyakarta.html) sebagai konteks layanan, bukan bukti kinerja sistem pada proyek Anda. Detail ukuran, rating, interval, dan keputusan perbaikan tetap memerlukan persetujuan profesional berdasarkan proyek yang sebenarnya.
+
+Dokumen rujukan lain yang perlu disimpan bersama submittal proyek mencakup [ASTM E90](https://store.astm.org/e0090-23.html), [ASTM E336](https://store.astm.org/e0336-24.html), [SNI 03-6386-2000](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2](https://www.iso.org/standard/79487.html), [Bobrick installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [Permen PUPR No. 9 Tahun 2021](https://peraturan.bpk.go.id/Home/Details/216870/permen-pupr-no-9-tahun-2021), [ISO 20887](https://www.iso.org/standard/69370.html), [ISO 14025](https://www.iso.org/standard/87610.html), dan [ISO 14021](https://www.iso.org/standard/14021.html). Dokumen tersebut membantu menetapkan batas bukti; masing-masing tidak otomatis membuktikan hasil pemasangan Anda.

@@ -2,8 +2,9 @@
 article_id: PAR-04-04
 title: "Sistem Locking Partisi: Menahan Posisi, Bukan Sekadar Mengunci Pintu"
 slug: "sistem-locking-partisi"
-description: "Explain panel alignment, compression, floor or head engagement, access, sequence and misuse risks"
-status: outline
+description: "Panduan memahami cara sistem pengunci partisi menyelaraskan panel, menekan seal, mengikat lantai atau kepala, serta menentukan akses dan urutan operasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,53 +16,104 @@ final_route: "/artikel/sistem-locking-partisi.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
   - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
-  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Kawan Partisi.co.id!
 
 # Sistem Locking Partisi: Menahan Posisi, Bukan Sekadar Mengunci Pintu
 
-## Assignment lock
+Saat panel partisi sudah bertemu, banyak orang langsung mencari kunci seperti pada pintu biasa. Padahal, sistem pengunci (locking) pada partisi bergerak terutama bertugas menahan panel pada posisi kerja: menyelaraskan tepi, menekan perapat elastis (seal), dan membuat sambungan tetap stabil. Kunci pintu hanyalah salah satu bagian dari rangkaian itu.
 
-- **Writer task:** Expand this file into one complete article answering: “Sistem Locking Partisi: Menahan Posisi, Bukan Sekadar Mengunci Pintu”
-- **Reader and situation:** Operator or buyer comparing mechanisms
-- **Reader outcome:** Explain panel alignment, compression, floor or head engagement, access, sequence and misuse risks
-- **Primary intent:** Understand panel locking roles
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Kawan Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not provide repair instructions; PAR-16-02 owns locking faults
-- **Final public route:** `/artikel/sistem-locking-partisi.html`
-- **Appointed CMS date:** `2025-08-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Urutan yang tepat bergantung pada jenis panel, arah gerak, lantai, kepala partisi, dan perangkat yang dipakai. Jika panel dipaksa sebelum sejajar, pengunci bisa menerima beban yang bukan peruntukannya, celah dapat terbuka, dan akses keluar-masuk ikut terganggu. Artikel ini membantu Anda membedakan fungsi pengunci, membaca titik antarmuka, serta menentukan pertanyaan yang harus dijawab sebelum memilih atau mengoperasikan sistem. Dimensi, kapasitas, peringkat (rating), dan kepatuhan proyek tetap memerlukan data produk serta peninjauan profesional [NEEDS G-01/G-03/G-04].
 
-## Opening instructions
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-- Open with the exact short salutation: **“Halo, Kawan Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Sistem Locking Partisi: Menahan Posisi, Bukan Sekadar Mengunci Pintu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Partisi.co.id`, `Sobat Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
+## Apa yang sebenarnya ditahan sistem locking partisi?
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Sebelum membahas gerakan tuas atau kunci, penting menyamakan objeknya. Sistem pengunci (locking) partisi adalah rangkaian pengunci dan penekan yang menghubungkan panel dengan panel lain, kusen/tiang tepi (jamb), lantai, atau kepala partisi. Tujuannya mempertahankan geometri dan tekanan sambungan selama partisi dipakai, bukan sekadar mencegah seseorang membuka daun pintu.
+
+Pada panel bergerak, satu pengunci biasanya bekerja bersama profil tepi, seal, track, dan penopang. Ketika panel belum tegak atau belum berada di garisnya, pengunci hanya menyamarkan masalah posisi. Karena itu, istilah “sudah terkunci” tidak otomatis berarti panel sudah rapat, stabil, atau memenuhi fungsi ruang.
+
+Kerangka ini sejalan dengan prinsip bahwa perubahan dan penggunaan elemen bangunan perlu dipertimbangkan bersama keselamatan, kesehatan, kenyamanan, kemudahan, fungsi, serta pemeliharaan bangunan. PP No. 16 Tahun 2021 memberi kerangka umum tersebut, bukan ukuran universal untuk setiap partisi ([BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)). Tanyakan: pengunci ini menahan gaya apa, pada titik mana, dan bukti produk apa yang mendukungnya?
+
+## Bagaimana panel, seal, lantai, dan kepala partisi bekerja sebagai satu urutan?
+
+Urutan operasi menjelaskan mengapa menekan atau memutar pengunci terlalu dini dapat menimbulkan masalah. Bagian ini memetakan mekanisme dari posisi terbuka sampai panel siap digunakan, tanpa menganggap semua merek memiliki konstruksi yang sama.
+
+### 1. Panel disusun dan tepinya diselaraskan
+
+Operator lebih dulu membawa panel ke garis yang direncanakan. Penyelarasan berarti tepi panel, jamb, dan sambungan berada pada posisi yang dapat menerima elemen pengunci. Rel (track), roda pembawa (trolley), dan ruang penumpukan panel (stacking) harus mendukung gerakan itu; literatur sistem partisi yang dapat dioperasikan menempatkan dukungan rel, berat panel, ruang penumpukan, dan lantai sebagai bagian dari rancangan sistem ([Modernfold](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
+
+Jika panel miring, pengunci mungkin terasa berat atau hanya mengikat satu sisi. Hentikan gerakan dan periksa posisi sesuai petunjuk produk; jangan menambah tenaga untuk “menyelesaikan” sambungan.
+
+### 2. Seal menerima kompresi yang terkendali
+
+Seal adalah elemen elastis yang menutup celah ketika panel sudah berada di garisnya. Kompresi berarti seal ditekan secukupnya oleh mekanisme, sehingga celah berkurang dan panel tidak mudah bergerak balik. Besarnya tekanan, bentuk seal, dan cara penyetelannya berbeda menurut sistem; tidak ada angka umum yang aman untuk semua produk [NEEDS G-05].
+
+Perhatikan akibatnya, bukan hanya bunyi klik: tepi panel harus bertemu tanpa dipaksa, dan tuas atau kunci harus bergerak pada lintasan yang wajar. Seal yang terlipat, aus, atau terkena bahan pembersih yang tidak sesuai dapat mengubah hasil. Panduan pemeliharaan ASSA ABLOY menekankan pemeriksaan dan pembersihan sesuai produk, bukan penggunaan bahan kimia secara sembarang ([Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide)).
+
+### 3. Ujung bawah atau atas mengikat bidang penopang
+
+Sebagian sistem menggunakan mekanisme yang menekan ke lantai, kepala partisi, atau jamb. Keterikatan (engagement) berarti ujung mekanisme benar-benar mengambil reaksi dari bidang yang disediakan. Lantai yang tidak rata, kepala yang bukan struktur pendukung, atau detail sambungan yang tidak cocok dapat membuat pengunci tampak bekerja tetapi tidak menahan posisi secara andal.
+
+Jangan menganggap grid plafon sebagai penopang struktural otomatis. Beban dan gerakan partisi dapat diteruskan melalui panel, track, angkur, dan struktur pendukung; bukaan, partisi tinggi, serta pertemuan yang sangat rapat dapat mengubah tuntutan sistem ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)). Detail proyek dan kapasitas substrat harus diverifikasi sebelum pemasangan [NEEDS G-03/G-06].
+
+### 4. Akses dikunci setelah posisi stabil
+
+Pada panel dengan pintu lintasan (pass door), grendel (latch) pintu mengatur akses orang; pengunci panel mengatur hubungan panel dengan sistem. Keduanya berurutan: panel dan seal stabil lebih dulu, lalu pintu ditutup tanpa mengganjal. Menilai keamanan hanya dari kunci pintu dapat melewatkan panel yang belum terikat sempurna.
+
+Penambahan pintu mengubah rangka lokal, beban, celah, operasi, dan pemeliharaan. Klaim dinding berperingkat tidak otomatis berlaku pada pintu, kusen, hardware, seal, kaca, atau penetrasinya [NEEDS G-04/G-09]. Pastikan jalur keluar, bukaan, dan sistem yang diuji ditinjau oleh pihak berwenang untuk proyek tersebut.
+
+## Kondisi apa yang paling mengubah hasil locking?
+
+Setelah mekanismenya jelas, keputusan berpindah ke kondisi lapangan. Jembatan ini mencegah anggapan bahwa satu pengunci akan bekerja sama pada semua tata letak (layout) dan pola pemakaian.
+
+Pertama, ukur dan amati antarmuka: ketegakan panel, kerataan lantai, posisi kepala partisi, sambungan gerak, utilitas tersembunyi, sprinkler atau detektor, jalur listrik-data, lis, drainase, dan ruang stacking. Gambar denah saja tidak menunjukkan semua hal tersebut; survei proyek dan koordinasi layanan diperlukan ([Modernfold technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
+
+Kedua, cocokkan pola pakai. Frekuensi buka-tutup, siapa operatornya, dan apakah panel sering dipindah sebagian akan menentukan kebutuhan instruksi, akses pemeriksaan, dan disiplin urutan. Sistem mekanis adalah bagian dari sistem bangunan yang perlu serah terima dan pemeliharaan, bukan komponen lepas yang boleh ditarik sembarang.
+
+Ketiga, pisahkan kondisi lingkungan dari gejala mekanis. Air, korosi, benturan, perubahan substrat, atau pembersihan yang tidak cocok dapat membuat panel sulit sejajar. Gejala yang sama tidak membuktikan satu penyebab; temukan sumbernya sebelum mengganti atau menyetel komponen [NEEDS G-02/G-05/G-09].
+
+## Bagaimana memilih keputusan untuk tiga situasi kerja?
+
+Contoh berikut adalah skenario bersyarat, bukan klaim tentang proyek tertentu. Gunakan untuk menguji pertanyaan yang akan dibawa ke pemasok atau peninjau.
+
+| Situasi yang terlihat | Pertanyaan mekanisme | Keputusan aman berikutnya |
+|---|---|---|
+| Panel bertemu tetapi tuas berat | Apakah tepi sudah segaris dan seal bebas terlipat? | Hentikan dorongan; minta petunjuk urutan dan pemeriksaan posisi. |
+| Panel terkunci, celah masih tampak | Apakah pengunci benar-benar mengikat lantai/kepala dan seal sesuai desain? | Minta gambar detail, data produk, dan verifikasi bidang dasar (substrat); jangan menyimpulkan performa ruang. |
+| Pass door sulit menutup setelah panel dipindah | Apakah jamb, panel, dan lantai kembali pada garis yang sama? | Kembalikan panel sesuai prosedur operasi; bila tetap gagal, serahkan diagnosis ke teknisi yang ditunjuk. |
+
+Kawan Partisi.co.id, tabel ini membantu memisahkan “terasa terkunci” dari “terbukti berada pada kondisi kerja”. Bukti yang dibutuhkan dapat berupa manual operasi, detail support, catatan survei, dan dokumen serah terima—bukan janji lisan atau label umum.
+
+## Kesalahan umum apa yang perlu diperiksa sebelum memanggil teknisi?
+
+Bagian ini mengubah shortcut menjadi pemeriksaan sederhana, tanpa menjadi panduan perbaikan. Jangan membongkar panel, kaca, atau hardware bila kewenangan, alat, dan prosedur produk tidak tersedia.
+
+Kesalahan pertama adalah mengunci saat panel masih bergerak. Tanda awalnya bunyi atau tahanan tidak wajar. Periksa hanya hal yang terlihat: apakah panel sudah berada di posisi yang ditandai dan jalur tidak terhalang.
+
+Kesalahan kedua adalah menyamakan pengunci dengan penghalang akses. Kunci dapat menutup pintu, tetapi tidak membuktikan seal terkompresi atau ujung panel mengikat bidang penopang. Minta penjelasan fungsi setiap komponen pada gambar sistem.
+
+Kesalahan ketiga adalah mengulang pelumasan atau pembersihan tanpa mengetahui penyebab. Bahan yang tidak kompatibel bisa merusak seal dan memperburuk gejala. Ikuti panduan produk yang dinamai; bila sumber air, korosi, benturan, atau perubahan struktur dicurigai, hentikan pemakaian dan minta pemeriksaan.
+
+## Apakah cukup memilih pengunci paling kuat?
+
+Shortcut ini menarik karena terlihat cepat: pilih perangkat keras (hardware) dengan label paling kuat, lalu sesuaikan panel di lapangan. Masalahnya, kekuatan satu komponen tidak menggantikan keselarasan, dukungan, kapasitas substrat, urutan operasi, atau kecocokan pintu dan seal. Beban dapat berpindah ke rel (track), angkur, lantai, atau kepala partisi yang belum dirancang untuknya.
+
+Alternatif yang lebih dapat dipertanggungjawabkan adalah meminta paket keputusan: tipe dan berat panel, detail rel serta penopang (support), kondisi lantai/kepala, kebutuhan akses, urutan operasi, batas pemakaian, dan bukti pengujian atau persetujuan yang memang berlaku pada kombinasi sistem. Jika data itu belum ada, tandai [NEEDS G-03/G-04/G-08] dan tunda klaim dimensi, peringkat (rating), kapasitas, atau kepatuhan.
+
+## Kesimpulan: kunci menahan posisi, bukan menggantikan pemeriksaan
+
+Sistem locking partisi bekerja sebagai rangkaian: panel diselaraskan, seal dikompresi, ujung mekanisme mengikat bidang penopang, lalu akses dioperasikan. Kunci pintu hanya salah satu tahap. Sebelum membeli atau mengubah layout, minta manual operasi, detail support, hasil survei antarmuka, dan peninjauan profesional untuk kondisi proyek Anda. Teman Partisi.co.id, aturan operasinya sederhana: jangan memaksa pengunci; pastikan posisi dan dukungannya benar, dan hentikan pemakaian ketika gejala tidak wajar muncul.
+
+Untuk membandingkan kebutuhan pintu dengan konfigurasi partisi, gunakan [contoh pintu lipat standar](/page-generator-pro/jual-pasang-pintu-partisi-lipat-kota-%f0%9f%93%9e-0821-1447-7155/pintu-lipat-standart-6/) dan [contoh pintu lipat semi-peredam](/page-generator-pro/jual-pasang-pintu-partisi-lipat-kota-%f0%9f%93%9e-0821-1447-7155/pintu-lipat-semi-peredam-1/) sebagai bahan pertanyaan awal, bukan sebagai bukti kecocokan otomatis.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -72,159 +124,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-10
-
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
-
-### KR-18
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
-
-### KR-20
-
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
-
-### KR-11
-
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
-
-### KR-14
-
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/page-generator-pro/jual-pasang-pintu-partisi-lipat-kota-%f0%9f%93%9e-0821-1447-7155/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/page-generator-pro/jual-pasang-pintu-partisi-lipat-kota-%f0%9f%93%9e-0821-1447-7155/pintu-lipat-standart-6/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/page-generator-pro/jual-pasang-pintu-partisi-lipat-kota-%f0%9f%93%9e-0821-1447-7155/pintu-lipat-semi-peredam-1/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/page-generator-pro/jual-pasang-pintu-partisi-lipat-kota-%f0%9f%93%9e-0821-1447-7155/pintu-lipat-full-peredam-9/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/page-generator-pro/jual-pasang-pintu-partisi-lipat-kota-%f0%9f%93%9e-0821-1447-7155/pintu-lipat-full-peredam-7_1/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-04-02` → `/artikel/cara-kerja-track-dan-trolley-partisi.html` — Bagaimana Top Rail dan Trolley Membawa Panel
-- `PAR-04-03` → `/artikel/seal-vertikal-dan-horizontal-partisi.html` — Seal Vertikal dan Horizontal: Kunci Celah pada Partisi Bergerak
-- `PAR-04-05` → `/artikel/junction-dan-persilangan-track-partisi.html` — Junction, Corner, dan Persilangan Track pada Layout Kompleks
-- `PAR-04-06` → `/artikel/komponen-aus-dan-suku-cadang-partisi.html` — Komponen yang Aus dan Komponen yang Seharusnya Bisa Diganti
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Sistem Locking Partisi: Menahan Posisi, Bukan Sekadar Mengunci Pintu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Sistem Locking Partisi: Menahan Posisi, Bukan Sekadar Mengunci Pintu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Sistem Locking Partisi: Menahan Posisi, Bukan Sekadar Mengunci Pintu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Sistem Locking Partisi: Menahan Posisi, Bukan Sekadar Mengunci Pintu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Sistem Locking Partisi: Menahan Posisi, Bukan Sekadar Mengunci Pintu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Sistem Locking Partisi: Menahan Posisi, Bukan Sekadar Mengunci Pintu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

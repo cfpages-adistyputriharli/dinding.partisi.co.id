@@ -2,8 +2,9 @@
 article_id: PAR-08-02
 title: "Memilih Lokasi Stacking dan Parking Panel"
 slug: "memilih-lokasi-stacking-panel"
-description: "Compare side, remote, split and pocket stacking by circulation, furniture, visibility, access, sequence and structure"
-status: outline
+description: "Panduan membandingkan stacking samping, remote, split, dan pocket berdasarkan sirkulasi, furnitur, visibilitas, akses, urutan, dan struktur"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -34,37 +35,7 @@ sources:
   - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Memilih Lokasi Stacking dan Parking Panel
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Memilih Lokasi Stacking dan Parking Panel”
-- **Reader and situation:** Designer protecting usable room area
-- **Reader outcome:** Compare side, remote, split and pocket stacking by circulation, furniture, visibility, access, sequence and structure
-- **Primary intent:** Plan where open panels will park
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not engineer track junctions; PAR-04-05 owns mechanism and PAR-07-03 structure
-- **Final public route:** `/artikel/memilih-lokasi-stacking-panel.html`
-- **Appointed CMS date:** `2025-11-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih Lokasi Stacking dan Parking Panel**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -75,153 +46,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Memilih Lokasi Stacking dan Parking Panel
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Partisi.co.id! Lokasi panel saat dibuka sebaiknya dipilih dari gerak orang dan fungsi ruang terlebih dahulu, baru dari sisa bidang dinding. **Side stacking** (panel menumpuk di samping bukaan) sering menjadi kandidat awal ketika sisi itu memang dapat disisihkan dan tetap terlihat oleh operator. Namun remote stacking di ujung koridor, split stacking di dua sisi, atau pocket stacking di dalam ceruk bisa lebih tepat jika furnitur, pandangan, dan pola pemakaian menuntutnya.
 
-### KR-01
+Jawaban itu berubah bila panelnya top-hung, memiliki pintu lintasan, membawa beban besar, atau harus masuk ke ruang struktur yang belum diverifikasi. Pilihan lokasi bukan persetujuan detail track, sambungan, atau kapasitas bangunan. PP 16/2021 menempatkan keselamatan, kesehatan, kenyamanan, kemudahan, fungsi, pemeliharaan, dan penggunaan bangunan sebagai bagian dari kerangka penyelenggaraan bangunan; karena itu label produk saja tidak membuktikan keputusan lokasi sudah memenuhi proyek Anda ([PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021); [teks PDF](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-05
-
-- **Original sources:** [ISO 4586-1:2018 overview of the HPL series](https://www.iso.org/standard/72959.html), [ISO 4586-3:2018 thin HPL for bonding to a support](https://www.iso.org/standard/72961.html), [ISO 4586-4:2018 interior compact laminate](https://www.iso.org/standard/72962.html), [Knauf drywall systems overview](https://knauf.com/en-EG/systems/drywall-systems)
-- **Purpose for this article:** Prevent the catalog from treating HPL, compact laminate, gypsum board, framing, and a complete partition as synonyms.
-- **Safe grounded facts:** A decorative laminate sheet, a self-supporting compact panel, a composite panel, and an installed cubicle are different objects. Likewise, board type does not establish stud size, height capacity, impact resistance, acoustic performance, fire performance, or suitability around services.
-- **Limits:** ISO abstracts do not expose classifications or test values. Named manufacturer configurations are not universal and must be matched to locally supplied documents; resolve `G-05`.
-
-### KR-10
-
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
-
-### KR-11
-
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
-
-### KR-14
-
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-08-01` → `/artikel/cara-mengukur-opening-partisi.html` — Mengukur Opening Partisi: Lebar, Tinggi, Level, Plumb, dan Diagonal
-- `PAR-08-03` → `/artikel/lantai-dan-seal-bawah-partisi.html` — Lantai Rata, Floor Guide, dan Seal Bawah pada Partisi
-- `PAR-08-04` → `/artikel/detail-jamb-dan-panel-terakhir-partisi.html` — Jamb, Dinding Samping, dan Panel Terakhir: Menutup Ujung dengan Benar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Lokasi Stacking dan Parking Panel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan menggambar tiga keadaan: panel tertutup, panel sedang dipindahkan, dan panel sudah terparkir. Lokasi terbaik adalah yang menjaga jalur keluar-masuk tetap terbaca pada ketiga keadaan itu, tidak memakan zona kerja furnitur, dapat dijangkau untuk pengoperasian dan perawatan, serta memiliki dukungan bangunan yang benar-benar diperiksa. Jangan menyamakan “ada dinding kosong” dengan “ada tempat parking”.
+
+Side stacking cocok bila satu sisi bukaan memang boleh menjadi zona parkir permanen. Remote stacking memindahkan tumpukan dari area pandang utama, tetapi menambah jarak perjalanan operator. Split stacking membagi panel ke dua arah; ini dapat mengurangi lebar tumpukan di satu sisi, tetapi urutan pengoperasiannya harus jelas. Pocket stacking menyembunyikan panel di ceruk, namun ceruk itu harus cukup, mudah diakses, dan tidak menjadi ruang mati yang mengganggu layanan bangunan.
+
+Sobat Partisi.co.id, tanyakan “apa yang terjadi ketika panel terakhir dibuka?” Jika jawabannya membuat pintu darurat tertutup, kursi harus digeser, atau operator berjalan melewati area kerja orang lain, lokasi tersebut belum siap dipilih. [NEEDS G-01/G-03/G-04: verifikasi layout, struktur penyangga, dan kebutuhan akses proyek sebelum keputusan final.]
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Lokasi Stacking dan Parking Panel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Stacking adalah susunan panel ketika panel-panel operabel dikumpulkan. Parking adalah zona tempat susunan itu berhenti, bisa di sisi bukaan, ujung ruang, ceruk, atau lokasi terpisah. Keduanya berbeda dari track junction, detail trolley, sambungan panel, atau perhitungan struktur. Artikel ini membantu Anda memilih *di mana* panel berhenti; bukan menghitung sambungan track atau merancang struktur penahan.
+
+Panel dekoratif, HPL tipis yang direkatkan ke penopang, compact laminate yang berdiri sendiri, papan gypsum, rangka, dan sistem partisi terpasang adalah objek berbeda. Ringkasan seri ISO 4586 membedakan jenis laminate tersebut, sedangkan sistem drywall Knauf menunjukkan bahwa papan hanyalah bagian dari konfigurasi sistem ([ISO 4586-1](https://www.iso.org/standard/72959.html), [ISO 4586-3](https://www.iso.org/standard/72961.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [Knauf drywall systems](https://knauf.com/en-EG/systems/drywall-systems)). Jadi, jangan memilih ceruk berdasarkan nama material saja.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Lokasi Stacking dan Parking Panel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan kerja yang aman dimulai dari denah berskala dan inventaris penggunaan ruang. Tandai bukaan, jalur orang, pintu lain, furnitur tetap, panel listrik, sprinkler, kisi udara, kolom, balok, dan akses pemeliharaan. Lalu gambar jejak panel saat bergerak serta ukuran tumpukannya dari dokumen pemasok yang berlaku. Jika ukuran belum tersedia, jangan mengisinya dengan angka perkiraan.
+
+Berikutnya, tentukan siapa yang mengoperasikan panel dan seberapa sering. Dokumen sistem perlu menjelaskan kebutuhan track support, panel, seal, jamb, kerataan lantai, serta prosedur operasi dan perawatan; jangan menganggap daftar itu sama untuk semua produk. Panduan ASTM E557 dan literatur sistem Modernfold menekankan bahwa dukungan track, berat panel, pocket, penutupan jamb, frekuensi operasi, pelatihan, dan pemeliharaan saling memengaruhi ([ASTM E557](https://store.astm.org/e0557-12r26.html), [Modernfold specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [ikhtisar sistem operabel Modernfold](https://www.modernfold.com/en-US/products/operable-partitions), [dormakaba MOVEO](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)). Itu sebabnya lokasi parking harus dibahas bersama pemasok sistem dan pemeriksa profesional, bukan diputuskan dari denah arsitektur saja.
+
+Jika terdapat pintu lintasan, perlakukan pintu sebagai bagian dari sistem. Bukaan pintu dapat mengubah rangka lokal, ayunan, ruang pendekatan, privasi, kebocoran suara, seal, dan fungsi evakuasi. SNI 03-1746-2000 dan catatan pengujian pintu SNI 03-6766-2002 perlu dirujuk sesuai proyek; status standar atau nama “fire door” tidak otomatis membuat seluruh dinding, kusen, hardware, seal, dan penetrasinya memiliki kinerja yang sama ([SNI 03-1746-2000](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Lokasi Stacking dan Parking Panel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Sirkulasi dan akses.** Ukur jalur ketika panel terbuka, bukan hanya saat tertutup. Beri perhatian khusus pada belokan, titik temu dua arus, dan area yang harus tetap mudah dikenali. Untuk fasilitas yang dipakai publik, koordinasikan posisi partisi, operasi pintu, ruang pendekatan, privasi, dan sanitasi dengan persyaratan aksesibilitas yang berlaku; satu ukuran produk tidak membuktikan seluruh rute aksesibel ([Permen PUPR 14/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017); [teks PDF](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)).
+
+**Furnitur dan garis pandang.** Hindari parking di belakang lemari yang harus dipindahkan setiap kali ruang diubah. Periksa pula apakah tumpukan menghalangi kamera, papan informasi, pencahayaan, atau pandangan pengawas. Remote stacking memang mengurangi gangguan visual di ruang utama, tetapi harus memiliki jalur operasi yang tidak memotong aktivitas lain.
+
+**Urutan dan pengguna.** Tulis urutan panel dari panel pertama hingga terakhir. Split stacking membutuhkan penanda sisi dan aturan kapan masing-masing tumpukan dibuka. Untuk pengguna berganti-ganti, instruksi singkat dan akses ke seal atau latch lebih berharga daripada mekanisme yang hanya dipahami satu operator.
+
+**Struktur dan gerakan bangunan.** Ceiling grid tidak otomatis menjadi penyangga struktural. Beban panel, track, anchor, bracing, bukaan, dinding tinggi, dan sambungan ke plafon harus ditelusuri ke struktur pendukung. SNI 1727:2020, SNI 1726:2019, dan FEMA E-74 membantu mengingatkan bahwa beban nonstruktural dan gerakan bangunan dapat memengaruhi kerusakan, tetapi bukan pengganti perhitungan proyek atau kode Indonesia ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
+
+**Perawatan dan lingkungan.** Parking yang terlalu rapat dengan dinding atau peralatan membuat pembersihan, pemeriksaan seal, dan penggantian komponen sulit. Panduan pemeliharaan seal Lorient berlaku untuk produk yang disebut di dalamnya, bukan jaminan interval untuk semua sistem ([Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide)). Catat ruang bebas yang diminta pemasok dan pastikan permukaan lantai, kelembapan, serta akses kerja dapat dipertahankan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Lokasi Stacking dan Parking Panel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel awal berikut sebagai alat menyaring, bukan persetujuan desain:
+
+| Kondisi ruang | Kandidat awal | Pertanyaan penentu |
+|---|---|---|
+| Dinding samping kosong, arus orang satu arah | Side stacking | Apakah tumpukan tetap di luar jalur dan tidak menutup pintu lain? |
+| Ruang utama harus bersih secara visual | Remote stacking | Apakah operator dapat mencapai lokasi tanpa melintasi zona sibuk? |
+| Tumpukan terlalu lebar untuk satu sisi | Split stacking | Apakah urutan dua sisi dan titik serahnya jelas bagi semua pengguna? |
+| Ada ceruk yang dirancang sejak awal | Pocket stacking | Apakah ceruk, akses servis, dan dukungan strukturnya sudah diverifikasi? |
+
+Bayangkan ruang rapat yang kadang dibuka penuh dan kadang dibagi. Jika furnitur tetap berada dekat satu sisi, side stacking di sisi berlawanan mungkin paling sederhana. Bila kedua sisi dipakai sebagai jalur keluar, remote stacking hanya layak setelah jalur alternatif dan operasi panel disepakati. Pada ruang dengan dua kelompok pengguna, split stacking dapat bekerja jika setiap kelompok memahami panel mana yang dipindahkan terlebih dahulu. Semua contoh itu bersyarat; dokumen produk aktual dan peninjauan teknis tetap menjadi penentu.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Lokasi Stacking dan Parking Panel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengukur lebar bukaan lalu membeli panel tanpa menggambar jejak tumpukan. Periksa denah tiga-keadaan dan minta ukuran tumpukan dari pemasok. Kedua, menaruh pocket di balik dinding ringan tanpa bukti dukungan; periksa jalur beban dan detail anchor. Ketiga, menganggap panel tertutup selalu lebih aman daripada panel terbuka; periksa kondisi transisi dan jalur evakuasi.
 
-## Objection or shortcut to address
+Kesalahan lain adalah mengabaikan panel terakhir, seal, dan pintu lintasan. Lakukan simulasi operasi dengan urutan nyata, termasuk siapa yang membuka latch, ke mana panel didorong, dan bagaimana ruang dikunci kembali. Kawan Partisi.co.id, simpan gambar revisi, lembar data sistem, dan catatan inspeksi sebagai satu paket. Jika data track, beban, rating, atau akses belum ada, gunakan penanda `[NEEDS G-03/G-05/G-08/G-09: dokumen pemasok dan review profesional]` dan hentikan keputusan final.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sebaiknya dihindari
 
-## Required conclusion
+Jalan pintas yang sering dipilih adalah “parkirkan saja di sisi yang paling dekat”. Ini menghemat waktu menggambar, tetapi dapat memindahkan masalah ke sirkulasi, furnitur, atau maintenance. Alternatif yang lebih andal adalah membuat matriks sederhana: skor jalur orang, gangguan furnitur, visibilitas, jarak operasi, akses servis, dan bukti struktur untuk setiap kandidat. Beri catatan alasan untuk setiap skor sehingga perubahan furnitur atau pola penggunaan dapat ditinjau ulang. Pilih kandidat dengan konflik paling sedikit, lalu minta pemasok dan tenaga profesional mengonfirmasi interface yang berada di luar lingkup artikel ini.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan dan langkah berikutnya
 
-## Draft completion checklist
+Lokasi stacking terbaik bukan yang paling dekat dengan bukaan, melainkan yang menjaga sirkulasi, furnitur, pandangan, urutan operasi, akses perawatan, dan dukungan struktur tetap terkendali. Side, remote, split, dan pocket hanyalah pola penempatan; kecocokannya ditentukan oleh kondisi ruang dan dokumen sistem.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya: buat denah tiga-keadaan, tandai jalur evakuasi dan layanan, minta ukuran tumpukan serta kebutuhan track dari pemasok, lalu lakukan review arsitektur-struktur sebelum mematok lokasi. Anda dapat mulai dari [beranda Partisi.co.id](/) untuk menyiapkan konteks ruang dan kebutuhan. Teman Partisi.co.id, bila salah satu data itu belum tersedia, jangan menutup celah dengan asumsi—pertahankan `[NEEDS ...]` sampai bukti proyek dan persetujuan profesional diperoleh.

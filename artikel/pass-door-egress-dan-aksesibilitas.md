@@ -2,8 +2,9 @@
 article_id: PAR-09-02
 title: "Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah"
 slug: "pass-door-egress-dan-aksesibilitas"
-description: "Cover clear route, threshold, hardware, force, signage, locking, panel state, emergency plan and approval"
-status: outline
+description: "Panduan koordinasi pass door pada partisi bergerak agar rute, ambang, perangkat keras, tanda, penguncian, dan rencana darurat diperiksa sebagai satu sistem."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,57 +16,15 @@ final_route: "/artikel/pass-door-egress-dan-aksesibilitas.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
-  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
-  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.iso.org/standard/83943.html"
-  - "https://store.astm.org/e0119-24.html"
   - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
   - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
   - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
+  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
+  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah”
-- **Reader and situation:** Architect considering circulation through a closed wall
-- **Reader outcome:** Cover clear route, threshold, hardware, force, signage, locking, panel state, emergency plan and approval
-- **Primary intent:** Coordinate a door within movable panels
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not provide legal dimensions or approve an exit; applicable code professionals own values
-- **Final public route:** `/artikel/pass-door-egress-dan-aksesibilitas.html`
-- **Appointed CMS date:** `2025-11-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,153 +35,83 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Partisi.co.id! Ketika arsitek menempatkan pass door pada dinding yang dapat dipindah, keputusan itu bukan sekadar memilih daun pintu lalu memotong panel. Bukaan tersebut mengubah jalur orang, cara membuka, ambang yang dilewati, perangkat keras, dan keadaan panel ketika ruang dikonfigurasi ulang.
 
-### KR-01
+Jawaban singkatnya: rancang pass door bersama jalur keluar dan aksesibilitas sejak denah awal. Periksa rute yang benar-benar dapat dilalui, arah dan gaya operasi, ambang, tanda, penguncian, serta skenario darurat sebagai satu rangkaian. Nilai dan persetujuan akhirnya tetap bergantung pada regulasi yang berlaku, kondisi bangunan, sistem partisi, dan pemeriksaan profesional; artikel ini tidak menetapkan ukuran legal atau menyetujui pintu keluar.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-### KR-02
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
+## Apa yang dimaksud pass door pada partisi bergerak dan apa batasnya?
 
-### KR-03
+Sebelum menggambar detail, samakan arti objeknya agar tidak terjadi salah koordinasi. Pass door adalah bukaan berpintu yang ditempatkan di dalam atau berdekatan dengan panel partisi bergerak untuk perpindahan orang. Ia berbeda dari pintu pada dinding permanen karena panel, rel, kantong parkir, dan sambungan dapat berubah posisi.
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+Konsekuensinya, pintu harus dibaca sebagai bagian dari sistem: panel di kiri-kanan, rangka lokal, kusen, engsel atau pivot, latch, seal, ambang, dan titik pertemuan dengan lantai serta plafon. Literatur sistem partisi operabel juga menempatkan dukungan rel, berat panel, penutupan jamb, frekuensi operasi, pelatihan pengguna, dan pemeliharaan sebagai hal yang saling terkait ([Modernfold](https://www.modernfold.com/en-US/products/operable-partitions)).
 
-### KR-10
+Ruang lingkup tulisan ini adalah koordinasi keputusan tersebut. Ia tidak menggantikan penentuan kapasitas jalur keluar, dimensi aksesibel, kelas ketahanan api, detail penjangkaran, atau persetujuan otoritas. Kerangka bangunan nasional menempatkan keselamatan, kesehatan, kenyamanan, kemudahan, fungsi, dokumentasi, dan penggunaan bangunan dalam satu konteks ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+## Bagaimana pass door, jalur keluar, dan aksesibilitas saling memengaruhi?
 
-### KR-13
+Bagian ini penting karena kesalahan biasanya muncul saat tiap disiplin memeriksa objek yang berbeda. Mulailah dari perjalanan pengguna, lalu telusuri komponen yang membuat perjalanan itu mungkin atau terhenti.
 
-- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
-- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
-- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
-- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+Pertama, gambar rute dari area yang dipakai menuju tujuan aman. Tandai titik sempit, perubahan arah, panel yang mungkin menutup, serta ruang untuk mendekati dan mengoperasikan pintu. Aksesibilitas adalah pertanyaan tentang rute dan penggunaan secara terpadu; posisi partisi, bukaan, area pendekatan, privasi, visibilitas, dan perlengkapan dapat berinteraksi ([Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)). Jangan menyimpulkan rute aksesibel hanya dari satu ukuran produk.
 
-### KR-11
+Kedua, tentukan bagaimana pintu dibuka dalam kondisi normal dan ketika orang harus bergerak cepat. Gaya operasi, posisi handle, latch, closer, dan kemungkinan tangan pengguna penuh barang perlu diuji pada mock-up atau pemeriksaan lapangan. Prinsip jalur keluar perlu dicocokkan dengan rujukan sarana evakuasi yang berlaku, termasuk [SNI 03-1746-2000](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000). Nilai gaya dan ukuran yang diwajibkan proyek harus berasal dari peraturan dan review profesional, bukan dari asumsi umum.
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+Ketiga, periksa ambang. Ambang yang menonjol, berubah tinggi, atau tidak seragam dengan lantai dapat menghambat roda dan langkah. Jika sistem memerlukan detail transisi khusus, minta gambar pabrikan dan validasi aksesibilitas sebelum pemesanan. Jangan menutup celah dengan menambah material di lapangan tanpa memastikan pintu tetap dapat menutup dan seal bekerja.
 
-### KR-14
+Keempat, cocokkan tanda dan penguncian dengan skenario ruang. Tanda harus membantu pengguna mengenali pintu dan arah, sementara penguncian tidak boleh membuat rute darurat bergantung pada kunci yang tidak tersedia. Apakah panel sedang terbuka, tertutup, atau tersimpan di kantong harus jelas dalam prosedur operasi; keadaan yang berbeda dapat menghasilkan rute yang berbeda.
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+## Faktor proyek apa yang dapat mengubah hasil pemeriksaan?
 
-## Evidence gates
+Setelah urutan rute dipahami, jembatani ke kondisi yang sering luput dari denah. Faktor-faktor berikut menentukan apakah detail yang tampak benar tetap berfungsi setelah dipasang.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+**Konfigurasi panel.** Pass door pada panel yang sering dipindah menerima siklus operasi dan beban berbeda dari panel tetap. Lokasi jamb, sambungan, dan kantong parkir harus disepakati bersama pemasok sistem. Jangan menganggap plafon gantung sebagai penyangga struktural otomatis; jalur beban dan gerakan bangunan perlu ditinjau ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+**Perangkat keras dan pemeliharaan.** Seal, engsel, latch, closer, dan handle memengaruhi gaya operasi, kebocoran suara, dan kemampuan menutup. Panduan perawatan produk tertentu berlaku hanya untuk produk yang disebut, termasuk interval dan bahan pembersihnya ([ASSA ABLOY Lorient](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide)). Minta daftar komponen, suku cadang, dan cara inspeksi yang sesuai sistem Anda.
 
-## Internal-link plan
+**Kebakaran dan penetrasi.** Dinding yang memiliki bukti ketahanan api tidak otomatis membuat pintu, kusen, seal, kaca, sambungan, dan penetrasinya memiliki bukti yang sama. Metode uji pintu kebakaran adalah metode, bukan hasil lulus untuk rakitan Anda ([SNI 03-6766-2002](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002)). Jika klaim ketahanan api diperlukan, minta laporan untuk kombinasi panel, rangka, pintu, dan detail pemasangan yang benar-benar akan digunakan. **[NEEDS PROJECT REVIEW: G-01, G-02, G-04, G-10 sebelum klaim rating atau kepatuhan.]**
 
-### Existing local routes
+**Pengguna dan operasi.** Anak-anak, pengguna kursi roda, orang yang membawa barang, atau pengguna yang belum mengenal sistem dapat mengalami hambatan berbeda. Observasi perilaku ini bukan pengganti penilaian ahli, tetapi membantu menentukan siapa yang harus hadir saat uji penerimaan dan pelatihan.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Bagaimana membuat keputusan praktis sebelum memesan?
 
-### Planned sibling articles
+Gunakan urutan keputusan berikut agar rapat tidak berhenti pada gambar tampak. Setiap jawaban harus memiliki pemilik dan dokumen pendukung.
 
-These are future routes. Do not link them as live until their HTML exists.
+| Pertanyaan | Jika jawabannya belum jelas | Keputusan sementara |
+|---|---|---|
+| Rute mana yang dipakai saat panel tertutup dan saat ruang dibagi? | Denah belum menunjukkan keadaan panel | Tahan pemesanan; gambar kedua konfigurasi dan rute pengguna. |
+| Siapa yang mengoperasikan pintu, dengan kondisi tangan dan alat bantu berbeda? | Hanya ada asumsi pengguna standar | Jadwalkan uji operasi dan review aksesibilitas. |
+| Apa yang terjadi bila listrik, kunci, atau mekanisme panel bermasalah? | Rencana darurat belum tertulis | Tetapkan prosedur manual, titik inspeksi, dan penanggung jawab. |
+| Bukti apa yang mendukung klaim api atau jalur keluar? | Hanya brosur atau label umum | Minta laporan sistem lengkap dan pemeriksaan profesional. |
 
-- `PAR-09-01` → `/artikel/checklist-kepatuhan-partisi-bergerak.html` — Checklist Fire, Egress, dan Accessibility untuk Partisi Bergerak
-- `PAR-09-03` → `/artikel/bukti-fire-rated-partisi.html` — Klaim Fire-Rated pada Partisi: Bukti Sistem yang Harus Dilihat
-- `PAR-09-04` → `/artikel/partisi-dan-strategi-evakuasi.html` — Partisi Bergerak dan Strategi Evakuasi saat Ruang Berubah Konfigurasi
+Kawan Partisi.co.id, keputusan “bisa dipasang” seharusnya baru muncul setelah jawaban tersebut tercatat dalam gambar koordinasi, spesifikasi, metode kerja, dan rencana serah terima. Bila satu pihak mengubah kusen, lantai, atau hardware, ulangi pemeriksaan rute dan operasi.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kesalahan umum apa yang perlu diperiksa ulang?
 
-## Jawaban singkat dan salah paham utama
+Jembatan ini mengubah prinsip menjadi pemeriksaan lapangan. Tujuannya bukan mencari pihak yang salah, melainkan menemukan titik putus sebelum ruang dipakai.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memesan panel lebih dulu lalu meminta pintu “disisipkan”. Bukaan membawa rangka dan beban lokal; perubahan terlambat dapat memindahkan jamb atau mengurangi area pendekatan. Periksa revisi shop drawing sebelum fabrikasi.
 
-## Definisi dan batas objek
+Kesalahan kedua adalah menyamakan pintu tertutup dengan jalur keluar yang sah. Status jalur bergantung pada konfigurasi, operasi, tanda, penguncian, dan persyaratan proyek. Cocokkan gambar arsitektur, rencana darurat, dan kondisi panel aktual.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga adalah memakai ukuran dari brosur asing sebagai angka kepatuhan. Panduan luar dapat membantu memahami koordinasi, tetapi bukan pengganti regulasi Indonesia atau keputusan profesional. Tandai setiap angka yang belum diverifikasi sebagai **[NEEDS LOCAL CODE REVIEW]**.
 
-## Cara kerjanya
+Kesalahan keempat adalah menguji pintu hanya saat baru. Buat daftar inspeksi untuk siklus operasi, kebersihan seal, kelonggaran hardware, penutupan latch, dan perubahan lantai. Catat siapa yang memperbaiki dan kapan pemeriksaan berikutnya.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Apakah jalan pintas memilih perangkat keras standar aman?
 
-## Faktor yang mengubah hasil
+Shortcut ini terasa efisien karena hardware standar mudah dipesan. Namun, perangkat keras menentukan gaya buka, posisi tangan, penguncian, penutupan, dan perawatan; kecocokan dengan panel bergerak belum tentu sama dengan pintu permanen.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatif yang lebih aman adalah menetapkan matriks komponen: jenis pintu, kusen, engsel atau pivot, latch, closer, seal, ambang, tanda, dan kondisi panel. Minta pemasok menyatakan batas penggunaan dan detail pemasangan untuk sistem yang ditawarkan, lalu minta arsitek, konsultan aksesibilitas, dan profesional keselamatan kebakaran meninjau bagian yang menjadi kewenangan mereka. Sobat Partisi.co.id, hentikan pekerjaan bila perubahan lapangan membuat rute, penguncian, atau bukti sistem tidak lagi cocok dengan dokumen.
 
-## Contoh keputusan praktis
+## Langkah berikutnya untuk pass door yang dapat dipertanggungjawabkan
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pass door, jalur keluar, dan aksesibilitas harus diputuskan sebagai satu rangkaian perjalanan dan operasi, bukan tiga daftar terpisah. Tugas berikutnya adalah mengumpulkan denah dua konfigurasi panel, potongan ambang dan kusen, daftar hardware, skenario penguncian, tanda, rencana darurat, serta dokumen sistem yang relevan.
 
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Pass Door, Jalur Keluar, dan Aksesibilitas: Jangan Diputuskan Terpisah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kirim paket itu untuk review profesional sesuai kewenangan proyek sebelum fabrikasi dan sebelum serah terima. Anda dapat memakai [halaman utama Partisi.co.id](/) untuk kembali ke konteks layanan dan dokumen yang tersedia, tetapi jangan menganggap halaman tersebut sebagai persetujuan teknis. Aturan operasinya sederhana: bila rute atau bukti berubah, pemeriksaan diulang; tanpa data proyek dan persetujuan yang sesuai, artikel ini tidak menetapkan ukuran, rating, atau kelulusan jalur keluar.

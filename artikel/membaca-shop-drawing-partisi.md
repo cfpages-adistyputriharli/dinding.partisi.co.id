@@ -2,8 +2,9 @@
 article_id: PAR-10-05
 title: "Membaca Shop Drawing Partisi: Plan, Elevation, Section, dan Schedule"
 slug: "membaca-shop-drawing-partisi"
-description: "Explain opening, panel marks, track, parking, support, jamb, floor, seals, hardware, finish, services and revisions"
-status: outline
+description: "Panduan menelusuri plan, elevation, section, dan schedule untuk mencocokkan bukaan, panel, track, parking, support, jamb, lantai, seal, hardware, finish, layanan bangunan, dan revisi."
+status: draft
+writing_contract_version: native-id-v2
 publication_date: "2026-01-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -29,42 +30,20 @@ sources:
   - "https://store.astm.org/e0557-12r26.html"
   - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
   - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Membaca Shop Drawing Partisi: Plan, Elevation, Section, dan Schedule
 
-## Assignment lock
+Halo, Sobat Partisi.co.id! Shop drawing partisi dibaca sebagai satu paket yang saling mengunci, bukan empat lembar terpisah. Jawaban singkatnya: mulai dari **plan** untuk lokasi dan bukaan, cocokkan **elevation** untuk tampak serta penandaan panel, gunakan **section** untuk lapisan, track, support, lantai, dan seal, lalu pakai **schedule** untuk memastikan setiap mark memiliki spesifikasi, hardware, finish, dan revisi yang sama. Jika satu kode berbeda antarlembar, jangan lepaskan pekerjaan ke fabrikasi sebelum sumber perbedaannya diputuskan.
 
-- **Writer task:** Expand this file into one complete article answering: “Membaca Shop Drawing Partisi: Plan, Elevation, Section, dan Schedule”
-- **Reader and situation:** Architect, contractor or owner reviewing a submittal
-- **Reader outcome:** Explain opening, panel marks, track, parking, support, jamb, floor, seals, hardware, finish, services and revisions
-- **Primary intent:** Review coordinated fabrication documents
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Sobat Partisi.co.id`
-- **Natural variants:** `Kawan Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not approve engineering; PAR-10-06 owns coordinated approval workflow
-- **Final public route:** `/artikel/membaca-shop-drawing-partisi.html`
-- **Appointed CMS date:** `2026-01-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Shop drawing menjelaskan bagaimana rancangan diterjemahkan menjadi komponen dan antarmuka, tetapi tidak dengan sendirinya menyetujui rekayasa, rating, aksesibilitas, atau kepatuhan. PP No. 16 Tahun 2021 menempatkan keselamatan, kesehatan, kenyamanan, kemudahan, fungsi, dan dokumentasi dalam kerangka bangunan; label produk saja tidak membuktikan semua hal itu ([PP No. 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [PDF](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)). Karena itu, baca dokumen untuk menemukan keputusan yang belum terkoordinasi, kemudian minta review profesional pada hal yang berada di luar kewenangan pembaca.
 
-## Opening instructions
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-- Open with the exact short salutation: **“Halo, Sobat Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Membaca Shop Drawing Partisi: Plan, Elevation, Section, dan Schedule**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Partisi.co.id`, `Kawan Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -75,158 +54,52 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Tujuan pembacaan dan prasyarat
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Hasil pembacaan yang baik adalah daftar keputusan yang dapat ditelusuri: partisi mana berada di mana, bukaan apa yang dilayani, bagaimana panel bergerak atau bertemu, ke mana beban dan gaya diteruskan, layanan apa yang melintas, serta dokumen apa yang masih menunggu jawaban. Pembaca dapat berupa arsitek, kontraktor, atau pemilik yang menilai submittal; kewenangan persetujuan tetap mengikuti matriks proyek dan penanggung jawab teknis. [NEEDS PROFESSIONAL REVIEW: engineering, fire, accessibility, and project acceptance criteria]
 
-### KR-01
+Siapkan versi terbaru plan arsitektur, reflected ceiling plan, detail lantai dan plafon, daftar pintu, spesifikasi, data produk, koordinasi MEP, serta daftar revisi. Tanpa datum dan grid yang sama, ukuran pada elevation mudah terlihat benar padahal bergeser terhadap kolom atau pintu di plan. Catat nomor lembar, tanggal, status submittal, dan awalan revisi sebelum menandai apa pun.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+## Langkah 1 — tetapkan cakupan
 
-### KR-02
+Tentukan dulu objek yang sedang dibaca: partisi tetap, lipat, geser, atau sistem gabungan. Di plan, lingkari garis partisi, opening, arah buka, panel mark, jamb, pocket parking, dan titik pertemuan dengan dinding lain. Bedakan batas pekerjaan dari antarmuka: struktur yang menahan track, lantai jadi, plafon, sprinkler, lampu, sensor, pintu, sealant, dan finishing di luar paket.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-21
-
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
-
-### KR-11
-
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
-
-### KR-14
-
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-10-03` → `/artikel/spesifikasi-partisi-yang-bisa-ditenderkan.html` — Spesifikasi Partisi yang Bisa Ditenderkan dan Diperiksa
-- `PAR-10-04` → `/artikel/dokumen-partisi-tinggi-dan-custom.html` — Dokumen Tambahan untuk Partisi Tinggi, Bentuk Khusus, atau Custom
-- `PAR-10-06` → `/artikel/approval-matrix-proyek-partisi.html` — Approval Matrix Partisi: Siapa Memeriksa Apa?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Shop Drawing Partisi: Plan, Elevation, Section, dan Schedule”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Shop Drawing Partisi: Plan, Elevation, Section, dan Schedule”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Selanjutnya, tulis apa yang tidak diputuskan oleh lembar ini. Shop drawing tidak menggantikan desain struktur, perhitungan beban, fire strategy, atau approval matrix; rute approval terkoordinasi berada di luar cakupan artikel ini. Jika gambar menyebut “by others”, ubah frasa itu menjadi nama pihak dan dokumen yang harus diterima. Kawan Partisi.co.id, satu baris “support existing” tanpa detail sering menjadi risiko terbesar karena kondisi lapangan belum tentu sama dengan asumsi vendor.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Shop Drawing Partisi: Plan, Elevation, Section, dan Schedule”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan satu contoh mark, misalnya P-03, lalu telusuri kemunculannya di semua lembar. Pada **plan**, pastikan panjang, modul, arah gerak, opening, dan pocket parking cocok dengan sumbu ruang. Pada **elevation**, periksa urutan panel, tinggi, garis joint, transom, kaca bila ada, posisi handle, dan kode finish. Pada **section**, cari susunan panel, head atau track, carrier, jamb, seal vertikal-horizontal, floor guide, serta kebutuhan backing.
+
+Bandingkan **schedule** terhadap detail, bukan sebaliknya. Schedule harus menjawab tipe sistem, jumlah dan ukuran panel, hardware, finish, aksesori, dan catatan khusus. Dokumen pabrikan dapat membantu mengidentifikasi komponen dan urutan operasi, tetapi literatur produk tidak membuktikan performa ruang pada proyek Anda. Untuk partisi operabel, dukungan track, berat panel, pocket, kerataan lantai, seal, dan pelatihan pengguna memang saling terkait ([Modernfold operable partitions](https://www.modernfold.com/en-US/products/operable-partitions), [ASTM E557](https://store.astm.org/e0557-12r26.html), [dormakaba MOVEO](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)).
+
+Buat tabel koordinasi sederhana dengan kolom mark, lembar sumber, dimensi, support, hardware, finish, layanan yang berpotongan, revisi, dan pertanyaan. Untuk pintu, tambahkan arah ayun atau geser, clear opening yang disyaratkan proyek, frame, latch, seal, threshold, dan jalur keluar. Menambahkan pintu mengubah framing, clearance, operasi, privasi, kebocoran suara, dan kemungkinan fungsi egress; wall rating tidak otomatis berlaku pada pintu, frame, hardware, glazing, atau penetrasi. Jangan menulis angka atau rating jika dokumen proyek belum menyediakannya. Entri [SNI 03-1746-2000](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000) dan [SNI 03-6766-2002](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002) di katalog BSN membantu mengenali dokumen rujukan, bukan membuktikan bahwa konfigurasi ini memenuhi rating atau egress.
+
+Periksa juga konteks pengguna. Posisi partisi, cara pintu dioperasikan, ruang pendekatan, privasi, visibilitas, dan sanitary layout dapat berinteraksi; satu ukuran produk tidak membuktikan rute yang aksesibel. Gunakan regulasi Indonesia dan persyaratan proyek yang berlaku, bukan menyalin tata letak asing atau brosur tanpa review ([Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [PDF](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)). [NEEDS DIMENSION REVIEW: accessibility, egress, and local/project requirements]
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Shop Drawing Partisi: Plan, Elevation, Section, dan Schedule”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutkan pemeriksaan dari geometri besar ke detail kecil. Pertama, kunci grid, elevasi lantai jadi, plafon, dan opening. Kedua, kunci jalur beban: support track, carrier, jamb, dan backing. Ketiga, kunci gerak panel dan ruang parking; simulasikan posisi terbuka, tertutup, dan posisi antara yang mungkin dipakai. Keempat, cocokkan seal, floor guide, door hardware, dan finish. Kelima, overlay layanan: sprinkler, duct, kabel, lampu, sensor, dan akses inspeksi.
 
-## Hold point dan kondisi berhenti
+Untuk setiap konflik, tulis sebab dan pemilik keputusan, bukan sekadar “revisi”. Contoh: track bertemu duct berarti perlu keputusan elevasi, pengalihan layanan, atau detail support baru. Panel menutup access panel berarti perlu perubahan modul atau akses pemeliharaan. Finish berbeda antara schedule dan elevation berarti tahan pembelian sampai kode yang benar ditetapkan. Dokumen spesifikasi dan instruksi instalasi dapat memberi daftar komponen, tetapi toleransi dan langkahnya hanya berlaku pada sistem yang dinyatakan; jangan memindahkan prosedur satu merek ke sistem lain ([Bobrick guide specifications](https://www.bobrick.com/resource-center-2/guide-specifications/), [Knauf W11](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [Permen PUPR No. 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)).
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Shop Drawing Partisi: Plan, Elevation, Section, dan Schedule”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Titik berhenti dan kondisi berhenti
 
-## Verifikasi hasil dan handover
+Hentikan review dan minta jawaban tertulis ketika support belum teridentifikasi, beban track belum dinyatakan, floor level mengganggu operasi, jamb tidak menutup, atau pocket parking memakan jalur layanan. Tahan penutupan dinding saat backing, penetrasi, seal, dan rekaman foto belum disepakati; komponen tersembunyi sulit diverifikasi setelah tertutup. Hentikan pula klaim fire, acoustic, moisture, safety, atau warranty bila bukti hanya berupa nama produk atau nilai panel.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Shop Drawing Partisi: Plan, Elevation, Section, dan Schedule”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Partisi.co.id, revisi yang mengubah panel mark, bukaan, hardware, support, atau layanan harus memicu pemeriksaan ulang seluruh empat pandangan. Tandai awan revisi, tulis dampak pada schedule dan BOQ, lalu minta konfirmasi arsitek, kontraktor, pemasok, dan pihak teknis yang ditunjuk. [NEEDS HOLD-POINT APPROVAL: exact loads, tested assemblies, ratings, and acceptance tests]
 
-## Objection or shortcut to address
+## Verifikasi hasil dan serah terima
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sebelum penerimaan, cocokkan as-built terhadap mark terakhir: posisi partisi, ukuran opening, urutan panel, track, jamb, parking, floor guide, seal, hardware, dan finish. Catat kondisi support yang tertutup, foto sebelum closure, perubahan layanan, manual operasi, daftar suku cadang, serta daftar punch. Uji fungsi sesuai metode proyek: panel bergerak tanpa dipaksa, pintu mengunci dan membuka sesuai fungsi yang disetujui, seal terpasang, dan akses pemeliharaan tetap tersedia. Jangan mengubah pengamatan visual menjadi klaim rating atau performa tanpa laporan pengujian yang tepat.
 
-## Required conclusion
+Untuk pemeliharaan, ikuti manual sistem yang benar. Panduan seal, misalnya, menetapkan bahan pembersih dan interval hanya untuk produk yang disebut; itu bukan aturan universal ([ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide)). Serahkan register revisi, submittal yang disetujui, instruksi operasi, catatan inspeksi, dan daftar isu terbuka. Jika satu mark belum dapat ditelusuri dari plan sampai schedule, statusnya belum siap ditutup.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang perlu diuji
 
-## Draft completion checklist
+Shortcut yang umum adalah menyetujui berdasarkan elevation dan harga total karena tampilan serta luas terlihat cocok. Cara itu gagal ketika section menyembunyikan support yang tidak tersedia, schedule memakai hardware lain, atau plan tidak menyediakan ruang parking dan jalur layanan. Alternatif yang lebih aman adalah memilih beberapa mark sebagai sampel, menelusurinya lintas plan-elevation-section-schedule, lalu menerapkan temuan koordinasi ke seluruh daftar mark sebelum keputusan komersial dikunci. Harga atau luas baru dapat dibandingkan setelah konfigurasi, support, hardware, finish, perlindungan, pengujian, garansi, suku cadang, dan pengecualian benar-benar setara; ini bukan template kontrak atau nasihat hukum ([UU No. 2 Tahun 2017](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Modernfold specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)). Untuk langkah berikutnya, Anda dapat membandingkan kebutuhan sistem dengan referensi [partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) tanpa menganggap halaman tersebut sebagai bukti performa proyek ini.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Membaca shop drawing partisi berarti menghubungkan plan, elevation, section, dan schedule sampai setiap mark, bukaan, panel, track, parking, support, jamb, lantai, seal, hardware, finish, layanan, dan revisi memiliki jawaban yang sama. Sekarang ambil versi submittal terakhir, pilih satu mark yang memiliki pintu atau perubahan arah, dan buat tabel penelusuran empat lembar beserta pertanyaan yang belum terjawab. Minta review pihak berwenang sebelum fabrikasi atau penutupan pekerjaan bila menyentuh beban, kebakaran, aksesibilitas, egress, akustik, atau kepatuhan. Aturan operasinya sederhana: tidak ada mark yang dianggap siap hanya karena terlihat rapi; ia siap ketika bukti lintas dokumen konsisten dan batas review profesional telah dipenuhi.

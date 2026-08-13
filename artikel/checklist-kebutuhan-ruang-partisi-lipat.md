@@ -2,8 +2,9 @@
 article_id: PAR-02-01
 title: "Checklist Kebutuhan Ruang sebelum Memilih Partisi Lipat"
 slug: "checklist-kebutuhan-ruang-partisi-lipat"
-description: "Record activities, occupancy, schedules, sound, privacy, circulation, furniture, AV, finishes, storage and operating responsibility"
-status: outline
+description: "Checklist praktis untuk mencatat aktivitas, penghuni, jadwal, suara, privasi, sirkulasi, furnitur, AV, finishing, penyimpanan, dan tanggung jawab operasi ruang."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-06-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,59 +16,28 @@ final_route: "/artikel/checklist-kebutuhan-ruang-partisi-lipat.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
   - "https://www.iso.org/standard/72960.html"
   - "https://www.iso.org/standard/72962.html"
-  - "https://www.iso.org/standard/72964.html"
   - "https://www.formica.com/en-gb/products/washroom"
   - "https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html"
   - "https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
-  - "https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf"
   - "https://store.astm.org/e0557-12r26.html"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
   - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
   - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000"
   - "https://www.iso.org/standard/79487.html"
   - "https://store.astm.org/e0090-23.html"
   - "https://store.astm.org/e0336-24.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Checklist Kebutuhan Ruang sebelum Memilih Partisi Lipat
 
-## Assignment lock
+Halo, Teman Partisi.co.id! Memilih partisi lipat hanya dari ukuran ruangan dan warna panel sering berakhir pada ruang yang sulit dipakai: jadwal buka-tutup tidak cocok, furnitur menghalangi, suara bocor, atau tidak ada orang yang bertanggung jawab mengoperasikan sistem. Jawaban singkatnya: catat fungsi ruang, pola penghuni, jadwal perubahan, privasi, suara, sirkulasi, furnitur, AV, finishing, penyimpanan, dan tanggung jawab operasi sebelum meminta penawaran. Checklist ini membantu menyamakan kebutuhan; bukan memilih tingkat produk atau menggantikan review profesional.
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Kebutuhan Ruang sebelum Memilih Partisi Lipat”
-- **Reader and situation:** Owner or designer beginning a project
-- **Reader outcome:** Record activities, occupancy, schedules, sound, privacy, circulation, furniture, AV, finishes, storage and operating responsibility
-- **Primary intent:** Capture room and stakeholder requirements
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Teman Partisi.co.id`
-- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not choose a product tier; PAR-03-01 owns tier comparison
-- **Final public route:** `/artikel/checklist-kebutuhan-ruang-partisi-lipat.html`
-- **Appointed CMS date:** `2025-06-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Permen PUPR No. 14/PRT/M/2017 memandang aksesibilitas sebagai hubungan rute dan penggunaan, bukan satu ukuran komponen ([Permen PUPR No. 14/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)). **[NEEDS PROJECT REVIEW: persyaratan lokal, kapasitas ruang, dan kewenangan keputusan belum ditetapkan.]**
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Kebutuhan Ruang sebelum Memilih Partisi Lipat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -78,157 +48,61 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
-
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-08
-
-- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
-- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
-- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
-- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
-
-### KR-16
-
-- **Original sources:** [CDC environmental-cleaning procedures for global healthcare facilities](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html), [CDC 2024 considerations for healthcare surfaces](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html), [Bobrick toilet-partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [Polyrey compact-HPL installation/maintenance manual](https://en.polyrey.com/media/Technical_Resources/polyrey/compact_hpl_-_installation_manual_-_en.pdf)
-- **Purpose for this article:** Replace vague “antibacterial/hygienic” marketing with a maintainable surface-and-process model.
-- **Safe grounded facts:** Hygiene depends on geometry, joints, damage, high-touch hardware, soil load, cleaning access, staff process, compatible chemistry, contact/use instructions, rinsing/drying, monitoring, and repair. An antibacterial treatment does not replace cleaning/disinfection.
-- **Limits:** CDC US healthcare requirements are not Indonesian law; its global guidance is practice support. Product chemicals and methods are not interchangeable. Facility IPC/EVS and manufacturers must resolve `G-05` and `G-12`.
-
-### KR-14
-
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
-
-### KR-11
-
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
-
-### KR-12
-
-- **Original sources:** [SNI 03-6386-2000 acoustic design recommendation — BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2:2021 airborne sound-insulation laboratory method](https://www.iso.org/standard/79487.html), [ASTM E90 scope and laboratory/field limits](https://store.astm.org/e0090-23.html), [ASTM E336-24 field measurement between rooms](https://store.astm.org/e0336-24.html)
-- **Purpose for this article:** Prevent STC/Rw or “soundproof” claims from a material, panel, or laboratory specimen being presented as installed room performance.
-- **Safe grounded facts:** Laboratory and field quantities are different. Perimeters, doors, seals, head voids, ceilings, ducts, penetrations, junctions, workmanship, and adjacent structure can reduce achieved isolation. A test method does not prove a specific product passed or that the installed room will match.
-- **Limits:** Obtain full standards, complete current test reports, project acoustic criteria, junction design, and field-test plan where required. Resolve `G-08`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-02-02` → `/artikel/skenario-pembagian-ruang-dengan-partisi.html` — Skenario Pembagian Ruang: dari Satu Aula menjadi Beberapa Fungsi
-- `PAR-02-03` → `/artikel/partisi-bergerak-untuk-sekolah.html` — Partisi Bergerak untuk Sekolah: Kelas, Aula, dan Jadwal Perubahan Ruang
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal proyek; bukan dokumentasi proyek tertentu.
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Kebutuhan Ruang sebelum Memilih Partisi Lipat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang baik adalah lembar kebutuhan yang dapat dibaca pemilik, perancang, pemasok, dan operator. Sebelum mengisinya, sepakati nama ruang, kegiatan utama, kapasitas perkiraan, jam penggunaan, dan siapa yang boleh mengubah konfigurasi. Kumpulkan denah, foto, jadwal acara, daftar furnitur, kebutuhan AV, serta batas akses survei. Jika data belum tersedia, tandai sebagai asumsi, bukan angka pasti.
 
-## Langkah 1 — tetapkan scope
+## Tetapkan lingkup kebutuhan ruang
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Kebutuhan Ruang sebelum Memilih Partisi Lipat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tulis kapan partisi dibuka, ditutup, atau dibiarkan pada posisi tertentu. Apakah perubahan terjadi setiap hari, hanya saat acara, atau jarang? Siapa yang mengoperasikan panel dan siapa yang memanggil bantuan? Frekuensi memengaruhi kebutuhan pelatihan, penyimpanan, pemeriksaan, dan kemungkinan gangguan.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Catat pula apa yang tidak termasuk: penguatan struktur, pemindahan sprinkler, perubahan lantai, pekerjaan listrik, atau perbaikan akustik bangunan. Partisi bergerak adalah sistem yang melibatkan track, panel, stacking pocket, lantai, seal, jamb, dan hardware; ASTM E557 serta spesifikasi Modernfold menekankan perlunya koordinasi antarmuka ([ASTM E557](https://store.astm.org/e0557-12r26.html), [Modernfold specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Kebutuhan Ruang sebelum Memilih Partisi Lipat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kumpulkan dan cocokkan bukti
 
-## Langkah 3 — jalankan urutan kerja
+Buat daftar dokumen yang akan dipakai untuk keputusan: denah, potongan, jadwal acara, target privasi, kebutuhan suara, manual AV, daftar furnitur, dan batas akses pengguna. Cocokkan setiap kebutuhan dengan kondisi ruang. Misalnya, target rapat privat perlu dilihat bersama pintu, seal, plafon, duct, dan jalur suara; angka panel dari laboratorium tidak otomatis menjadi isolasi ruang.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Kebutuhan Ruang sebelum Memilih Partisi Lipat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk permukaan dan area lembap, “phenolic”, HPL, dan compact bukan spesifikasi lengkap. ISO 4586 membedakan objek dan ruang lingkup laminat; Formica berlaku pada produk dan pasar yang disebut, bukan semua panel ([ISO 4586-2](https://www.iso.org/standard/72960.html), [ISO 4586-4](https://www.iso.org/standard/72962.html), [Formica washroom](https://www.formica.com/en-gb/products/washroom)).
 
-## Hold point dan kondisi berhenti
+## Urutan kerja checklist
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Kebutuhan Ruang sebelum Memilih Partisi Lipat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, gambarkan aktivitas dan pengguna. Kedua, tandai jalur masuk, jalur keluar, ruang pendekat, furnitur, dan hambatan. Ketiga, catat target suara, privasi, cahaya, visual, dan AV. Keempat, petakan posisi track, stacking, serta ruang penyimpanan. Kelima, tetapkan siapa mengoperasikan, membersihkan, memeriksa, dan melaporkan kerusakan.
 
-## Verifikasi hasil dan handover
+Jika ruang dipakai untuk kesehatan atau area dengan tuntutan kebersihan, masukkan akses pembersihan, titik sentuh, sambungan, kerusakan permukaan, dan bahan kimia yang diizinkan. CDC menekankan bahwa kebersihan bergantung pada geometri, proses, akses, dan kompatibilitas kimia; perlakuan antibakteri tidak menggantikan pembersihan dan disinfeksi ([CDC procedures](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html), [CDC infection control](https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html)).
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Kebutuhan Ruang sebelum Memilih Partisi Lipat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Titik berhenti dan kondisi yang wajib ditinjau
 
-## Objection or shortcut to address
+Tahan permintaan harga jika fungsi ruang belum jelas, jalur akses belum dipetakan, atau tidak ada keputusan tentang stacking. Hentikan koordinasi jika struktur track, sprinkler, duct, kabel, atau pintu belum diketahui. Tahan klaim fire atau egress sampai dinding, pintu, frame, seal, kaca, dan penetrasi memiliki bukti yang sesuai; SNI 03-1746-2000 dan SNI 03-6766-2002 bukan sertifikat otomatis ([SNI egress](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI fire-door](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk akustik, pisahkan target ruang dari data laboratorium. ISO 10140-2, ASTM E90, dan ASTM E336 menjelaskan metode pengujian, bukan jaminan hasil ruang tertentu ([ISO 10140-2](https://www.iso.org/standard/79487.html), [ASTM E90](https://store.astm.org/e0090-23.html), [ASTM E336](https://store.astm.org/e0336-24.html)). **[NEEDS ACOUSTIC REVIEW: kriteria ruang, detail junction, dan rencana uji lapangan belum tersedia.]**
 
-## Required conclusion
+## Verifikasi hasil dan serah terima
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Sebelum memilih, minta pemasok mengembalikan checklist dengan asumsi, pengecualian, konfigurasi, dukungan track, panel, hardware, pintu, finishing, pengujian, pelatihan, suku cadang, dan batas garansi. Bandingkan penawaran berdasarkan ruang lingkup yang sama, bukan hanya luas panel atau harga lump-sum.
 
-## Draft completion checklist
+Saat handover, simpan denah kondisi akhir, manual operasi, daftar panel dan hardware, foto stacking, catatan pelatihan, jadwal pemeriksaan, dan kontak eskalasi. Uji buka-tutup serta penyimpanan panel bersama operator yang ditunjuk. Instruksi dormakaba berlaku pada model tertentu; jangan menggeneralisasi ke semua sistem ([dormakaba MOVEO](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)).
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama adalah meminta harga sebelum fungsi ruang ditulis. Kedua, menganggap kapasitas panel sama dengan kapasitas ruangan. Ketiga, mengabaikan furnitur, AV, jalur pembersihan, dan ruang penyimpanan. Keempat, menyerahkan operasi kepada “siapa saja” tanpa pelatihan dan batas.
+
+Teman Partisi.co.id, gunakan pertanyaan sederhana: apa kegiatan utama, kapan konfigurasi berubah, siapa yang menyentuh panel, apa yang harus tetap berjalan di baliknya, dan bukti apa yang diperlukan saat serah terima? Jawaban yang belum ada menjadi item tindak lanjut, bukan diisi dengan asumsi pemasok.
+
+Tambahkan kolom dampak jika kebutuhan tidak terpenuhi. Jadwal yang terlalu rapat dapat membuat panel dipaksa; furnitur yang tidak dipindahkan dapat menghalangi jalur; permukaan yang sulit dibersihkan dapat menambah beban staf; dan stacking yang jauh dari ruang utama dapat mengubah waktu persiapan acara. Dampak ini bukan angka kinerja, tetapi membantu pemilik memprioritaskan keputusan dan menentukan siapa yang harus hadir pada survei.
+
+Catat kebutuhan perubahan di masa depan. Apakah ruang mungkin dibagi menjadi lebih banyak zona, membutuhkan pintu tambahan, atau menerima perangkat AV baru? Rencana itu tidak otomatis menentukan sistem, tetapi memengaruhi ruang kosong, akses servis, kapasitas penopang, dan cara menyimpan panel. Minta pemasok menyatakan asumsi dan batas perubahan agar keputusan hari ini tidak menutup pilihan yang masih masuk akal besok.
+
+Untuk lingkungan yang lembap atau sering dibersihkan, tanyakan proses pembersihan, waktu pengeringan, sambungan yang sulit dijangkau, serta bahan kimia yang disetujui. CDC menempatkan kebersihan sebagai gabungan desain, proses, dan pemantauan. Jangan mengubah kata “higienis” menjadi jaminan kesehatan tanpa rencana operasional dan review fasilitas.
+Tuliskan juga siapa yang memperbarui checklist ketika fungsi ruang berubah.
+
+## Kesimpulan: kebutuhan ruang mendahului pilihan produk
+
+Checklist ruang yang berguna mencatat aktivitas, penghuni, jadwal, suara, privasi, sirkulasi, furnitur, AV, finishing, penyimpanan, kebersihan, dan tanggung jawab operasi. Setelah data itu jelas, pemasok dan perancang dapat menguji konfigurasi serta antarmukanya.
+
+Kawan Partisi.co.id, minta semua pihak menandatangani lembar kebutuhan dan daftar asumsi sebelum penawaran dikunci. Anda dapat melihat [konteks partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html), tetapi halaman layanan bukan pengganti survei dan desain. Aturan akhirnya: jangan memilih partisi lipat dari panelnya saja; pilih setelah ruang, pengguna, jadwal, dan bukti penerimaan dapat dijelaskan. Checklist yang diperbarui dan disetujui menjadi acuan kerja, bukan sekadar lampiran penawaran.

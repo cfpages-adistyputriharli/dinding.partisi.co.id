@@ -2,8 +2,9 @@
 article_id: PAR-07-03
 title: "Data Struktur yang Harus Diserahkan Vendor Partisi dan Perencana"
 slug: "data-koordinasi-struktur-partisi"
-description: "Define reactions, dynamic factors if applicable, track geometry, bracket spacing proposal, tolerances, movement, steel and approval roles"
-status: outline
+description: "Panduan membagi data reaksi, faktor dinamis, geometri track, usulan bracket, toleransi, pergerakan, baja, dan peran persetujuan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,53 +18,19 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
   - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Data Struktur yang Harus Diserahkan Vendor Partisi dan Perencana
 
-## Assignment lock
+Halo, Sobat Partisi.co.id! Banyak celah dukungan terjadi karena vendor mengirim ukuran panel, sementara perencana membutuhkan reaksi ke struktur, geometri track, gerakan, toleransi, dan peran persetujuan. Jawaban singkatnya: minta paket data yang menjelaskan jalur beban, kondisi operasi, antarmuka, asumsi, dan batas tanggung jawab. Vendor menyediakan data sistemnya; perencana struktur menilai penopang dan menyetujui desain sesuai kewenangan proyek.
 
-- **Writer task:** Expand this file into one complete article answering: “Data Struktur yang Harus Diserahkan Vendor Partisi dan Perencana”
-- **Reader and situation:** Project team preventing support gaps
-- **Reader outcome:** Define reactions, dynamic factors if applicable, track geometry, bracket spacing proposal, tolerances, movement, steel and approval roles
-- **Primary intent:** Coordinate responsibilities and design data
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Sobat Partisi.co.id`
-- **Natural variants:** `Kawan Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not approve vendor calculations; project structural authority does
-- **Final public route:** `/artikel/data-koordinasi-struktur-partisi.html`
-- **Appointed CMS date:** `2025-10-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+SNI 1727:2020 dan SNI 1726:2019 memberi kerangka beban minimum dan gempa, tetapi katalog tidak memberi jarak bracket atau anchor universal ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019](https://pesta.bsn.go.id/produk/detail/12762-sni17262019)). **[NEEDS STRUCTURAL REVIEW: perhitungan dan kriteria proyek belum tersedia.]**
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Data Struktur yang Harus Diserahkan Vendor Partisi dan Perencana**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Partisi.co.id`, `Kawan Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,159 +41,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Aset lokal proyek; bukan dokumentasi proyek tertentu.
 
-### KR-01
+## Definisikan kebutuhan dan batas data
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Mulai dari fungsi ruang, jenis partisi, tinggi, bentang, frekuensi gerak, panel, pintu, stacking, dan kondisi bangunan. Tuliskan apa yang termasuk: track, bracket, anchor, baja tambahan, plafon, lantai, layanan, dan akses inspeksi. Tuliskan pula yang tidak termasuk agar vendor tidak mengira perencana menerima tanggung jawab yang belum disepakati.
 
-### KR-10
+## Data reaksi dan geometri yang perlu diminta
 
-- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
-- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
-- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
-- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+Minta berat panel, reaksi vertikal dan horizontal, kondisi dinamis bila relevan, titik gantung, pola bracket, sambungan track, serta kombinasi kondisi operasi yang digunakan vendor. Sertakan denah, potongan, elevasi, stacking pocket, posisi pintu, dan ruang servis. Angka harus memiliki satuan, arah, kasus beban, dan asumsi; angka tanpa konteks tidak dapat dipakai perencana.
 
-### KR-18
+ASTM E557 dan spesifikasi Modernfold menempatkan dukungan, installer, serta laporan sistem sebagai bagian koordinasi partisi operasional ([ASTM E557](https://store.astm.org/e0557-12r26.html), [Modernfold specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)).
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [FEMA E-74 partition/interface concepts](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf), [Modernfold operable-partition technical specification](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Define the minimum evidence needed before layout, quotation, structural support, or installation.
-- **Safe grounded facts:** A plan dimension alone does not reveal plumb/level, ceiling void, structure location, movement joints, hidden services, sprinkler/detector conflicts, electrical/data routes, skirting, drainage, access, stacking space, or substrate capacity.
-- **Limits:** This is not a universal survey form or permission for destructive opening. Exact project survey, service isolation, approvals, and professional coordination must resolve `G-03`, `G-06`, and `G-07`.
+## Toleransi, gerakan, dan antarmuka
 
-### KR-14
+Tanyakan variasi level lantai, defleksi struktur, sambungan gerak, kelurusan track, clearance, dan batas penyetelan. Jangan menerbitkan toleransi universal; supplier harus memberi batas produknya dan perencana menilai dampaknya pada struktur serta seal. FEMA E-74 membantu mengajukan pertanyaan tentang komponen nonstruktural saat bangunan bergerak, tetapi bukan kode Indonesia ([FEMA E-74](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)).
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+Jika ada pintu, kaca, plafon, sprinkler, duct, atau kabel, tandai antarmukanya. Perubahan posisi partisi dapat mengubah jalur keluar, akses, atau beban lokal. Permen PUPR No. 14/PRT/M/2017 menempatkan aksesibilitas sebagai hubungan rute dan penggunaan, bukan satu dimensi produk ([Permen PUPR No. 14/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
 
-### KR-11
+## Peran vendor, perencana, dan pihak penyetuju
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+Vendor menyatakan data produk, konfigurasi, batas operasi, metode pemasangan, dan perubahan. Perencana struktur menilai jalur beban, penopang, baja tambahan, anchor, dan pergerakan bangunan. Arsitek mengoordinasikan layout, pintu, tampilan, dan fungsi. MEP memeriksa konflik layanan. QA mencatat bukti dan deviasi. Pihak penyetuju proyek menutup keputusan sesuai kontrak.
 
-### KR-03
-
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-07-01` → `/artikel/load-path-partisi-ke-struktur-atas.html` — Dari Berat Panel ke Struktur Atas: Memahami Load Path Partisi
-- `PAR-07-02` → `/artikel/plafon-bukan-penopang-track-partisi.html` — Mengapa Plafon Tidak Boleh Dianggap sebagai Penopang Track
-- `PAR-07-04` → `/artikel/defleksi-struktur-track-dan-seal.html` — Defleksi Struktur, Track, dan Seal: Tiga Toleransi yang Harus Terhubung
-- `PAR-07-05` → `/artikel/korosi-track-dan-hardware-partisi.html` — Korosi dan Kondensasi pada Track serta Hardware di Area Lembap
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Definisikan kebutuhan sebelum meminta harga
-
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Data Struktur yang Harus Diserahkan Vendor Partisi dan Perencana”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Buat penawaran benar-benar sebanding
-
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Data Struktur yang Harus Diserahkan Vendor Partisi dan Perencana”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Partisi.co.id, satu tanda tangan tidak menghapus pembagian ini. Minta matriks tanggung jawab dan nomor revisi pada setiap paket data.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Data Struktur yang Harus Diserahkan Vendor Partisi dan Perencana”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bedakan data sheet, perhitungan vendor, gambar shop, laporan uji, method statement, inspeksi, dan persetujuan. Laporan produk tidak membuktikan struktur eksisting mampu menerima reaksi. Gambar tampak tidak membuktikan bracket terpasang. Foto akhir tidak membuktikan item tersembunyi diperiksa sebelum ditutup; instruksi Bobrick menekankan pemeriksaan pekerjaan tersembunyi ([Bobrick installation](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf)).
 
-## Pertanyaan wajib kepada penyedia
+## Tanda bahaya dan keputusan praktis
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Data Struktur yang Harus Diserahkan Vendor Partisi dan Perencana”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tanda bahaya meliputi angka reaksi tanpa arah, bracket tanpa jarak atau detail anchor, asumsi plafon sebagai struktur, tidak ada kasus gerak, dan perubahan lapangan tanpa revisi. Tahan quotation atau pemasangan sampai data inti lengkap. Jika vendor mengusulkan baja tambahan, minta detail sambungan, material, proteksi, akses inspeksi, dan pihak yang menyetujui.
 
-## Red flag dan biaya yang sering tersembunyi
+Periksa juga urutan pembebanan. Panel yang diam dapat menghasilkan reaksi berbeda dari panel yang dipercepat, dihentikan, atau ditumpuk. Vendor harus menjelaskan kondisi operasi yang dipakai, sementara perencana menentukan mana yang relevan untuk struktur. Jangan menambahkan faktor dinamis dari ingatan atau menghapusnya karena gerak terasa pelan.
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Data Struktur yang Harus Diserahkan Vendor Partisi dan Perencana”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Data geometri perlu menyebut datum, level lantai, tinggi track, jarak ke tepi struktur, posisi sambungan, dan ruang penyetelan. Foto plafon dan sketsa layanan membantu menemukan konflik sebelum bracket dipesan. Jika akses survei terbatas, tandai area yang belum diverifikasi dan jadwalkan investigasi terkontrol.
 
-## Penerimaan, serah terima, dan keputusan akhir
+Saat ada perubahan lapangan, terbitkan revisi yang menunjukkan apa yang berubah, mengapa, dampaknya pada reaksi dan gerak, serta siapa yang menyetujui. Jangan mengandalkan pesan informal. Perubahan kecil pada tinggi track atau posisi bracket dapat mengubah alignment panel dan seal.
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Data Struktur yang Harus Diserahkan Vendor Partisi dan Perencana”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pada serah terima, cocokkan data vendor dengan foto penopang, nomor bracket, dan catatan inspeksi. Simpan perhitungan, gambar as-built, sertifikat material yang relevan, daftar deviasi, serta kontak pihak yang dapat menjelaskan asumsi. Paket yang rapi memudahkan audit dan pemeliharaan, tetapi tidak menggantikan persetujuan struktur.
 
-## Objection or shortcut to address
+### Cara membaca lembar data sebelum memberi persetujuan
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Lembar data sering tampak lengkap karena memuat banyak angka, padahal angka itu belum tentu menjawab kebutuhan struktur. Baca dari konteksnya: konfigurasi panel apa yang dihitung, berapa panjang track, bagaimana panel bergerak, dan pada titik mana reaksi diteruskan. Jika judul gambar hanya menyebut tipe produk tanpa konfigurasi proyek, anggap informasi masih bersifat umum sampai vendor mengikatnya pada layout yang disepakati.
 
-## Required conclusion
+Periksa satuan dan arah secara berpasangan. Gaya vertikal harus jelas apakah bekerja ke bawah atau ke atas pada kondisi tertentu; gaya lateral harus menunjukkan sumbu atau arah rencana; momen harus menyebut titik acuannya. Nilai puncak tanpa kasus beban, durasi, atau kombinasi tidak dapat langsung dijumlahkan dengan beban lain. Minta vendor menuliskan tabel singkat yang menghubungkan setiap nilai dengan posisi panel, kecepatan gerak, dan kondisi berhenti.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Kemudian cocokkan titik reaksi dengan detail penopang. Track yang digantung dari baja sekunder membutuhkan jarak antarbracket, profil baja, sambungan, dan akses pemasangan. Track yang menempel pada struktur eksisting membutuhkan data material dan kondisi elemen tersebut. Jangan menerima kalimat “struktur mampu” tanpa gambar jalur gaya dan pihak yang menandatangani pemeriksaan. Jika data eksisting belum terbuka, catat sebagai asumsi yang harus diverifikasi, bukan sebagai fakta.
 
-## Draft completion checklist
+Buat daftar pertanyaan terbuka pada rapat koordinasi: bagian mana yang dihitung vendor, bagian mana yang dihitung perencana, toleransi apa yang boleh disetel di lapangan, serta kondisi apa yang memicu penerbitan revisi. Pertanyaan ini menghemat waktu karena keputusan tidak tercecer di percakapan terpisah. Setelah jawaban diterima, masukkan nomor revisi dan tanggal ke gambar serta daftar keputusan proyek.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Untuk pekerjaan bertahap, tetapkan titik pemeriksaan sebelum plafon atau penutup menutup bracket. Inspektor perlu melihat posisi anchor, kekencangan sambungan, dan kesesuaian material dengan gambar. Bila ada deviasi, foto dengan skala dan tandai koordinatnya. Pemasangan boleh dilanjutkan setelah pihak berwenang menyatakan deviasi aman atau gambar revisi diterbitkan. Prosedur ini menjaga agar data di meja tetap dapat ditelusuri ke benda yang benar-benar terpasang.
+
+## Serah terima dan aturan akhir
+
+Simpan paket final: data reaksi, geometri track, asumsi, gambar revisi, perhitungan yang disetujui, foto penopang, catatan inspeksi, deviasi, dan manual. Tandai item yang masih terbuka dengan **[NEEDS STRUCTURAL REVIEW]**. Data harus dapat ditelusuri dari vendor ke perencana dan ke kondisi terpasang.
+
+Kawan Partisi.co.id, minta pertemuan koordinasi sebelum mengunci layout dan harga. Anda dapat melihat [konteks partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html), tetapi halaman layanan bukan perhitungan struktur. Aturan akhirnya: vendor menyediakan data sistem, perencana menyetujui penopang, dan proyek menerima hanya setelah jalur beban serta asumsi benar-benar terdokumentasi.

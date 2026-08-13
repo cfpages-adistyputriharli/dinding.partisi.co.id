@@ -2,8 +2,9 @@
 article_id: PAR-10-02
 title: "Format Survei Existing untuk Proyek Partisi"
 slug: "format-survei-existing-partisi"
-description: "Record dimensions, datums, support evidence, ceiling, floor, jambs, services, access, occupancy, photos and uncertainties"
-status: outline
+description: "Panduan mencatat kondisi existing agar desain, penawaran, dan pemeriksaan partisi memakai data yang sama."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,56 +16,18 @@ final_route: "/artikel/format-survei-existing-partisi.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf"
   - "https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017"
-  - "https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf"
   - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
   - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Format Survei Existing untuk Proyek Partisi
 
-## Assignment lock
+Halo, Sobat Partisi.co.id! Di lapangan, masalah sering muncul bukan karena partisinya sulit dipasang, melainkan karena data existing yang dikirim ke desainer dan vendor tidak menunjuk kondisi yang sama. Satu orang mengukur dari lantai jadi, yang lain dari garis plafon; foto tidak memiliki arah; titik listrik tertutup panel. Akibatnya, gambar terlihat rapi tetapi ukuran, akses, dan pekerjaan tambahan baru terbuka saat pemasangan.
 
-- **Writer task:** Expand this file into one complete article answering: “Format Survei Existing untuk Proyek Partisi”
-- **Reader and situation:** Surveyor preparing vendor and designer data
-- **Reader outcome:** Record dimensions, datums, support evidence, ceiling, floor, jambs, services, access, occupancy, photos and uncertainties
-- **Primary intent:** Document existing conditions consistently
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Sobat Partisi.co.id`
-- **Natural variants:** `Kawan Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not assess structural capacity; PAR-07-06 owns structural evidence
-- **Final public route:** `/artikel/format-survei-existing-partisi.html`
-- **Appointed CMS date:** `2025-12-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: format survei existing harus menjadi catatan yang dapat dilacak, bukan daftar ukuran ruangan saja. Catat titik acuan, dimensi, kondisi lantai dan plafon, bukaan, utilitas, akses kerja, penggunaan ruang, foto berarah, serta hal yang belum bisa dipastikan. Data itu kemudian diberi status terukur, terlihat tetapi belum terverifikasi, atau perlu pemeriksaan lanjutan. Kerangka bangunan nasional menempatkan keselamatan, kesehatan, kenyamanan, fungsi, dan dokumentasi sebagai bagian dari penyelenggaraan bangunan, sehingga label produk saja tidak menggantikan pemeriksaan kondisi setempat ([PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Format Survei Existing untuk Proyek Partisi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Partisi.co.id`, `Kawan Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -75,158 +38,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-### KR-01
+## Apa yang dimaksud format survei existing
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+Bagian ini penting karena istilah “survei” sering dipersempit menjadi mengukur panjang dan tinggi. Yang dibutuhkan proyek partisi adalah gambaran kondisi yang memengaruhi keputusan desain, harga, pemasangan, dan serah terima. Formatnya boleh berupa lembar digital atau gambar beranotasi, asalkan setiap angka memiliki lokasi, satuan, tanggal, pengukur, dan cara memperoleh data.
 
-### KR-02
+Mulailah dengan identitas area: nama proyek, lantai, ruang, tanggal, jam kunjungan, akses yang diberikan, dan siapa yang mendampingi. Tentukan datum, yaitu titik atau garis acuan bersama. Contohnya garis grid, muka kolom, elevasi lantai jadi, atau sumbu bukaan. Jangan menulis “tinggi 2.800” tanpa menjelaskan diukur dari mana dan berakhir di permukaan apa.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/154427/PP%20Nomor%2016%20Tahun%202021.pdf)
-- **Purpose for this article:** Anchor partition planning, alteration, use, maintenance, and handover in the national building framework.
-- **Safe grounded facts:** PP 16/2021 took effect on 2 February 2021 and replaced PP 36/2005. A partition decision can affect building safety, health, comfort, convenience, function, documentation, and building use; a product label alone cannot establish compliance.
-- **Limits:** The high-level record does not provide a universal partition thickness, fixing, door clearance, rating, or acceptance rule. Resolve `G-01` and `G-02` before compliance wording.
+Batas artikel ini adalah dokumentasi kondisi existing untuk koordinasi partisi. Ia tidak menilai kapasitas struktur, kemampuan pelat menahan beban, atau kelayakan sistem tertentu; pertanyaan itu memerlukan bukti dan peninjauan profesional tersendiri. Jika ada dugaan masalah struktur, tandai lokasi dan minta pemeriksaan, bukan menebak dari tampilan.
 
-### KR-03
+## Urutan pengisian yang membuat data bisa dipakai
 
-- **Original sources:** [Permen PUPR No. 14/PRT/M/2017 status record — BPK](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017), [full regulation PDF — BPK/JDIH source](https://peraturan.bpk.go.id/Download/136346/PermenPUPR14-2017.pdf)
-- **Purpose for this article:** Keep layouts, doors, wet-area cubicles, glass visibility, circulation, hardware, and operation tied to users and the building rather than isolated product geometry.
-- **Safe grounded facts:** Accessibility is an integrated route-and-use question. Partition position, door swing/operation, privacy, approach space, fittings, visibility, and sanitary layout can interact; satisfying one product dimension does not prove the route or room is accessible.
-- **Limits:** Use the full current regulation and applicable local/project requirements before publishing an exact dimension. Foreign ADA/manufacturer layouts may illustrate coordination only and cannot replace Indonesian review; resolve `G-04`.
+Urutan membantu mencegah pengukur melompat ke detail sebelum memahami ruang. Pertama, buat sketsa denah sederhana dengan orientasi dan kode titik. Kedua, ukur panjang setiap sisi, diagonal bila bentuknya tidak siku, serta posisi kolom, balok, dan bukaan. Ketiga, catat elevasi: lantai jadi, perbedaan level, tinggi bersih, dan bidang plafon. Satu ukuran sebaiknya memiliki pasangan ukuran silang atau foto pembanding.
 
-### KR-21
+Pada dinding, tulis jenis permukaan yang terlihat, garis sambungan, retak, lapisan yang mudah terkelupas, dan lokasi yang mungkin memerlukan penguat. Pada lantai, catat kerataan yang terlihat, ambang, karpet, nat, atau area yang tidak boleh dibor. Pada plafon, bedakan plafon jadi dari struktur di atasnya. Jangan menganggap rangka plafon otomatis dapat menjadi tumpuan rel atau kepala partisi; sistem dinding rangka tetap memerlukan detail dukungan dan sambungan yang sesuai desainnya ([Knauf W11](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende)).
 
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
+Selanjutnya petakan utilitas: lampu, sprinkler, detektor, kisi udara, kabel, pipa, kotak inspeksi, dan jalur pemeliharaan. Catat yang terlihat, yang ditunjukkan pengelola, dan yang belum dibuktikan. Tandai zona “jangan bor” bila informasinya belum cukup. Untuk pintu, ukur bukaan bersih, arah ayun, ambang, kusen, ruang pendekatan, dan jalur keluar. Persyaratan aksesibilitas adalah hubungan antara rute, operasi pintu, ruang pendekatan, dan penggunaan; satu angka produk tidak membuktikan seluruh rute dapat digunakan ([Permen PUPR No. 14/PRT/M/2017](https://peraturan.bpk.go.id/Details/104477/permen-pupr-no-14prtm2017-tahun-2017)).
 
-### KR-11
+## Bukti lapangan: foto, kode, dan ketidakpastian
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+Foto berguna bila orang lain dapat menghubungkannya kembali ke denah. Beri kode berurutan, arah pandang, lokasi, dan tanggal. Ambil foto keseluruhan untuk konteks, lalu foto detail untuk sambungan, kerusakan, utilitas, dan hambatan akses. Sertakan penggaris atau objek pembanding hanya sebagai petunjuk, bukan pengganti ukuran terkalibrasi.
 
-### KR-14
+Tambahkan kolom “status bukti”. “Terukur” berarti angka diperoleh langsung dengan alat. “Terlihat” berarti kondisi tampak tetapi material atau kedalamannya belum diketahui. “Dinyatakan” berarti informasi berasal dari pengelola atau dokumen. “Perlu verifikasi” berarti keputusan tidak boleh dikunci sebelum pemeriksaan tambahan. Sobat Partisi.co.id, kolom ini mencegah asumsi lama berubah menjadi fakta hanya karena disalin ke gambar baru.
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+Untuk bagian yang akan tertutup, rencanakan bukti sebelum ditutup: foto jalur utilitas, catatan titik penguat, jenis sambungan, dan perubahan terhadap gambar. Dalam pekerjaan bangunan, komponen tersembunyi sulit diverifikasi setelah penutupan; substitusi atau penyimpangan juga dapat mengubah bukti fungsi, ketahanan, dan pemeliharaan. Simpan foto dan persetujuan revisi bersama nomor area, bukan di folder tanpa nama.
 
-### KR-19
+## Faktor yang mengubah hasil survei
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
+Ruang yang tetap dipakai saat pekerjaan membutuhkan catatan jam akses, jalur pengangkutan, perlindungan permukaan, dan batas kebisingan yang disepakati proyek. Ruang kosong bukan berarti bebas risiko: pintu darurat, akses teknisi, area basah, atau jalur evakuasi tetap harus terlihat pada denah. Kerangka jasa konstruksi membedakan tanggung jawab para pihak; format survei membantu membagi informasi, tetapi bukan pengganti kontrak atau persetujuan proyek ([UU No. 2 Tahun 2017](https://peraturan.bpk.go.id/Details/37637/uu)).
 
-## Evidence gates
+Sistem partisi bergerak menambah pertanyaan tentang rel, kantong parkir, lantai, penutupan jamb, dan frekuensi operasi. Sistem partisi tetap menuntut pemeriksaan kepala, kaki, sambungan, pintu, dan penetrasi. Jangan menyalin toleransi atau detail pemasok lain; tandai kebutuhan data produk dan tinjauan teknis sebagai [NEEDS G-03: kapasitas tumpuan, detail sambungan, dan persyaratan sistem harus dikonfirmasi oleh perancang atau pemasok yang ditunjuk]. Untuk klaim akses, kebakaran, akustik, atau performa, gunakan bukti sistem dan persyaratan proyek yang berlaku, bukan kesan visual.
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+## Contoh keputusan dari lembar survei
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Bayangkan tinggi lantai-ke-plafon terbaca sama di tiga titik, tetapi satu titik berada di bawah balok dan titik lain di bawah plafon gantung. Format yang baik memisahkan ketiganya, memberi kode titik, lalu menyatakan mana yang menjadi batas desain. Keputusannya bisa berupa “gambar awal memakai tinggi terendah, konfirmasi struktur di atas plafon sebelum pemesanan”. Itu lebih aman daripada merata-ratakan angka.
 
-## Internal-link plan
-
-### Existing local routes
-
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `PAR-10-01` → `/artikel/design-brief-partisi-bergerak.html` — Menulis Design Brief Partisi Bergerak yang Lengkap
-- `PAR-10-03` → `/artikel/spesifikasi-partisi-yang-bisa-ditenderkan.html` — Spesifikasi Partisi yang Bisa Ditenderkan dan Diperiksa
-- `PAR-10-04` → `/artikel/dokumen-partisi-tinggi-dan-custom.html` — Dokumen Tambahan untuk Partisi Tinggi, Bentuk Khusus, atau Custom
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Format Survei Existing untuk Proyek Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Format Survei Existing untuk Proyek Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Format Survei Existing untuk Proyek Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Format Survei Existing untuk Proyek Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Format Survei Existing untuk Proyek Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Contoh lain: vendor meminta partisi dipasang pada garis dinding existing, tetapi foto menunjukkan pipa inspeksi melintas di jalur tersebut. Catat koordinat pipa, kebutuhan akses buka-tutup, dan pihak yang harus menyetujui relokasi. Jika data belum cukup, statusnya “perlu verifikasi”, bukan “clear”.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Format Survei Existing untuk Proyek Partisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah hanya mengirim tabel ukuran tanpa denah dan foto. Pemeriksa tidak tahu ujung ukuran atau arah pandangnya. Perbaikan: setiap baris ukuran memiliki kode titik yang muncul pada sketsa dan nama file foto.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menghapus catatan “perkiraan” agar dokumen tampak bersih. Justru ketidakpastian memberi sinyal kapan vendor harus mengukur ulang. Kesalahan ketiga adalah menganggap penawaran termurah setara karena luasnya sama; ruang lingkup dapat berbeda pada rangka, pintu, perlindungan, akses, pengujian, dan dokumen serah terima. Minta setiap asumsi vendor dicocokkan dengan daftar kondisi existing.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan keempat adalah menyimpulkan kapasitas struktur dari plafon yang tampak kokoh. Survei boleh mencatat gejala dan meminta pemeriksaan, tetapi tidak boleh menyatakan aman tanpa bukti. Kawan Partisi.co.id, gunakan aturan sederhana: bila keputusan mengubah beban, jalur evakuasi, akses pengguna, utilitas, atau garansi, naikkan statusnya ke tinjauan profesional.
 
-## Required conclusion
+## Format ringkas yang siap dibagikan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Susun berkas dengan urutan: halaman identitas dan batas survei; denah ber-datum dan kode titik; tabel dimensi dan elevasi; tabel pintu, jamb, dan utilitas; peta akses serta okupansi; indeks foto; daftar asumsi dan ketidakpastian; lalu daftar tindakan sebelum desain dikunci. Cantumkan revisi, tanggal, penanggung jawab, dan perubahan sejak kunjungan sebelumnya. Hindari mengunci spesifikasi, rating, atau dimensi universal sebelum bukti proyek dan produk tersedia [NEEDS G-01/G-04/G-05: persyaratan keselamatan, akses, dan sistem harus ditinjau terhadap proyek serta regulasi yang berlaku].
 
-## Draft completion checklist
+## Penutup: kapan survei boleh dipakai untuk keputusan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Format survei existing yang baik membuat kondisi ruang dapat ditelusuri dari angka ke titik, dari titik ke foto, dan dari ketidakpastian ke tindakan verifikasi. Sebelum mengirim ke desainer atau vendor, lakukan pemeriksaan silang: apakah datum jelas, semua bukaan dan utilitas berkode, foto memiliki arah, status bukti terlihat, dan batas struktur disebutkan? Minta pihak terkait menandatangani atau menyetujui daftar asumsi, lalu perbarui lembar bila kondisi berubah.
+
+Teman Partisi.co.id, jangan jadikan survei sebagai janji bahwa semua risiko sudah selesai. Jadikan ia dasar keputusan yang jujur: apa yang sudah diukur, apa yang baru terlihat, siapa yang harus memeriksa, dan keputusan apa yang harus menunggu. Dengan aturan itu, format sederhana tetap berguna tanpa berpura-pura menggantikan desain dan persetujuan profesional.
+
+Untuk contoh konteks partisi bergerak, baca [referensi partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) dan [referensi partisi lipat Tuban](/partisi-lipat-tuban.html) sebagai bacaan lanjutan, bukan pengganti survei lokasi.

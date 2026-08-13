@@ -2,8 +2,9 @@
 article_id: PAR-14-04
 title: "Merencanakan Uji Akustik Lapangan untuk Partisi Terpasang"
 slug: "uji-akustik-lapangan-partisi"
-description: "Cover objective, method, room state, background, source and receiver, flanking, operator setup, report and disposition"
-status: outline
+description: "Panduan menyiapkan rencana uji akustik lapangan partisi: tujuan, kondisi ruang, sumber-penerima, jalur samping, laporan, dan keputusan tindak lanjut."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,60 +15,25 @@ reader_address: "Sobat Partisi.co.id"
 final_route: "/artikel/uji-akustik-lapangan-partisi.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
-  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
-  - "https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi"
-  - "https://peraturan.bpk.go.id/Details/37637/uu"
-  - "https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021"
-  - "https://www.bobrick.com/resource-center-2/guide-specifications/"
-  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
   - "https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000"
   - "https://www.iso.org/standard/79487.html"
-  - "https://store.astm.org/e0090-23.html"
   - "https://store.astm.org/e0336-24.html"
   - "https://store.astm.org/e0557-12r26.html"
-  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
-  - "https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000"
-  - "https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002"
-  - "https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide"
-  - "https://www.modernfold.com/en-US/products/operable-partitions"
-  - "https://pesta.bsn.go.id/produk/by_ics/126"
-  - "https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/"
-  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
+  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
+  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Merencanakan Uji Akustik Lapangan untuk Partisi Terpasang
 
-## Assignment lock
+Halo, Sobat Partisi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Merencanakan Uji Akustik Lapangan untuk Partisi Terpasang”
-- **Reader and situation:** Owner verifying installed sound separation
-- **Reader outcome:** Cover objective, method, room state, background, source and receiver, flanking, operator setup, report and disposition
-- **Primary intent:** Define a defensible field-test brief
-- **Reader community:** `Partisi.co.id`
-- **Primary friendly address:** `Sobat Partisi.co.id`
-- **Natural variants:** `Kawan Partisi.co.id` and `Teman Partisi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not promise laboratory equivalence; qualified acoustician owns test and interpretation
-- **Final public route:** `/artikel/uji-akustik-lapangan-partisi.html`
-- **Appointed CMS date:** `2026-04-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Meminta angka “kedap suara” setelah partisi terpasang terdengar sederhana, tetapi angka dari brosur atau uji laboratorium belum menjawab apakah dua ruang di proyek Anda benar-benar terpisah. Jalan suara bisa melewati sambungan, pintu, plafon, saluran udara (ducting), atau struktur di samping partisi. Karena itu, keputusan yang aman bukan langsung memilih alat atau mengejar satu angka, melainkan menyusun ringkasan rencana uji (brief) yang mengunci tujuan, pasangan ruang, kondisi ruang, dan cara membaca hasil.
 
-## Opening instructions
+Jawaban singkatnya adalah: tetapkan kriteria proyek dan pihak akustik yang berwenang menafsirkan, dokumentasikan kondisi ruang sebelum pengukuran, kendalikan sumber gangguan, lalu minta laporan yang memisahkan transmisi langsung dari jalur samping. Nilai lapangan tidak boleh diperlakukan sebagai padanan otomatis nilai laboratorium. [NEEDS PROJECT ACOUSTIC CRITERIA, ROOM PAIR, AND QUALIFIED ACOUSTICIAN TEST PLAN]
 
-- Open with the exact short salutation: **“Halo, Sobat Partisi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Merencanakan Uji Akustik Lapangan untuk Partisi Terpasang**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Partisi.co.id`, `Kawan Partisi.co.id`, or `Teman Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Artikel ini membantu pemilik menulis brief yang dapat dibandingkan dan diaudit. Anda akan menentukan apa yang diuji, bukti apa yang dikumpulkan, urutan koordinasi, titik berhenti, serta keputusan setelah laporan keluar. Pelaksanaan dan interpretasi tetap milik akustisi yang kompeten; panduan ini tidak menjanjikan kesetaraan laboratorium atau kelulusan sistem tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -78,159 +44,91 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pintu LIpat Semi Peredam 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Pintu LIpat Semi Peredam 1](/wp-content/uploads/2021/12/Pintu-LIpat-Semi-Peredam-1.png)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-### KR-01
+Sebelum masuk ke langkah, sepakati dulu bentuk hasil yang akan diterima. Jembatan ini penting agar “tes akustik” tidak berubah menjadi pengukuran tanpa keputusan atau perdebatan angka setelah pekerjaan selesai.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `dinding.partisi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
-- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+## Hasil uji akustik lapangan yang harus disepakati sejak awal
 
-### KR-19
+Hasil yang berguna bukan sekadar satu nilai. Brief harus meminta identitas ruang pengirim dan penerima, tanggal serta kondisi pengukuran, metode yang disetujui, data mentah atau ringkasan yang dapat ditelusuri, penyimpangan dari rencana, dan rekomendasi tindak lanjut (disposisi). Dengan format itu, pemilik dapat membedakan “data belum cukup”, “jalur samping dominan”, dan “kriteria tercapai”.
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Bobrick current HPL partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 metal-stud system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende), [dormakaba folding/sliding wall operating instructions](https://my.dormakaba.com/medias/059291-170724-fsw-easy-safe-c-c-plus-instr-use-en-web-pdf.pdf?context=bWFzdGVyfHJvb3R8NjA1NDA1MHxhcHBsaWNhdGlvbi9wZGZ8aGUyL2g0OC84OTYxMzc3NTAxMjE0LnBkZnxkMjExN2YyNzQyZTBkZWZkY2FmNDAzN2MyYTZjMzUzNzgxZDMxYTcwMTMyYjUzNjRhMTYyZTllNDEwZWY1MzJi)
-- **Purpose for this article:** Supply a reusable inspection-and-test-plan pattern without fabricating tolerances or a project method.
-- **Safe grounded facts:** Concealed items cannot be reliably verified after closure without records. Substitutions and deviations can invalidate structural, acoustic, fire, moisture, appearance, and warranty evidence. Commissioning must test intended function rather than visual completion alone.
-- **Limits:** Do not transplant manufacturer tolerances or steps to another system. The contractor, designer, supplier, and HSE/QA roles must approve project documents; resolve `G-05`, `G-07`, `G-09`, and `G-10`.
+Istilah **isolasi bunyi udara** berarti kemampuan pemisah mengurangi suara yang merambat melalui udara dari satu ruang ke ruang lain. Mekanismenya dinilai dari perbedaan tingkat suara antara ruang pengirim dan penerima setelah faktor ruang diperhitungkan; konsekuensinya, kebocoran kecil di pintu atau sambungan dapat menurunkan hasil keseluruhan. Minta akustisi menjelaskan besaran lapangan yang dipakai dan batas interpretasinya, bukan hanya menyalin STC (kelas transmisi suara) atau Rw (indeks pengurangan bunyi berbobot) dari katalog.
 
-### KR-21
+SNI 03-6386-2000 dapat menjadi rujukan rekomendasi desain, sedangkan ISO 10140-2 menjelaskan metode laboratorium untuk spesimen. ASTM E336-24 secara khusus membahas pengukuran lapangan antarruang. Perbedaan ruang lingkup itu adalah alasan mengapa brief perlu menuliskan metode yang dipilih dan tidak menyamakan hasil laboratorium dengan kondisi terpasang ([SNI 03-6386-2000](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2:2021](https://www.iso.org/standard/79487.html), [ASTM E336-24](https://store.astm.org/e0336-24.html)).
 
-- **Original sources:** [UU No. 2 Tahun 2017 status and scope — BPK](https://peraturan.bpk.go.id/Details/37637/uu), [PP No. 14 Tahun 2021 construction-services implementation — BPK](https://peraturan.bpk.go.id/Details/161844/pp-no-14-tahun-2021), [Bobrick guide-specification library](https://www.bobrick.com/resource-center-2/guide-specifications/), [Modernfold technical specification/submittal example](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true)
-- **Purpose for this article:** Make BOQs, quotes, vendor comparisons, variations, warranties, spares, and handover evidence comparable without inventing a legal contract template.
-- **Safe grounded facts:** Equal area or lowest lump sum does not mean equal scope. Comparability requires the same system/configuration, dimensions, materials/grades, framing/support, doors/hardware, finishes, performance evidence, access/logistics, demolition/disposal, protection, testing, exclusions, schedule, warranty, spares, and handover deliverables.
-- **Limits:** This is not legal advice, a public-procurement interpretation, or a complete contract. Current consolidated law, project conditions, commercial facts, tax, insurance, licensing, and legal review must resolve `G-10`.
+Kawan Partisi.co.id, tetapkan pertanyaan keputusan sebelum memanggil penguji: apakah hasil dipakai untuk penerimaan pekerjaan, diagnosis keluhan, pembandingan desain, atau penentuan perbaikan? Satu tujuan dapat memerlukan kondisi ruang dan kedalaman laporan yang berbeda.
 
-### KR-12
+Jembatan berikut mengubah tujuan tadi menjadi batas pekerjaan. Tanpa batas yang tegas, tim mudah mengira uji satu bidang partisi sekaligus membuktikan pintu, plafon, dan seluruh lantai.
 
-- **Original sources:** [SNI 03-6386-2000 acoustic design recommendation — BSN](https://pesta.bsn.go.id/produk/detail/5954-sni03-6386-2000), [ISO 10140-2:2021 airborne sound-insulation laboratory method](https://www.iso.org/standard/79487.html), [ASTM E90 scope and laboratory/field limits](https://store.astm.org/e0090-23.html), [ASTM E336-24 field measurement between rooms](https://store.astm.org/e0336-24.html)
-- **Purpose for this article:** Prevent STC/Rw or “soundproof” claims from a material, panel, or laboratory specimen being presented as installed room performance.
-- **Safe grounded facts:** Laboratory and field quantities are different. Perimeters, doors, seals, head voids, ceilings, ducts, penetrations, junctions, workmanship, and adjacent structure can reduce achieved isolation. A test method does not prove a specific product passed or that the installed room will match.
-- **Limits:** Obtain full standards, complete current test reports, project acoustic criteria, junction design, and field-test plan where required. Resolve `G-08`.
+## Langkah 1 — tetapkan ruang lingkup, pasangan ruang, dan batas jalur suara
 
-### KR-14
+Tuliskan identitas ruang pengirim serta penerima, bidang partisi yang menjadi objek, arah pengukuran, dan bagian yang berbagi struktur. Sertakan pintu, pintu akses di dalam panel (pass door), kaca, rongga di atas kepala partisi (head void), plafon, lantai, kolom, saluran udara (ducting), kabel, dan penetrasi yang berpotensi menjadi antarmuka. Jika ada partisi lipat atau dinding bergerak, catat posisi operasi, rel penuntun (track), kantong penyimpanan (pocket), karet penutup (seal), dan sisi kusen (jamb); sistem tersebut adalah kesatuan mekanis, bukan panel lepas ([ASTM E557-12(2026)](https://store.astm.org/e0557-12r26.html)).
 
-- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
-- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
-- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
-- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+**Jalur samping (flanking)** adalah lintasan suara yang mengelilingi bidang pemisah utama melalui sambungan atau elemen bangunan lain. Mekanismenya membuat partisi tampak utuh tetapi suara tetap menyeberang lewat plafon, lantai, dinding tegak lurus, atau penetrasi; akibatnya, menambal permukaan partisi saja bisa gagal. Minta brief memetakan antarmuka yang terlihat dan menyatakan elemen mana yang tidak termasuk pengujian.
 
-### KR-11
+Tentukan juga hal yang sengaja tidak dikerjakan: misalnya uji laboratorium, pembuktian rating kebakaran, audit jalur keluar darurat (egress), pembongkaran lapisan tertutup, atau penetapan solusi perbaikan. Jika klaim akustik bergantung pada sistem pintu atau seal tertentu, bukti produk dan konfigurasi aktual harus dicocokkan; angka panel saja tidak membuktikan kinerja ruang.
 
-- **Original sources:** [SNI 03-1746-2000 means of egress — BSN](https://pesta.bsn.go.id/produk/detail/2092-sni03-1746-2000), [SNI 03-6766-2002 fire-door test method — BSN](https://pesta.bsn.go.id/produk/detail/130-sni03-6766-2002), [ASSA ABLOY Lorient seal maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Modernfold operable-partition system overview](https://www.modernfold.com/en-US/products/operable-partitions)
-- **Purpose for this article:** Keep doors/pass doors, frames, backing, hinges, latches, seals, thresholds, and egress functions inside the partition-system analysis.
-- **Safe grounded facts:** Adding a door changes local framing, loads, clearances, operation, privacy, acoustic leakage, maintenance, and possibly egress/fire evidence. A rated wall claim does not automatically rate its door, frame, hardware, seals, glazing, or penetrations.
-- **Limits:** Full Indonesian requirements and the exact tested door/wall system are needed before egress or fire claims. Manufacturer intervals and chemicals apply only to named products; resolve `G-01`, `G-04`, `G-05`, and `G-09`.
+Sediakan sketsa berpenanda dan daftar asumsi. Bila gambar as-built belum menunjukkan sambungan atas atau penetrasi, tulis sebagai ketidakpastian, bukan sebagai kondisi “pasti tertutup”.
 
-### KR-20
+Untuk mengumpulkan pertanyaan awal, Anda dapat meninjau [halaman partisi lipat Yogyakarta](/partisi-lipat-yogyakarta.html) dan [halaman partisi lipat Tuban](/partisi-lipat-tuban.html) sebagai titik kontak konfigurasi. Keduanya bukan bukti hasil uji ruang; cocokkan selalu nama sistem, sambungan, dan kondisi aktual di proyek.
 
-- **Original sources:** [SNI 9038-3:2025 passive-system inspection/maintenance listing — BSN](https://pesta.bsn.go.id/produk/by_ics/126), [ASSA ABLOY Lorient maintenance guide](https://www.assaabloy.com/au/en/resources/general-information/warranties-and-guarantees/lorient-maintenance-guide), [Bobrick partition cleaning/maintenance resources](https://www.bobrick.com/resource-center-2/literature/cleaning-maintenance/), [US EPA moisture-control guidance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0)
-- **Purpose for this article:** Build safe post-handover baselines and diagnosis logic for cracks, looseness, corrosion, leaks, mold, delamination, scratched glass/panels, binding tracks, seal failure, and misaligned doors.
-- **Safe grounded facts:** A symptom can have several causes: movement, substrate/fixing failure, impact, water source, corrosion, incompatible cleaning, installation deviation, wear, or building-system interaction. Repeated cosmetic repair without finding the cause can conceal risk.
-- **Limits:** This file does not set universal intervals or authorize opening, glass repair, structural repair, fire-system alteration, mold remediation, or powered-wall servicing. Resolve `G-02`, `G-03`, `G-05`, `G-09`, `G-11`, and `G-12`.
+Sebelum alat datang, fokus berpindah dari “apa yang diuji” ke “bukti apa yang membuat hasil dapat dipercaya”. Jembatan ini mencegah pengukuran di ruang yang belum siap lalu diulang tanpa tahu penyebab perbedaannya.
 
-## Evidence gates
+## Langkah 2 — kumpulkan dan cocokkan bukti desain, pemasangan, dan kondisi ruang
 
-- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims.
+Kumpulkan gambar kondisi terbangun (as-built), spesifikasi sistem, dokumen pengajuan teknis (submittal), perubahan lapangan, foto sebelum penutupan, catatan penetrasi, serta identitas pintu dan perangkat keras (hardware). Instruksi pemasangan Bobrick dan sistem rangka logam (metal-stud) Knauf menunjukkan mengapa komponen tersembunyi perlu direkam sebelum tertutup; dokumen tersebut bukan izin untuk memindahkan toleransi atau langkahnya ke sistem lain ([Bobrick installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Knauf W11 system hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Periksa kecocokan antara dokumen dan kondisi aktual: tipe panel, rangka, sambungan, pintu, seal, plafon, dan penetrasi. Catat setiap substitusi atau deviasi bersama lokasinya. Perbedaan itu dapat mengubah jalur suara dan membatasi arti laporan, sehingga harus terlihat oleh penguji dan pemilik sebelum pengukuran.
 
-## Internal-link plan
+Kondisikan ruang sesuai keadaan yang hendak dinilai. Catat apakah pintu tertutup dan terkunci, apakah partisi bergerak sudah pada posisi operasi yang ditetapkan, apakah furnitur atau peralatan tetap berada di ruang, serta pekerjaan lain yang masih menimbulkan debu, getaran, atau suara. Jangan mengubah keadaan hanya untuk mengejar angka tanpa menuliskan perubahan tersebut.
 
-### Existing local routes
+Buat lembar kesiapan dengan kolom “tersedia”, “belum tersedia”, dan “perlu keputusan”. Isinya sekurang-kurangnya kriteria proyek, pasangan ruang, denah, riwayat perubahan, kondisi operasi partisi, sumber gangguan, dan kontak penanggung jawab. Bila satu item utama belum ada, tahan penjadwalan dan tandai [NEEDS DOCUMENT REVIEW] pada brief.
 
-- `/partisi-lipat-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-tuban` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/partisi-lipat-ternate` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Jembatan ini membawa bukti menjadi urutan kerja. Urutan yang jelas mengurangi risiko sumber suara dipasang sebelum ruang siap atau penerima terganggu oleh aktivitas yang tidak dicatat.
 
-### Planned sibling articles
+## Langkah 3 — susun urutan sumber, penerima, latar belakang, dan observasi
 
-These are future routes. Do not link them as live until their HTML exists.
+Mulai dengan rapat singkat antara pemilik, kontraktor, pengelola gedung, dan akustisi untuk mengesahkan metode. **Sumber** adalah sisi atau perangkat yang menghasilkan sinyal uji; **penerima** adalah ruang dan titik tempat respons diukur. **Latar belakang** berarti suara yang sudah ada tanpa sinyal uji, misalnya aktivitas gedung atau mesin. Mekanismenya sederhana: bila latar belakang terlalu berubah, selisih antara pengirim dan penerima tidak lagi mewakili partisi; konsekuensinya, hasil bisa tidak stabil. Akustisi harus menentukan cara mengendalikan dan melaporkannya.
 
-- `PAR-14-02` → `/artikel/pemeriksaan-fungsi-partisi-saat-commissioning.html` — Memeriksa Alignment, Gerak, Lock, dan Seal saat Commissioning
-- `PAR-14-03` → `/artikel/commissioning-pass-door-partisi.html` — Commissioning Pass Door di Dalam Panel Partisi
-- `PAR-14-05` → `/artikel/dokumen-handover-partisi.html` — Dokumen Handover Partisi: As-Built, Manual, Spares, dan Warranty
-- `PAR-14-06` → `/artikel/bukti-fire-dan-accessibility-saat-handover.html` — Menerima Klaim Fire atau Accessibility pada Handover
+Urutan konseptual yang aman adalah: dokumentasikan ruang, ukur atau catat latar belakang, siapkan sumber dan posisi penerima sesuai metode yang disetujui, lakukan pengukuran berulang yang diwajibkan penguji, lalu simpan kondisi serta penyimpangannya. Detail posisi mikrofon, sinyal, kalibrasi, dan jumlah pengulangan bukan angka yang boleh ditebak dari artikel ini; semuanya harus berasal dari metode dan rencana penguji.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jadwalkan waktu ketika operasi gedung dapat diidentifikasi. Catat hujan, pekerjaan mekanikal, lalu lintas, alarm, atau percakapan yang masuk selama sesi. Jika gangguan mengubah kondisi secara material, minta akustisi menyatakan apakah sesi dilanjutkan, diulang, atau diberi status terbatas.
 
-## Hasil akhir dan prasyarat
+Untuk partisi operabel, dokumentasikan siapa yang mengoperasikan, posisi panel, kondisi seal, dan apakah pintu atau pass door berfungsi sebagaimana desain. Catatan operasi dan pelatihan pengguna membantu memisahkan masalah pengoperasian dari masalah pemisah ruang. Jika catatan itu tidak tersedia, nyatakan keterbatasannya dalam laporan.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Merencanakan Uji Akustik Lapangan untuk Partisi Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum menyatakan sesi selesai, cocokkan catatan operator, waktu, konfigurasi, dan gangguan dengan lembar kesiapan. Inilah titik untuk meminta klarifikasi, bukan menunggu sampai angka diperdebatkan.
 
-## Langkah 1 — tetapkan scope
+Setelah urutan lapangan jelas, pembaca membutuhkan aturan berhenti. Jembatan ini menjadikan ketidakpastian sebagai keputusan formal, bukan catatan kaki yang hilang.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Merencanakan Uji Akustik Lapangan untuk Partisi Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Titik berhenti: kapan uji harus berhenti dan meminta peninjauan
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Hentikan atau tunda sesi bila pasangan ruang berubah, partisi belum pada konfigurasi yang disepakati, pintu atau seal tidak dapat ditutup normal, pekerjaan bising tidak terkendali, atau identitas sistem berbeda dari dokumen. Jangan membuka lapisan tertutup atau mengubah penetrasi untuk “mencari kebocoran” tanpa otorisasi desain, keselamatan, dan penjaminan mutu (QA).
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Merencanakan Uji Akustik Lapangan untuk Partisi Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Minta review akustisi bila hasil menunjukkan penyimpangan besar, jalur samping diduga dominan, atau data tidak memenuhi kondisi metode. Minta pula review teknis bila ada klaim rating, kebakaran, jalur keluar darurat (egress), atau garansi (warranty) yang hendak ditarik dari hasil akustik; bidang-bidang itu membutuhkan bukti dan penanggung jawab yang berbeda.
 
-## Langkah 3 — jalankan urutan kerja
+Tandai [NEEDS QUALIFIED ACOUSTICIAN INTERPRETATION] apabila kriteria penerimaan, koreksi ruang, atau disposisi belum disahkan. Penanda ini menjaga agar angka sementara tidak berubah menjadi instruksi perbaikan atau keputusan serah terima.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Merencanakan Uji Akustik Lapangan untuk Partisi Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jembatan terakhir berfokus pada cara laporan dipakai. Laporan yang rapi membantu tim memilih tindakan; laporan yang hanya memberi angka mendorong tebakan penyebab.
 
-## Hold point dan kondisi berhenti
+## Verifikasi hasil, laporan, dan keputusan serah terima
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Merencanakan Uji Akustik Lapangan untuk Partisi Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Minta laporan memuat tujuan, identitas ruang, konfigurasi partisi, tanggal dan kondisi, metode serta batasannya, peralatan dan jejak kalibrasi yang dinyatakan penguji, data latar belakang, hasil, penyimpangan, dan interpretasi. Mintalah denah atau sketsa yang menandai sumber, penerima, pintu, penetrasi, dan jalur samping yang diamati. Jangan meminta format atau ambang yang tidak ada di kriteria proyek.
 
-## Verifikasi hasil dan handover
+Gunakan matriks disposisi sederhana:
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Merencanakan Uji Akustik Lapangan untuk Partisi Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Temuan | Keputusan sementara | Tindak lanjut |
+|---|---|---|
+| Data lengkap dan kondisi sesuai brief | Kirim untuk penerimaan sesuai kriteria proyek | Simpan laporan dan bukti konfigurasi |
+| Data terganggu atau kondisi berubah | Tahan keputusan | Klarifikasi atau jadwalkan ulang dengan akustisi |
+| Jalur samping atau deviasi terindikasi | Jangan menyalahkan panel secara otomatis | Inspeksi antarmuka dan review desain |
+| Kriteria belum disahkan | Tidak ada keputusan lulus/gagal | Sahkan kriteria dan penanggung jawab |
 
-## Objection or shortcut to address
+Simpan bersama laporan: brief yang disetujui, denah, foto kondisi, daftar perubahan, log gangguan, dan catatan siapa yang menyetujui disposisi. Serah terima (handover) yang baik menunjukkan apa yang benar-benar diuji dan apa yang masih menjadi pekerjaan terbuka.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Shortcut yang sering dipilih adalah menerima angka STC atau Rw dari brosur sebagai bukti partisi terpasang sudah memenuhi target. Angka tersebut dapat berasal dari spesimen laboratorium dengan sambungan dan kondisi yang tidak sama; ASTM E336 membahas pengukuran lapangan, sedangkan ISO 10140-2 membahas metode laboratorium. Kebocoran pada pintu, head void, atau struktur sekitar dapat mendominasi hasil, sehingga angka katalog tidak menjawab kondisi ruangan Anda. Alternatif yang lebih dapat dipertanggungjawabkan adalah mencantumkan angka katalog hanya sebagai data desain, lalu memesan uji lapangan dengan konfigurasi, kriteria, dan interpretasi yang disahkan.
 
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Partisi.co.id, tindakan berikutnya adalah mengirim brief satu halaman beserta denah, kriteria proyek, riwayat perubahan, dan daftar kondisi ruang kepada akustisi yang akan menguji. Minta ia mengonfirmasi metode, kesiapan, data yang akan dilaporkan, serta batas kesimpulan sebelum jadwal dikunci. Dengan cara itu, Anda merencanakan uji akustik lapangan untuk partisi terpasang sebagai keputusan berbasis bukti—bukan janji kesetaraan laboratorium atau pengganti review profesional.
